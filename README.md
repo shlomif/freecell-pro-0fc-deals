@@ -5,3 +5,6 @@ Finding zero freecells deals in the fc-pro range. The interesting file is
 it is intractable and the solver ran out of resources before determining
 its solvability. If a deal does not appear in the list and is below the latest
 one, then it is impossible.
+
+* [What are the MS Freecell deals?](http://fc-solve.shlomifish.org/faq.html#what_are_ms_deals)
+* [The Freecell FAQ](http://www.solitairelaboratory.com/fcfaq.html)
