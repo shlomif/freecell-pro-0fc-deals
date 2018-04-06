@@ -27,9 +27,20 @@ lg()
     pi-make-microsoft-freecell-board -t "$deal" | fc-solve -l lg --freecells-num 0 -sam -p -t -sel -mi 2000000 | verify-solitaire-solution --freecells-num 0
 }
 
-s 5430607 ; lg
-s 1214065 ; lg
-s 8011868 ; lg
-s 7432951 ; ab
+d()
+{
+    local mydeal="$1"
+    shift
+    s "$mydeal"
+    for method in "$@"
+    do
+        "$method"
+    done
+}
+
+d 1214065 lg
+d 5430607 lg
+d 7432951 ab
+d 8011868 lg
 # pi-make-microsoft-freecell-board -t 14994542 | fc-solve --freecells-num 0 -sam -p -t -sel -me random-dfs -to '[0AB]' -seed 9 -sp r:tf -mi 2000000 # | verify-solitaire-solution --freecells-num 0
 # pi-make-microsoft-freecell-board -t 5666087 | fc-solve -l tfts --freecells-num 0 -sam -p -t -sel -mi 2000000 | verify-solitaire-solution --freecells-num 0
