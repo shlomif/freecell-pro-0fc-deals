@@ -6,6 +6,9 @@
 all:
 	@echo "Makefile needs your attention"
 
+collect:
+	bash collect.bash
+
 check: test
 
 test:
