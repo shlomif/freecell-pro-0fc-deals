@@ -14,5 +14,13 @@ check: test
 test:
 	prove t/*.t
 
+total: collect test put diff
+
+put:
+	git add -u .
+
+diff:
+	git diff HEAD --stat
+
 # vim:ft=make
 #
