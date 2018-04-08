@@ -15,5 +15,10 @@ use Test::More tests => 2;
     my $NUMS = qq%< "$LOG_FN" $^X -lanE 'say \$F[-1]'%;
 
     # TEST
-    is( scalar(`$NUMS`), scalar(`$NUMS | sort -n -u`), "Lines are sorted.", );
+    is(
+        scalar(`$NUMS | $^X -lnE 'say \$last if \$last >= \$_; \$last = \$_;'`),
+        '', "Lines are sorted.",
+    );
+
+    # is( scalar(`$NUMS`), scalar(`$NUMS | sort -n -u`), "Lines are sorted.", );
 }
