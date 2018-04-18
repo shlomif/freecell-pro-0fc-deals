@@ -13,8 +13,4 @@ l=0fc-log.txt
         xargs cat |
         grep -vE '^(Start|End)'
 ) > "$l"
-for prefix in `seq 0 99`
-do
-    export P="$prefix"
-    perl -nalE 'BEGIN {$P=$ENV{P}; $s = $P*1e8; $e = ($P+1)*1e8 - 1; } say if $F[1] >= $s && $F[1] <= $e' < "$l" > "$(printf "0fc-logs/%02d.log.txt" "$prefix")"
-done
+perl -nalE 'BEGIN { sub f {$s = $P*1e8; $e = ($P+1)*1e8 - 1; $fn=(sprintf "0fc-logs/%02d.log.txt", $P); warn $fn; open $o, ">", $fn; } $P=0;f; } if ($F[1] >= $s && $F[1] <= $e) { $o->say($_); } else { ++$P;f;redo;} ; END { close$o;}' < "$l"
