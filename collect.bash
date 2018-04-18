@@ -13,4 +13,3 @@
         grep -vE '^(Start|End)'
 ) | \
 perl -nalE 'BEGIN { sub f {$s = $P*1e8; $e = ($P+1)*1e8 - 1; $fn=(sprintf "0fc-logs/%02d.log.txt", $P); warn $fn; open $o, ">", $fn; } $P=0;f; } if ($F[1] >= $s && $F[1] <= $e) { $o->say($_); } else { ++$P;f;redo;} ; END { close$o;}'
-cat 0fc-logs/*.log.txt > 0fc-log.txt

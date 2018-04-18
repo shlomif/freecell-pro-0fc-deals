@@ -6,12 +6,15 @@
 all:
 	@echo "Makefile needs your attention"
 
+0fc-log.txt: $(wildcard 0fc-logs/*.log.txt)
+	bash collect2.bash
+
 collect:
 	bash collect.bash
 
 check: test
 
-test:
+test: 0fc-log.txt
 	prove t/*.t
 
 total: collect test put diff
