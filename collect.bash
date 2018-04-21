@@ -8,7 +8,8 @@
 
 (
     cat ~/Backup/Arcs/0fc-log.txt
-    grep -El '^End' ~/progs/freecell/git/fc-solve/fc-solve/0fc-b/results/* |
+    grep -rEl '^End' ~/progs/freecell/git/fc-solve/fc-solve/0fc-b/results/ |
+        (LC_ALL=C sort) |
         xargs cat |
         grep -vE '^(Start|End)'
 ) | \
