@@ -1,9 +1,9 @@
 #! /bin/bash
 #
 # solve-more.bash
-# Copyright (C) 2018 shlomif <shlomif@telaviv1.shlomifish.org>
+# Copyright (C) 2018 shlomif <shlomif@cpan.org>
 #
-# Distributed under terms of the MIT license.
+# Distributed under the terms of the MIT license.
 #
 
 deal=1
@@ -51,5 +51,6 @@ d 351098357 lg
 d 459095946 lg
 d 513097572 ab
 d 1861387481 lg
+d 3639995818 ab
 # pi-make-microsoft-freecell-board -t 14994542 | fc-solve --freecells-num 0 -sam -p -t -sel -me random-dfs -to '[0AB]' -seed 9 -sp r:tf -mi 2000000 # | verify-solitaire-solution --freecells-num 0
 # pi-make-microsoft-freecell-board -t 5666087 | fc-solve -l tfts --freecells-num 0 -sam -p -t -sel -mi 2000000 | verify-solitaire-solution --freecells-num 0
