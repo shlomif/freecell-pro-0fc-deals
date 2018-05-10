@@ -7,7 +7,7 @@ all:
 	@echo "Makefile needs your attention"
 
 0fc-log.txt: $(wildcard 0fc-logs/*.log.txt)
-	bash collect2.bash
+	bash concatenate-to-big-log.bash
 
 collect:
 	bash collect.bash
