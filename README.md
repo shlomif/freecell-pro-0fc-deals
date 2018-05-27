@@ -9,6 +9,8 @@ one, then it is impossible.
 * [What are the MS Freecell deals?](http://fc-solve.shlomifish.org/faq.html#what_are_ms_deals)
 * [The Freecell FAQ](http://www.solitairelaboratory.com/fcfaq.html)
 
+# Credits
+
 ## GNU Parallel
 
 Generating the results here made use of
@@ -27,6 +29,18 @@ for it:
       url          = {https://doi.org/10.5281/zenodo.1146014}
 }
 ```
+
+## pypy
+
+We also made use of [pypy](http://pypy.org/) .
+
+## perl5
+
+We made use of [perl 5](https://dev.perl.org/perl5/) .
+
+## Freecell Solver
+
+We made use of [Freecell Solver](http://fc-solve.shlomifish.org/) .
 
 # Related repositories and links
 
