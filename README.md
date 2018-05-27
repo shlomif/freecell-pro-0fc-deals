@@ -8,3 +8,7 @@ one, then it is impossible.
 
 * [What are the MS Freecell deals?](http://fc-solve.shlomifish.org/faq.html#what_are_ms_deals)
 * [The Freecell FAQ](http://www.solitairelaboratory.com/fcfaq.html)
+
+# Related repositories and links
+
+* [Freecell Solver](https://github.com/shlomif/fc-solve) - the readme contains links to other repositories .
