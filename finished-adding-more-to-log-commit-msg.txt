@@ -1,0 +1,11 @@
+Finished adding to the log.
+
+Based on the run by this script:
+
+https://github.com/shlomif/fc-solve/blob/master/fc-solve/scripts/0fcpar.bash
+
+Find 0fc freecell deals in the freecell pro range :
+
+http://fc-solve.shlomifish.org/faq.html#what_are_ms_deals
+
+We reached the maximal ( (2 ** 33) - 1 ) seed.
