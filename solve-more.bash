@@ -23,13 +23,19 @@ _sol()
 ab()
 {
     echo "Trying deal = $deal using 0AB"
-    _sol -to 0AB -sp r:tf -mi 6000000
+    _sol -to 0AB -sp r:tf -mi 32000000
 }
 
 lg()
 {
     echo "Trying deal = $deal using lg"
-    _sol -l lg -mi 2000000 | verify-solitaire-solution --freecells-num 0
+    _sol -l lg -mi 4000000 2>/dev/null | verify-solitaire-solution --freecells-num 0
+}
+
+rand()
+{
+    echo "Trying deal = $deal using rand"
+    _sol -me random-dfs -seed "$seed" -to '[0AB]' -sp r:tf -mi 8000000 | verify-solitaire-solution --freecells-num 0
 }
 
 d()
@@ -37,12 +43,19 @@ d()
     local mydeal="$1"
     shift
     s "$mydeal"
+    local seed_s="$1"
+    if [[ "$seed_s" = 'seed='* ]]
+    then
+        shift
+        eval "$seed_s"
+    fi
     for method in "$@"
     do
         "$method"
     done
 }
 
+d 1861387481 seed=1 rand
 d 1214065 lg
 d 5430607 lg
 d 7432951 ab
@@ -50,7 +63,6 @@ d 8011868 lg
 d 351098357 lg
 d 459095946 lg
 d 513097572 ab
-d 1861387481 lg
 d 3639995818 ab
 # pi-make-microsoft-freecell-board -t 14994542 | fc-solve --freecells-num 0 -sam -p -t -sel -me random-dfs -to '[0AB]' -seed 9 -sp r:tf -mi 2000000 # | verify-solitaire-solution --freecells-num 0
 # pi-make-microsoft-freecell-board -t 5666087 | fc-solve -l tfts --freecells-num 0 -sam -p -t -sel -mi 2000000 | verify-solitaire-solution --freecells-num 0
