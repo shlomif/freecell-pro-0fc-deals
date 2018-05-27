@@ -55,7 +55,10 @@ d()
     done
 }
 
-d 1861387481 seed=1 rand
+d 883 ab
+d 1012 lg
+d 2508 lg
+d 5055 lg
 d 1214065 lg
 d 5430607 lg
 d 7432951 ab
@@ -63,6 +66,7 @@ d 8011868 lg
 d 351098357 lg
 d 459095946 lg
 d 513097572 ab
+d 1861387481 seed=1 rand
 d 3639995818 ab
 # pi-make-microsoft-freecell-board -t 14994542 | fc-solve --freecells-num 0 -sam -p -t -sel -me random-dfs -to '[0AB]' -seed 9 -sp r:tf -mi 2000000 # | verify-solitaire-solution --freecells-num 0
 # pi-make-microsoft-freecell-board -t 5666087 | fc-solve -l tfts --freecells-num 0 -sam -p -t -sel -mi 2000000 | verify-solitaire-solution --freecells-num 0
