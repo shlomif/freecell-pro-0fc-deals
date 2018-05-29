@@ -1,8 +1,6 @@
-Add more to the log.
+Add more to the -l lg scan log.
 
-Based on the run by this script:
-
-https://github.com/shlomif/fc-solve/blob/master/fc-solve/scripts/0fcpar.bash
+Based on the run by the solve-more-2.bash program.
 
 Find 0fc freecell deals in the freecell pro range :
 
