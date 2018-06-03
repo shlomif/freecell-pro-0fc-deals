@@ -8,7 +8,6 @@
 
 PATH="$HOME/progs/freecell/git/0fc-b:$PATH"
 out='0fc-log.lg.txt'
-list=ints0fc0.txt
 export START="$(tail-extract '^([0-9]+) = ' "$out")"
 pdir='lg-parts'
 mkdir -p "$pdir"
