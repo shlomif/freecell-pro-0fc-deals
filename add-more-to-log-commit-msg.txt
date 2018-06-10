@@ -5,3 +5,5 @@ Based on the run by the solve-more-2-v2.bash program.
 Find 0fc freecell deals in the freecell pro range :
 
 http://fc-solve.shlomifish.org/faq.html#what_are_ms_deals
+
+It is processed by compress-summary-fc-solve-log.py .
