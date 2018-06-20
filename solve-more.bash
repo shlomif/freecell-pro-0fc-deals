@@ -56,9 +56,11 @@ d()
 }
 
 d 883 ab
-d 1012 lg
-d 2508 lg
-d 5055 lg
+d 11747 ab
+d 19023 ab
+d 27962 ab
+d 31975 ab
+exit
 d 1214065 lg
 d 5430607 lg
 d 7432951 ab
