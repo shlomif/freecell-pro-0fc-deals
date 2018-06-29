@@ -1,7 +1,5 @@
 #! /usr/bin/env perl
 #
-# Short description for apply-lg-log.pl
-#
 # Author Shlomi Fish <shlomif@cpan.org>
 use strict;
 use warnings;
@@ -19,5 +17,14 @@ BEGIN
         $sol{$1} = 1;
         #egms;
 }
-s/Int/S/ if /\AInt\t([0-9]+)\n\z/ && exists $sol{$1};
-$_ = '' if /\AInt\t([0-9]+)\n\z/ && exists $imp{$1};
+if ( my ($n) = /\AInt\t([0-9]+)\n\z/ )
+{
+    if ( exists $sol{$n} )
+    {
+        s/Int/S/;
+    }
+    elsif ( exists $imp{$n} )
+    {
+        $_ = '';
+    }
+}
