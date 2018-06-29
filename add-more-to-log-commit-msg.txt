@@ -1,9 +1,9 @@
-Add more to the -l lg scan log.
+Add more results using the solve-more-3.bash log.
 
-Based on the run by the solve-more-2-v2.bash program.
+Based on the run by the solve-more-3.bash program and the 0ab preset/scan.
 
 Find 0fc freecell deals in the freecell pro range :
 
 http://fc-solve.shlomifish.org/faq.html#what_are_ms_deals
 
-It is processed by compress-summary-fc-solve-log.py .
+It is processed using << perl -p -i apply-solve-more-3-log.pl 0fc-logs/*.txt >>
