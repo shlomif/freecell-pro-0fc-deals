@@ -20,4 +20,4 @@ BEGIN
         #egms;
 }
 s/Int/S/ if /\AInt\t([0-9]+)\n\z/ && exists $sol{$1};
-$_='' if /\AInt\t([0-9]+)\n\z/ && exists $imp{$1};
+$_ = '' if /\AInt\t([0-9]+)\n\z/ && exists $imp{$1};
