@@ -26,6 +26,12 @@ ab()
     _sol -to 0AB -sp r:tf -mi 32000000
 }
 
+ab_tail()
+{
+    echo "Trying deal = $deal using 0AB"
+    _sol -to 0AB -sp r:tf -mi 32000000 | tail -3
+}
+
 lg()
 {
     echo "Trying deal = $deal using lg"
@@ -59,9 +65,11 @@ d()
 # d 96924 ab
 # d 99673 ab
 # d 100260 ab
-< 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/' | \
+out='solve-more-3-log.txt'
+export START="$(tail-extract '^Trying deal = ([0-9]+)' "$out")"
+< 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 >= $ENV{START}' | \
     (while read deal
     do
-        d "$deal" ab
+        d "$deal" ab_tail
     done) 2>&1 | \
-    tee -a solve-more-3-log.txt
+    tee -a "$out"
