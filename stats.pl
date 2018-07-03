@@ -10,6 +10,15 @@ while ( my $l = <> )
     my @f = split /\t/, $l;
     ++$stats{ $f[0] };
 }
-print "Solved: $stats{S}\nIntractable: $stats{Int}\nImpossible: ",
-    ( ( 1 << 33 ) - 1 - sum values %stats ), "\n";
-
+my $tot    = ( 1 << 33 ) - 1;
+my $remain = $tot - sum values %stats;
+$stats{Imp} = $remain;
+foreach my $rec ( [ 'Solved', 'S' ], [ 'Intractable', 'Int' ],
+    [ 'Impossible', 'Imp' ] )
+{
+    my ( $txt, $key ) = @$rec;
+    my $val   = $stats{$key};
+    my $ratio = $val / $tot;
+    my $pct   = 100 * $ratio;
+    printf "%s: %d ( %.2f %%)\n", $txt, $val, $pct;
+}
