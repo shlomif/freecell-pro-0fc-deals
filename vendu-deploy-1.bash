@@ -12,6 +12,7 @@ set -x
 base="`pwd`"
 shlomif_set="$base/shlomif-computer-settings"
 fcs_repo="$base/fc-solve"
+export MAX_ITERS='32000000'
 
 if ! test -e "$shlomif_set"
 then
@@ -39,6 +40,8 @@ then
     make install
 fi
 
-PATH="$PATH:$fcs_i/bin"
+PATH="$fcs_i/bin:$PATH"
 
+make 0fc-log.txt
 
+bash solve-more-3.bash

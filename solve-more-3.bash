@@ -6,6 +6,8 @@
 # Distributed under the terms of the MIT license.
 #
 
+export MAX_ITERS="${MAX_ITERS:-32000000}"
+
 deal=1
 s()
 {
@@ -23,13 +25,13 @@ _sol()
 ab()
 {
     echo "Trying deal = $deal using 0AB"
-    _sol -to 0AB -sp r:tf -mi 32000000
+    _sol -to 0AB -sp r:tf -mi "$MAX_ITERS"
 }
 
 ab_tail()
 {
     echo "Trying deal = $deal using 0AB"
-    _sol -to 0AB -sp r:tf -mi 32000000 | tail -3
+    _sol -to 0AB -sp r:tf -mi "$MAX_ITERS" | tail -3
 }
 
 lg()
