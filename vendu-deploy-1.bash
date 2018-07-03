@@ -38,6 +38,7 @@ then
     "$fcs_src/Tatzer" -l zerofc --prefix="$fcs_i"
     make
     make install
+    cd "$base"
 fi
 
 PATH="$fcs_i/bin:$PATH"
