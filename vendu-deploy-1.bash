@@ -12,7 +12,7 @@ set -x
 base="`pwd`"
 shlomif_set="$base/shlomif-computer-settings"
 fcs_repo="$base/fc-solve"
-export MAX_ITERS='32000000'
+export MAX_ITERS='3200000'
 
 if ! test -e "$shlomif_set"
 then
@@ -35,7 +35,7 @@ mkdir -p "$fcs_b"
 if ! test -e "$fcs_i"
 then
     cd "$fcs_b"
-    "$fcs_src/Tatzer" -l zerofc --prefix="$fcs_i"
+    "$fcs_src/Tatzer" --prefix="$fcs_i"
     make
     make install
     cd "$base"

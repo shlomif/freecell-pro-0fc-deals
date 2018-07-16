@@ -19,7 +19,7 @@ s()
 
 _sol()
 {
-    pi-make-microsoft-freecell-board -t "$deal" | fc-solve --freecells-num 0 -sam -p -t -sel "$@"
+    pi-make-microsoft-freecell-board -t "$deal" | $fcs_wrapper fc-solve --freecells-num 0 -sam -p -t -sel "$@"
 }
 
 ab()

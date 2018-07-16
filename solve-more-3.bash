@@ -5,7 +5,7 @@
 #
 # Distributed under the terms of the MIT license.
 #
-
+fcs_wrapper='valgrind '
 . solve_common.bash
 
 # d 58844 ab
