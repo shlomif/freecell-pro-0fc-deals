@@ -35,7 +35,7 @@ mkdir -p "$fcs_b"
 if ! test -e "$fcs_i"
 then
     cd "$fcs_b"
-    "$fcs_src/Tatzer" --prefix="$fcs_i"
+    "$fcs_src/Tatzer" --notest-suite --prefix="$fcs_i"
     make
     make install
     cd "$base"
