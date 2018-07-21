@@ -7,7 +7,6 @@ use Path::Tiny qw/ path /;
 
 use vars qw/ %sol %imp /;
 
-BEGIN
 {
     my $buf = path("solve-more-3-log.txt")->slurp_utf8;
     $buf =~ s#Trying deal = ([0-9]+) using 0AB\n\n?I could not solve this game.#
@@ -47,14 +46,23 @@ LIN:
         }
     }
 }
-if ( my ($n) = /\AInt\t([0-9]+)\n\z/ )
+
+foreach my $fh ( path('./0fc-logs/')->children(qr/\.log\.txt\z/) )
 {
-    if ( exists $sol{$n} )
-    {
-        s/Int/S/;
-    }
-    elsif ( exists $imp{$n} )
-    {
-        $_ = '';
-    }
+    $fh->edit_lines_utf8(
+        sub {
+            if ( my ($n) = /\AInt\t([0-9]+)\n\z/ )
+            {
+                if ( exists $sol{$n} )
+                {
+                    s/Int/S/;
+                }
+                elsif ( exists $imp{$n} )
+                {
+                    $_ = '';
+                }
+            }
+            return;
+        },
+    );
 }
