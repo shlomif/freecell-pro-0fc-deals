@@ -5049,3 +5049,3173 @@ I could not solve this game.
 Total number of states checked is 7885640.
 Trying deal = 15337533
 Trying deal = 15337533 using 0AB
+Trying deal = 15337533
+Trying deal = 15337533 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 39450160 ; Time: 1532168793.116057
+>>>Queue Stats: inserted=39450160 items_in_queue=7450160 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15342732
+Trying deal = 15342732 using dbm
+Column 5 -> Column 7
+--------
+
+==
+Column 5 -> Column 4
+--------
+
+==
+END
+handle_and_destroy_instance_solution end
+Trying deal = 15343343
+Trying deal = 15343343 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 8738351 ; States-in-collection: 8738351 ; Time: 1532168937.958843
+>>>Queue Stats: inserted=8738351 items_in_queue=0 extracted=8738351
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15372444
+Trying deal = 15372444 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2997274 ; States-in-collection: 2997274 ; Time: 1532168950.061701
+>>>Queue Stats: inserted=2997274 items_in_queue=0 extracted=2997274
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15373128
+Trying deal = 15373128 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 60898391 ; Time: 1532169409.148708
+>>>Queue Stats: inserted=60898391 items_in_queue=28898391 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15411141
+Trying deal = 15411141 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2163523 ; States-in-collection: 2163523 ; Time: 1532169421.304425
+>>>Queue Stats: inserted=2163523 items_in_queue=0 extracted=2163523
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15415321
+Trying deal = 15415321 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 6987197 ; States-in-collection: 6987197 ; Time: 1532169459.131534
+>>>Queue Stats: inserted=6987197 items_in_queue=0 extracted=6987197
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15426350
+Trying deal = 15426350 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 35334017 ; Time: 1532169664.875624
+>>>Queue Stats: inserted=35334017 items_in_queue=3334017 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15444255
+Trying deal = 15444255 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 15576151 ; States-in-collection: 15576151 ; Time: 1532169748.731208
+>>>Queue Stats: inserted=15576151 items_in_queue=0 extracted=15576151
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15456664
+Trying deal = 15456664 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 21193966 ; States-in-collection: 21193966 ; Time: 1532169881.600262
+>>>Queue Stats: inserted=21193966 items_in_queue=0 extracted=21193966
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15476863
+Trying deal = 15476863 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 35939310 ; Time: 1532170101.932386
+>>>Queue Stats: inserted=35939310 items_in_queue=3939310 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15481995
+Trying deal = 15481995 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 42568959 ; Time: 1532170410.898545
+>>>Queue Stats: inserted=42568959 items_in_queue=10568959 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15490741
+Trying deal = 15490741 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 44106825 ; Time: 1532170666.657444
+>>>Queue Stats: inserted=44106825 items_in_queue=12106825 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15504398
+Trying deal = 15504398 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 14587919 ; States-in-collection: 14587919 ; Time: 1532170737.195433
+>>>Queue Stats: inserted=14587919 items_in_queue=0 extracted=14587919
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15513054
+Trying deal = 15513054 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2182442 ; States-in-collection: 2182442 ; Time: 1532170746.323048
+>>>Queue Stats: inserted=2182442 items_in_queue=0 extracted=2182442
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15515170
+Trying deal = 15515170 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 8203949 ; States-in-collection: 8203949 ; Time: 1532170792.251656
+>>>Queue Stats: inserted=8203949 items_in_queue=0 extracted=8203949
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15522812
+Trying deal = 15522812 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 36501865 ; Time: 1532171007.430164
+>>>Queue Stats: inserted=36501865 items_in_queue=4501865 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15547339
+Trying deal = 15547339 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 37269486 ; Time: 1532171247.821408
+>>>Queue Stats: inserted=37269486 items_in_queue=5269486 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15550333
+Trying deal = 15550333 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2207760 ; States-in-collection: 2207760 ; Time: 1532171258.108577
+>>>Queue Stats: inserted=2207760 items_in_queue=0 extracted=2207760
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15561529
+Trying deal = 15561529 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 18078120 ; States-in-collection: 18078120 ; Time: 1532171378.195645
+>>>Queue Stats: inserted=18078120 items_in_queue=0 extracted=18078120
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15564710
+Trying deal = 15564710 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 11553202 ; States-in-collection: 11553202 ; Time: 1532171456.561562
+>>>Queue Stats: inserted=11553202 items_in_queue=0 extracted=11553202
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15566135
+Trying deal = 15566135 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 6895119 ; States-in-collection: 6895119 ; Time: 1532171502.255947
+>>>Queue Stats: inserted=6895119 items_in_queue=0 extracted=6895119
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15588007
+Trying deal = 15588007 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 36508110 ; Time: 1532171729.110669
+>>>Queue Stats: inserted=36508110 items_in_queue=4508110 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15605406
+Trying deal = 15605406 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 27482570 ; States-in-collection: 27482570 ; Time: 1532171906.321911
+>>>Queue Stats: inserted=27482570 items_in_queue=0 extracted=27482570
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15612052
+Trying deal = 15612052 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7586170 ; States-in-collection: 7586170 ; Time: 1532171947.535826
+>>>Queue Stats: inserted=7586170 items_in_queue=0 extracted=7586170
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15618259
+Trying deal = 15618259 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 41102301 ; Time: 1532172253.889115
+>>>Queue Stats: inserted=41102301 items_in_queue=9102301 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15618420
+Trying deal = 15618420 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3467462 ; States-in-collection: 3467462 ; Time: 1532172268.178676
+>>>Queue Stats: inserted=3467462 items_in_queue=0 extracted=3467462
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15640357
+Trying deal = 15640357 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2551726 ; States-in-collection: 2551726 ; Time: 1532172277.948819
+>>>Queue Stats: inserted=2551726 items_in_queue=0 extracted=2551726
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15646572
+Trying deal = 15646572 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7221076 ; States-in-collection: 7221076 ; Time: 1532172324.151995
+>>>Queue Stats: inserted=7221076 items_in_queue=0 extracted=7221076
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15658652
+Trying deal = 15658652 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 33873742 ; Time: 1532172587.637015
+>>>Queue Stats: inserted=33873742 items_in_queue=1873742 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15667785
+Trying deal = 15667785 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 1882439 ; States-in-collection: 1882439 ; Time: 1532172595.375485
+>>>Queue Stats: inserted=1882439 items_in_queue=0 extracted=1882439
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15669175
+Trying deal = 15669175 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 45366536 ; Time: 1532172842.415033
+>>>Queue Stats: inserted=45366536 items_in_queue=13366536 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15675772
+Trying deal = 15675772 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7332128 ; States-in-collection: 7332128 ; Time: 1532172880.257631
+>>>Queue Stats: inserted=7332128 items_in_queue=0 extracted=7332128
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15683524
+Trying deal = 15683524 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 32332862 ; Time: 1532173116.183454
+>>>Queue Stats: inserted=32332862 items_in_queue=332862 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15723265
+Trying deal = 15723265 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 11002638 ; States-in-collection: 11002638 ; Time: 1532173171.825311
+>>>Queue Stats: inserted=11002638 items_in_queue=0 extracted=11002638
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15725118
+Trying deal = 15725118 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4287683 ; States-in-collection: 4287683 ; Time: 1532173196.272967
+>>>Queue Stats: inserted=4287683 items_in_queue=0 extracted=4287683
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15732705
+Trying deal = 15732705 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 32567235 ; Time: 1532173425.848658
+>>>Queue Stats: inserted=32567235 items_in_queue=567235 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15744859
+Trying deal = 15744859 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3127788 ; States-in-collection: 3127788 ; Time: 1532173439.646447
+>>>Queue Stats: inserted=3127788 items_in_queue=0 extracted=3127788
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15756895
+Trying deal = 15756895 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2373556 ; States-in-collection: 2373556 ; Time: 1532173448.689353
+>>>Queue Stats: inserted=2373556 items_in_queue=0 extracted=2373556
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15763686
+Trying deal = 15763686 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2320714 ; States-in-collection: 2320714 ; Time: 1532173457.908370
+>>>Queue Stats: inserted=2320714 items_in_queue=0 extracted=2320714
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15764513
+Trying deal = 15764513 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 10450953 ; States-in-collection: 10450953 ; Time: 1532173528.176227
+>>>Queue Stats: inserted=10450953 items_in_queue=0 extracted=10450953
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15770759
+Trying deal = 15770759 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2416782 ; States-in-collection: 2416782 ; Time: 1532173538.808384
+>>>Queue Stats: inserted=2416782 items_in_queue=0 extracted=2416782
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15772979
+Trying deal = 15772979 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2766404 ; States-in-collection: 2766404 ; Time: 1532173550.746728
+>>>Queue Stats: inserted=2766404 items_in_queue=0 extracted=2766404
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15786567
+Trying deal = 15786567 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 33223475 ; Time: 1532173824.308420
+>>>Queue Stats: inserted=33223475 items_in_queue=1223475 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15814934
+Trying deal = 15814934 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 9880746 ; States-in-collection: 9880746 ; Time: 1532173882.687844
+>>>Queue Stats: inserted=9880746 items_in_queue=0 extracted=9880746
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15845580
+Trying deal = 15845580 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 9067361 ; States-in-collection: 9067361 ; Time: 1532173940.667898
+>>>Queue Stats: inserted=9067361 items_in_queue=0 extracted=9067361
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15857201
+Trying deal = 15857201 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 5373230 ; States-in-collection: 5373230 ; Time: 1532173961.665341
+>>>Queue Stats: inserted=5373230 items_in_queue=0 extracted=5373230
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15871821
+Trying deal = 15871821 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 5489099 ; States-in-collection: 5489099 ; Time: 1532173990.526000
+>>>Queue Stats: inserted=5489099 items_in_queue=0 extracted=5489099
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15884739
+Trying deal = 15884739 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 38688923 ; Time: 1532174243.064320
+>>>Queue Stats: inserted=38688923 items_in_queue=6688923 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15886157
+Trying deal = 15886157 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 39796808 ; Time: 1532174505.772420
+>>>Queue Stats: inserted=39796808 items_in_queue=7796808 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15888129
+Trying deal = 15888129 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2509298 ; States-in-collection: 2509298 ; Time: 1532174515.444340
+>>>Queue Stats: inserted=2509298 items_in_queue=0 extracted=2509298
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15898002
+Trying deal = 15898002 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 32965864 ; Time: 1532174746.429331
+>>>Queue Stats: inserted=32965864 items_in_queue=965864 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15900829
+Trying deal = 15900829 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 9689195 ; States-in-collection: 9689195 ; Time: 1532174800.965919
+>>>Queue Stats: inserted=9689195 items_in_queue=0 extracted=9689195
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15904996
+Trying deal = 15904996 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 6586401 ; States-in-collection: 6586401 ; Time: 1532174833.650863
+>>>Queue Stats: inserted=6586401 items_in_queue=0 extracted=6586401
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15912487
+Trying deal = 15912487 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3172935 ; States-in-collection: 3172935 ; Time: 1532174846.105214
+>>>Queue Stats: inserted=3172935 items_in_queue=0 extracted=3172935
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15922333
+Trying deal = 15922333 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 8696299 ; States-in-collection: 8696299 ; Time: 1532174891.929110
+>>>Queue Stats: inserted=8696299 items_in_queue=0 extracted=8696299
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15924837
+Trying deal = 15924837 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 35873371 ; Time: 1532175184.887306
+>>>Queue Stats: inserted=35873371 items_in_queue=3873371 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15925592
+Trying deal = 15925592 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 12269162 ; States-in-collection: 12269162 ; Time: 1532175257.259086
+>>>Queue Stats: inserted=12269162 items_in_queue=0 extracted=12269162
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15934473
+Trying deal = 15934473 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 35240618 ; Time: 1532175492.675482
+>>>Queue Stats: inserted=35240618 items_in_queue=3240618 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15954962
+Trying deal = 15954962 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 42118786 ; Time: 1532175796.582467
+>>>Queue Stats: inserted=42118786 items_in_queue=10118786 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 15956293
+Trying deal = 15956293 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7398530 ; States-in-collection: 7398530 ; Time: 1532175834.164055
+>>>Queue Stats: inserted=7398530 items_in_queue=0 extracted=7398530
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15989634
+Trying deal = 15989634 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2448087 ; States-in-collection: 2448087 ; Time: 1532175844.078497
+>>>Queue Stats: inserted=2448087 items_in_queue=0 extracted=2448087
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 15990450
+Trying deal = 15990450 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 34151308 ; Time: 1532176050.861862
+>>>Queue Stats: inserted=34151308 items_in_queue=2151308 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16016359
+Trying deal = 16016359 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7219368 ; States-in-collection: 7219368 ; Time: 1532176081.595961
+>>>Queue Stats: inserted=7219368 items_in_queue=0 extracted=7219368
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16024969
+Trying deal = 16024969 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2082794 ; States-in-collection: 2082794 ; Time: 1532176090.766565
+>>>Queue Stats: inserted=2082794 items_in_queue=0 extracted=2082794
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16029306
+Trying deal = 16029306 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 33124235 ; Time: 1532176287.096175
+>>>Queue Stats: inserted=33124235 items_in_queue=1124235 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16031400
+Trying deal = 16031400 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4528930 ; States-in-collection: 4528930 ; Time: 1532176308.225862
+>>>Queue Stats: inserted=4528930 items_in_queue=0 extracted=4528930
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16042814
+Trying deal = 16042814 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 38385411 ; Time: 1532176574.038331
+>>>Queue Stats: inserted=38385411 items_in_queue=6385411 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16042944
+Trying deal = 16042944 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2072369 ; States-in-collection: 2072369 ; Time: 1532176584.509023
+>>>Queue Stats: inserted=2072369 items_in_queue=0 extracted=2072369
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16060716
+Trying deal = 16060716 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4642441 ; States-in-collection: 4642441 ; Time: 1532176606.268536
+>>>Queue Stats: inserted=4642441 items_in_queue=0 extracted=4642441
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16082575
+Trying deal = 16082575 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 32980818 ; Time: 1532176835.706844
+>>>Queue Stats: inserted=32980818 items_in_queue=980818 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16092511
+Trying deal = 16092511 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 38202245 ; Time: 1532177082.384198
+>>>Queue Stats: inserted=38202245 items_in_queue=6202245 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16094829
+Trying deal = 16094829 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 5890819 ; States-in-collection: 5890819 ; Time: 1532177109.654546
+>>>Queue Stats: inserted=5890819 items_in_queue=0 extracted=5890819
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16106915
+Trying deal = 16106915 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 1925065 ; States-in-collection: 1925065 ; Time: 1532177116.374743
+>>>Queue Stats: inserted=1925065 items_in_queue=0 extracted=1925065
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16118619
+Trying deal = 16118619 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2448373 ; States-in-collection: 2448373 ; Time: 1532177127.702937
+>>>Queue Stats: inserted=2448373 items_in_queue=0 extracted=2448373
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16132529
+Trying deal = 16132529 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4022744 ; States-in-collection: 4022744 ; Time: 1532177149.543916
+>>>Queue Stats: inserted=4022744 items_in_queue=0 extracted=4022744
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16160363
+Trying deal = 16160363 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3147602 ; States-in-collection: 3147602 ; Time: 1532177164.714380
+>>>Queue Stats: inserted=3147602 items_in_queue=0 extracted=3147602
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16161524
+Trying deal = 16161524 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 5928764 ; States-in-collection: 5928764 ; Time: 1532177193.713143
+>>>Queue Stats: inserted=5928764 items_in_queue=0 extracted=5928764
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16165149
+Trying deal = 16165149 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 5518070 ; States-in-collection: 5518070 ; Time: 1532177225.913342
+>>>Queue Stats: inserted=5518070 items_in_queue=0 extracted=5518070
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16177637
+Trying deal = 16177637 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2376803 ; States-in-collection: 2376803 ; Time: 1532177235.781612
+>>>Queue Stats: inserted=2376803 items_in_queue=0 extracted=2376803
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16190690
+Trying deal = 16190690 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 25427894 ; States-in-collection: 25427894 ; Time: 1532177414.451026
+>>>Queue Stats: inserted=25427894 items_in_queue=0 extracted=25427894
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16208396
+Trying deal = 16208396 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 8093155 ; States-in-collection: 8093155 ; Time: 1532177451.320585
+>>>Queue Stats: inserted=8093155 items_in_queue=0 extracted=8093155
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16218416
+Trying deal = 16218416 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 11866022 ; States-in-collection: 11866022 ; Time: 1532177534.074096
+>>>Queue Stats: inserted=11866022 items_in_queue=0 extracted=11866022
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16218772
+Trying deal = 16218772 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 34137223 ; Time: 1532177765.355584
+>>>Queue Stats: inserted=34137223 items_in_queue=2137223 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16243754
+Trying deal = 16243754 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7441823 ; States-in-collection: 7441823 ; Time: 1532177801.038743
+>>>Queue Stats: inserted=7441823 items_in_queue=0 extracted=7441823
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16252547
+Trying deal = 16252547 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2281331 ; States-in-collection: 2281331 ; Time: 1532177810.886219
+>>>Queue Stats: inserted=2281331 items_in_queue=0 extracted=2281331
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16260756
+Trying deal = 16260756 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 36139629 ; Time: 1532178035.526925
+>>>Queue Stats: inserted=36139629 items_in_queue=4139629 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16286366
+Trying deal = 16286366 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3873626 ; States-in-collection: 3873626 ; Time: 1532178051.852371
+>>>Queue Stats: inserted=3873626 items_in_queue=0 extracted=3873626
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16287509
+Trying deal = 16287509 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 33812958 ; Time: 1532178258.809679
+>>>Queue Stats: inserted=33812958 items_in_queue=1812958 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16301782
+Trying deal = 16301782 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 38321594 ; Time: 1532178511.248935
+>>>Queue Stats: inserted=38321594 items_in_queue=6321594 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16312391
+Trying deal = 16312391 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 1932100 ; States-in-collection: 1932100 ; Time: 1532178518.688888
+>>>Queue Stats: inserted=1932100 items_in_queue=0 extracted=1932100
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16316123
+Trying deal = 16316123 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2250584 ; States-in-collection: 2250584 ; Time: 1532178527.491923
+>>>Queue Stats: inserted=2250584 items_in_queue=0 extracted=2250584
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16332551
+Trying deal = 16332551 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 22490674 ; States-in-collection: 22490674 ; Time: 1532178671.873739
+>>>Queue Stats: inserted=22490674 items_in_queue=0 extracted=22490674
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16335131
+Trying deal = 16335131 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3521789 ; States-in-collection: 3521789 ; Time: 1532178685.586499
+>>>Queue Stats: inserted=3521789 items_in_queue=0 extracted=3521789
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16360337
+Trying deal = 16360337 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4241583 ; States-in-collection: 4241583 ; Time: 1532178706.841520
+>>>Queue Stats: inserted=4241583 items_in_queue=0 extracted=4241583
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16361542
+Trying deal = 16361542 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 32571211 ; Time: 1532178951.034485
+>>>Queue Stats: inserted=32571211 items_in_queue=571211 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16370969
+Trying deal = 16370969 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3482604 ; States-in-collection: 3482604 ; Time: 1532178967.648607
+>>>Queue Stats: inserted=3482604 items_in_queue=0 extracted=3482604
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16386793
+Trying deal = 16386793 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 51434141 ; Time: 1532179274.444412
+>>>Queue Stats: inserted=51434141 items_in_queue=19434141 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16397956
+Trying deal = 16397956 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 35662560 ; Time: 1532179551.365033
+>>>Queue Stats: inserted=35662560 items_in_queue=3662560 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16401798
+Trying deal = 16401798 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 21797606 ; States-in-collection: 21797606 ; Time: 1532179686.411072
+>>>Queue Stats: inserted=21797606 items_in_queue=0 extracted=21797606
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16406015
+Trying deal = 16406015 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 36851810 ; Time: 1532179902.229391
+>>>Queue Stats: inserted=36851810 items_in_queue=4851810 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16432300
+Trying deal = 16432300 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 22785578 ; States-in-collection: 22785578 ; Time: 1532180070.948886
+>>>Queue Stats: inserted=22785578 items_in_queue=0 extracted=22785578
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16454989
+Trying deal = 16454989 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 6518024 ; States-in-collection: 6518024 ; Time: 1532180103.223691
+>>>Queue Stats: inserted=6518024 items_in_queue=0 extracted=6518024
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16464861
+Trying deal = 16464861 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3699016 ; States-in-collection: 3699016 ; Time: 1532180119.447375
+>>>Queue Stats: inserted=3699016 items_in_queue=0 extracted=3699016
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16470013
+Trying deal = 16470013 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2156951 ; States-in-collection: 2156951 ; Time: 1532180129.634562
+>>>Queue Stats: inserted=2156951 items_in_queue=0 extracted=2156951
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16476770
+Trying deal = 16476770 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 39410043 ; Time: 1532180380.949124
+>>>Queue Stats: inserted=39410043 items_in_queue=7410043 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16484965
+Trying deal = 16484965 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2481712 ; States-in-collection: 2481712 ; Time: 1532180392.652200
+>>>Queue Stats: inserted=2481712 items_in_queue=0 extracted=2481712
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16506027
+Trying deal = 16506027 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 18518785 ; States-in-collection: 18518785 ; Time: 1532180511.718922
+>>>Queue Stats: inserted=18518785 items_in_queue=0 extracted=18518785
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16515773
+Trying deal = 16515773 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 18108272 ; States-in-collection: 18108272 ; Time: 1532180623.734286
+>>>Queue Stats: inserted=18108272 items_in_queue=0 extracted=18108272
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16524109
+Trying deal = 16524109 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3264478 ; States-in-collection: 3264478 ; Time: 1532180636.895793
+>>>Queue Stats: inserted=3264478 items_in_queue=0 extracted=3264478
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16561696
+Trying deal = 16561696 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2539688 ; States-in-collection: 2539688 ; Time: 1532180647.670451
+>>>Queue Stats: inserted=2539688 items_in_queue=0 extracted=2539688
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16573640
+Trying deal = 16573640 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2547872 ; States-in-collection: 2547872 ; Time: 1532180656.907722
+>>>Queue Stats: inserted=2547872 items_in_queue=0 extracted=2547872
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16574408
+Trying deal = 16574408 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 35666081 ; Time: 1532180864.007422
+>>>Queue Stats: inserted=35666081 items_in_queue=3666081 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16590402
+Trying deal = 16590402 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2237771 ; States-in-collection: 2237771 ; Time: 1532180875.064183
+>>>Queue Stats: inserted=2237771 items_in_queue=0 extracted=2237771
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16595667
+Trying deal = 16595667 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2298082 ; States-in-collection: 2298082 ; Time: 1532180885.342644
+>>>Queue Stats: inserted=2298082 items_in_queue=0 extracted=2298082
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16606231
+Trying deal = 16606231 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2256721 ; States-in-collection: 2256721 ; Time: 1532180895.632042
+>>>Queue Stats: inserted=2256721 items_in_queue=0 extracted=2256721
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16613310
+Trying deal = 16613310 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 36957590 ; Time: 1532181132.125598
+>>>Queue Stats: inserted=36957590 items_in_queue=4957590 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16616467
+Trying deal = 16616467 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 43883232 ; Time: 1532181431.340913
+>>>Queue Stats: inserted=43883232 items_in_queue=11883232 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16618038
+Trying deal = 16618038 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 37918903 ; Time: 1532181670.866201
+>>>Queue Stats: inserted=37918903 items_in_queue=5918903 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16641456
+Trying deal = 16641456 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 13541391 ; States-in-collection: 13541391 ; Time: 1532181739.822040
+>>>Queue Stats: inserted=13541391 items_in_queue=0 extracted=13541391
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16681283
+Trying deal = 16681283 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 34717945 ; Time: 1532181970.632132
+>>>Queue Stats: inserted=34717945 items_in_queue=2717945 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 16710155
+Trying deal = 16710155 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4108109 ; States-in-collection: 4108109 ; Time: 1532181992.969234
+>>>Queue Stats: inserted=4108109 items_in_queue=0 extracted=4108109
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16714504
+Trying deal = 16714504 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2057467 ; States-in-collection: 2057467 ; Time: 1532182002.058734
+>>>Queue Stats: inserted=2057467 items_in_queue=0 extracted=2057467
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16755908
+Trying deal = 16755908 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4896836 ; States-in-collection: 4896836 ; Time: 1532182020.893887
+>>>Queue Stats: inserted=4896836 items_in_queue=0 extracted=4896836
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16767097
+Trying deal = 16767097 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3030275 ; States-in-collection: 3030275 ; Time: 1532182034.114999
+>>>Queue Stats: inserted=3030275 items_in_queue=0 extracted=3030275
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16808068
+Trying deal = 16808068 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3177424 ; States-in-collection: 3177424 ; Time: 1532182052.210879
+>>>Queue Stats: inserted=3177424 items_in_queue=0 extracted=3177424
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16815668
+Trying deal = 16815668 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 11572137 ; States-in-collection: 11572137 ; Time: 1532182121.726368
+>>>Queue Stats: inserted=11572137 items_in_queue=0 extracted=11572137
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16841768
+Trying deal = 16841768 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 6042218 ; States-in-collection: 6042218 ; Time: 1532182148.801766
+>>>Queue Stats: inserted=6042218 items_in_queue=0 extracted=6042218
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16843397
+Trying deal = 16843397 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2127771 ; States-in-collection: 2127771 ; Time: 1532182157.014673
+>>>Queue Stats: inserted=2127771 items_in_queue=0 extracted=2127771
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16873531
+Trying deal = 16873531 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2852379 ; States-in-collection: 2852379 ; Time: 1532182169.376113
+>>>Queue Stats: inserted=2852379 items_in_queue=0 extracted=2852379
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16883181
+Trying deal = 16883181 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 6236617 ; States-in-collection: 6236617 ; Time: 1532182199.858733
+>>>Queue Stats: inserted=6236617 items_in_queue=0 extracted=6236617
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16893087
+Trying deal = 16893087 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4586334 ; States-in-collection: 4586334 ; Time: 1532182228.884044
+>>>Queue Stats: inserted=4586334 items_in_queue=0 extracted=4586334
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16899797
+Trying deal = 16899797 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4458760 ; States-in-collection: 4458760 ; Time: 1532182251.225301
+>>>Queue Stats: inserted=4458760 items_in_queue=0 extracted=4458760
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16905056
+Trying deal = 16905056 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 16518933 ; States-in-collection: 16518933 ; Time: 1532182348.839501
+>>>Queue Stats: inserted=16518933 items_in_queue=0 extracted=16518933
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16907651
+Trying deal = 16907651 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 14288182 ; States-in-collection: 14288182 ; Time: 1532182454.400912
+>>>Queue Stats: inserted=14288182 items_in_queue=0 extracted=14288182
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16909288
+Trying deal = 16909288 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 17466725 ; States-in-collection: 17466725 ; Time: 1532182551.539493
+>>>Queue Stats: inserted=17466725 items_in_queue=0 extracted=17466725
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16919338
+Trying deal = 16919338 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3107684 ; States-in-collection: 3107684 ; Time: 1532182566.030046
+>>>Queue Stats: inserted=3107684 items_in_queue=0 extracted=3107684
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16921796
+Trying deal = 16921796 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 12282344 ; States-in-collection: 12282344 ; Time: 1532182634.752584
+>>>Queue Stats: inserted=12282344 items_in_queue=0 extracted=12282344
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16945191
+Trying deal = 16945191 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3358186 ; States-in-collection: 3358186 ; Time: 1532182648.609777
+>>>Queue Stats: inserted=3358186 items_in_queue=0 extracted=3358186
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16990016
+Trying deal = 16990016 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2769924 ; States-in-collection: 2769924 ; Time: 1532182659.123571
+>>>Queue Stats: inserted=2769924 items_in_queue=0 extracted=2769924
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 16990657
+Trying deal = 16990657 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 1942148 ; States-in-collection: 1942148 ; Time: 1532182666.801999
+>>>Queue Stats: inserted=1942148 items_in_queue=0 extracted=1942148
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17083108
+Trying deal = 17083108 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2704987 ; States-in-collection: 2704987 ; Time: 1532182679.167163
+>>>Queue Stats: inserted=2704987 items_in_queue=0 extracted=2704987
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17102057
+Trying deal = 17102057 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2086536 ; States-in-collection: 2086536 ; Time: 1532182686.957161
+>>>Queue Stats: inserted=2086536 items_in_queue=0 extracted=2086536
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17118914
+Trying deal = 17118914 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3378348 ; States-in-collection: 3378348 ; Time: 1532182701.971933
+>>>Queue Stats: inserted=3378348 items_in_queue=0 extracted=3378348
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17136294
+Trying deal = 17136294 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3033977 ; States-in-collection: 3033977 ; Time: 1532182713.225156
+>>>Queue Stats: inserted=3033977 items_in_queue=0 extracted=3033977
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17136478
+Trying deal = 17136478 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7479799 ; States-in-collection: 7479799 ; Time: 1532182749.078078
+>>>Queue Stats: inserted=7479799 items_in_queue=0 extracted=7479799
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17144140
+Trying deal = 17144140 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2313934 ; States-in-collection: 2313934 ; Time: 1532182757.801861
+>>>Queue Stats: inserted=2313934 items_in_queue=0 extracted=2313934
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17155156
+Trying deal = 17155156 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 39085772 ; Time: 1532183019.806831
+>>>Queue Stats: inserted=39085772 items_in_queue=7085772 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17165117
+Trying deal = 17165117 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 36585936 ; Time: 1532183290.982652
+>>>Queue Stats: inserted=36585936 items_in_queue=4585936 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17169940
+Trying deal = 17169940 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 38319778 ; Time: 1532183516.067921
+>>>Queue Stats: inserted=38319778 items_in_queue=6319778 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17183216
+Trying deal = 17183216 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7310056 ; States-in-collection: 7310056 ; Time: 1532183549.859927
+>>>Queue Stats: inserted=7310056 items_in_queue=0 extracted=7310056
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17238250
+Trying deal = 17238250 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 9664284 ; States-in-collection: 9664284 ; Time: 1532183600.315894
+>>>Queue Stats: inserted=9664284 items_in_queue=0 extracted=9664284
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17238661
+Trying deal = 17238661 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 26414140 ; States-in-collection: 26414140 ; Time: 1532183775.735971
+>>>Queue Stats: inserted=26414140 items_in_queue=0 extracted=26414140
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17253373
+Trying deal = 17253373 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3150243 ; States-in-collection: 3150243 ; Time: 1532183789.432410
+>>>Queue Stats: inserted=3150243 items_in_queue=0 extracted=3150243
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17262307
+Trying deal = 17262307 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7138461 ; States-in-collection: 7138461 ; Time: 1532183824.760372
+>>>Queue Stats: inserted=7138461 items_in_queue=0 extracted=7138461
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17271000
+Trying deal = 17271000 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3329336 ; States-in-collection: 3329336 ; Time: 1532183841.302715
+>>>Queue Stats: inserted=3329336 items_in_queue=0 extracted=3329336
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17296080
+Trying deal = 17296080 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 20059419 ; States-in-collection: 20059419 ; Time: 1532184008.020485
+>>>Queue Stats: inserted=20059419 items_in_queue=0 extracted=20059419
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17334823
+Trying deal = 17334823 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 17114133 ; States-in-collection: 17114133 ; Time: 1532184123.024134
+>>>Queue Stats: inserted=17114133 items_in_queue=0 extracted=17114133
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17336992
+Trying deal = 17336992 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3281924 ; States-in-collection: 3281924 ; Time: 1532184140.861872
+>>>Queue Stats: inserted=3281924 items_in_queue=0 extracted=3281924
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17340691
+Trying deal = 17340691 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 37137772 ; Time: 1532184346.952904
+>>>Queue Stats: inserted=37137772 items_in_queue=5137772 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17365122
+Trying deal = 17365122 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2543466 ; States-in-collection: 2543466 ; Time: 1532184357.615065
+>>>Queue Stats: inserted=2543466 items_in_queue=0 extracted=2543466
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17379818
+Trying deal = 17379818 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 41714055 ; Time: 1532184609.173698
+>>>Queue Stats: inserted=41714055 items_in_queue=9714055 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17482562
+Trying deal = 17482562 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4909146 ; States-in-collection: 4909146 ; Time: 1532184633.799961
+>>>Queue Stats: inserted=4909146 items_in_queue=0 extracted=4909146
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17509983
+Trying deal = 17509983 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2378832 ; States-in-collection: 2378832 ; Time: 1532184643.794286
+>>>Queue Stats: inserted=2378832 items_in_queue=0 extracted=2378832
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17510551
+Trying deal = 17510551 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4633227 ; States-in-collection: 4633227 ; Time: 1532184668.687435
+>>>Queue Stats: inserted=4633227 items_in_queue=0 extracted=4633227
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17512821
+Trying deal = 17512821 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 48590297 ; Time: 1532185073.608248
+>>>Queue Stats: inserted=48590297 items_in_queue=16590297 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17535270
+Trying deal = 17535270 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 36103696 ; Time: 1532185358.454368
+>>>Queue Stats: inserted=36103696 items_in_queue=4103696 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17541348
+Trying deal = 17541348 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 34117749 ; Time: 1532185584.352305
+>>>Queue Stats: inserted=34117749 items_in_queue=2117749 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17561702
+Trying deal = 17561702 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 35229380 ; Time: 1532185823.541891
+>>>Queue Stats: inserted=35229380 items_in_queue=3229380 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17562405
+Trying deal = 17562405 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 5788614 ; States-in-collection: 5788614 ; Time: 1532185852.853952
+>>>Queue Stats: inserted=5788614 items_in_queue=0 extracted=5788614
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17570391
+Trying deal = 17570391 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 9739129 ; States-in-collection: 9739129 ; Time: 1532185903.656362
+>>>Queue Stats: inserted=9739129 items_in_queue=0 extracted=9739129
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17580702
+Trying deal = 17580702 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 30161022 ; States-in-collection: 30161022 ; Time: 1532186094.009997
+>>>Queue Stats: inserted=30161022 items_in_queue=0 extracted=30161022
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17686816
+Trying deal = 17686816 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 36938314 ; Time: 1532186381.744965
+>>>Queue Stats: inserted=36938314 items_in_queue=4938314 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17687923
+Trying deal = 17687923 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 39292321 ; Time: 1532186641.558842
+>>>Queue Stats: inserted=39292321 items_in_queue=7292321 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17691260
+Trying deal = 17691260 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 14014493 ; States-in-collection: 14014493 ; Time: 1532186723.399045
+>>>Queue Stats: inserted=14014493 items_in_queue=0 extracted=14014493
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17726106
+Trying deal = 17726106 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4813946 ; States-in-collection: 4813946 ; Time: 1532186750.188463
+>>>Queue Stats: inserted=4813946 items_in_queue=0 extracted=4813946
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17736103
+Trying deal = 17736103 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2318556 ; States-in-collection: 2318556 ; Time: 1532186759.961600
+>>>Queue Stats: inserted=2318556 items_in_queue=0 extracted=2318556
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17756227
+Trying deal = 17756227 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3714526 ; States-in-collection: 3714526 ; Time: 1532186776.565962
+>>>Queue Stats: inserted=3714526 items_in_queue=0 extracted=3714526
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17771567
+Trying deal = 17771567 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4284534 ; States-in-collection: 4284534 ; Time: 1532186795.445056
+>>>Queue Stats: inserted=4284534 items_in_queue=0 extracted=4284534
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17776665
+Trying deal = 17776665 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 21626774 ; States-in-collection: 21626774 ; Time: 1532186913.279005
+>>>Queue Stats: inserted=21626774 items_in_queue=0 extracted=21626774
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17801138
+Trying deal = 17801138 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4887871 ; States-in-collection: 4887871 ; Time: 1532186937.008031
+>>>Queue Stats: inserted=4887871 items_in_queue=0 extracted=4887871
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17812262
+Trying deal = 17812262 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 13856867 ; States-in-collection: 13856867 ; Time: 1532187022.234607
+>>>Queue Stats: inserted=13856867 items_in_queue=0 extracted=13856867
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17823027
+Trying deal = 17823027 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2938553 ; States-in-collection: 2938553 ; Time: 1532187040.489128
+>>>Queue Stats: inserted=2938553 items_in_queue=0 extracted=2938553
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17836521
+Trying deal = 17836521 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 33196283 ; Time: 1532187251.437711
+>>>Queue Stats: inserted=33196283 items_in_queue=1196283 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17853942
+Trying deal = 17853942 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 10491693 ; States-in-collection: 10491693 ; Time: 1532187334.080040
+>>>Queue Stats: inserted=10491693 items_in_queue=0 extracted=10491693
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17864634
+Trying deal = 17864634 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 41086621 ; Time: 1532187576.043978
+>>>Queue Stats: inserted=41086621 items_in_queue=9086621 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17873903
+Trying deal = 17873903 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 13248901 ; States-in-collection: 13248901 ; Time: 1532187655.795018
+>>>Queue Stats: inserted=13248901 items_in_queue=0 extracted=13248901
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17898504
+Trying deal = 17898504 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 34699733 ; Time: 1532187926.000388
+>>>Queue Stats: inserted=34699733 items_in_queue=2699733 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17904736
+Trying deal = 17904736 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 32082503 ; Time: 1532188117.601769
+>>>Queue Stats: inserted=32082503 items_in_queue=82503 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17906530
+Trying deal = 17906530 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 33814528 ; Time: 1532188354.899690
+>>>Queue Stats: inserted=33814528 items_in_queue=1814528 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17932443
+Trying deal = 17932443 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 16318637 ; States-in-collection: 16318637 ; Time: 1532188447.295316
+>>>Queue Stats: inserted=16318637 items_in_queue=0 extracted=16318637
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17936987
+Trying deal = 17936987 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 19571107 ; States-in-collection: 19571107 ; Time: 1532188595.570791
+>>>Queue Stats: inserted=19571107 items_in_queue=0 extracted=19571107
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17948635
+Trying deal = 17948635 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 35318542 ; Time: 1532188851.385885
+>>>Queue Stats: inserted=35318542 items_in_queue=3318542 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 17959605
+Trying deal = 17959605 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 14625272 ; States-in-collection: 14625272 ; Time: 1532188957.346887
+>>>Queue Stats: inserted=14625272 items_in_queue=0 extracted=14625272
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 17988354
+Trying deal = 17988354 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 33936983 ; Time: 1532189189.678548
+>>>Queue Stats: inserted=33936983 items_in_queue=1936983 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18002665
+Trying deal = 18002665 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 6220715 ; States-in-collection: 6220715 ; Time: 1532189222.501665
+>>>Queue Stats: inserted=6220715 items_in_queue=0 extracted=6220715
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18017350
+Trying deal = 18017350 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 6755756 ; States-in-collection: 6755756 ; Time: 1532189252.936672
+>>>Queue Stats: inserted=6755756 items_in_queue=0 extracted=6755756
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18021687
+Trying deal = 18021687 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7388021 ; States-in-collection: 7388021 ; Time: 1532189287.950947
+>>>Queue Stats: inserted=7388021 items_in_queue=0 extracted=7388021
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18039640
+Trying deal = 18039640 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 13949986 ; States-in-collection: 13949986 ; Time: 1532189366.887887
+>>>Queue Stats: inserted=13949986 items_in_queue=0 extracted=13949986
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18045813
+Trying deal = 18045813 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 17667439 ; States-in-collection: 17667439 ; Time: 1532189475.518905
+>>>Queue Stats: inserted=17667439 items_in_queue=0 extracted=17667439
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18060143
+Trying deal = 18060143 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 37227279 ; Time: 1532189695.568516
+>>>Queue Stats: inserted=37227279 items_in_queue=5227279 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18060413
+Trying deal = 18060413 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 39664313 ; Time: 1532189930.989891
+>>>Queue Stats: inserted=39664313 items_in_queue=7664313 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18069452
+Trying deal = 18069452 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4298955 ; States-in-collection: 4298955 ; Time: 1532189946.813486
+>>>Queue Stats: inserted=4298955 items_in_queue=0 extracted=4298955
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18076128
+Trying deal = 18076128 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3333454 ; States-in-collection: 3333454 ; Time: 1532189965.616273
+>>>Queue Stats: inserted=3333454 items_in_queue=0 extracted=3333454
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18076131
+Trying deal = 18076131 using dbm
+Column 1 -> Column 7
+--------
+
+==
+Column 1 -> Column 6
+--------
+
+==
+END
+handle_and_destroy_instance_solution end
+Trying deal = 18092153
+Trying deal = 18092153 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3291984 ; States-in-collection: 3291984 ; Time: 1532190157.089381
+>>>Queue Stats: inserted=3291984 items_in_queue=0 extracted=3291984
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18094628
+Trying deal = 18094628 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 13602591 ; States-in-collection: 13602591 ; Time: 1532190234.361088
+>>>Queue Stats: inserted=13602591 items_in_queue=0 extracted=13602591
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18100919
+Trying deal = 18100919 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 9716006 ; States-in-collection: 9716006 ; Time: 1532190293.350626
+>>>Queue Stats: inserted=9716006 items_in_queue=0 extracted=9716006
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18127018
+Trying deal = 18127018 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2114242 ; States-in-collection: 2114242 ; Time: 1532190302.336344
+>>>Queue Stats: inserted=2114242 items_in_queue=0 extracted=2114242
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18149132
+Trying deal = 18149132 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7202240 ; States-in-collection: 7202240 ; Time: 1532190349.539590
+>>>Queue Stats: inserted=7202240 items_in_queue=0 extracted=7202240
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18152130
+Trying deal = 18152130 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 34881483 ; Time: 1532190619.530241
+>>>Queue Stats: inserted=34881483 items_in_queue=2881483 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18166204
+Trying deal = 18166204 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2599355 ; States-in-collection: 2599355 ; Time: 1532190637.436463
+>>>Queue Stats: inserted=2599355 items_in_queue=0 extracted=2599355
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18224518
+Trying deal = 18224518 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 35110477 ; Time: 1532190926.455909
+>>>Queue Stats: inserted=35110477 items_in_queue=3110477 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18232948
+Trying deal = 18232948 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 42389686 ; Time: 1532191216.612773
+>>>Queue Stats: inserted=42389686 items_in_queue=10389686 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18304193
+Trying deal = 18304193 using dbm
+Column 0 -> Column 7
+--------
+
+==
+Column 0 -> Column 4
+--------
+
+==
+END
+handle_and_destroy_instance_solution end
+Trying deal = 18308456
+Trying deal = 18308456 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 6568933 ; States-in-collection: 6568933 ; Time: 1532191401.532299
+>>>Queue Stats: inserted=6568933 items_in_queue=0 extracted=6568933
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18314811
+Trying deal = 18314811 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2380494 ; States-in-collection: 2380494 ; Time: 1532191411.199337
+>>>Queue Stats: inserted=2380494 items_in_queue=0 extracted=2380494
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18333969
+Trying deal = 18333969 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 11250712 ; States-in-collection: 11250712 ; Time: 1532191484.471147
+>>>Queue Stats: inserted=11250712 items_in_queue=0 extracted=11250712
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18342482
+Trying deal = 18342482 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 34785962 ; Time: 1532191760.040871
+>>>Queue Stats: inserted=34785962 items_in_queue=2785962 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18344403
+Trying deal = 18344403 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 8733558 ; States-in-collection: 8733558 ; Time: 1532191810.200775
+>>>Queue Stats: inserted=8733558 items_in_queue=0 extracted=8733558
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18348916
+Trying deal = 18348916 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 40933473 ; Time: 1532192133.819838
+>>>Queue Stats: inserted=40933473 items_in_queue=8933473 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18352746
+Trying deal = 18352746 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7448308 ; States-in-collection: 7448308 ; Time: 1532192182.223306
+>>>Queue Stats: inserted=7448308 items_in_queue=0 extracted=7448308
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18376152
+Trying deal = 18376152 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 44710975 ; Time: 1532192468.081915
+>>>Queue Stats: inserted=44710975 items_in_queue=12710975 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18390421
+Trying deal = 18390421 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 36833183 ; Time: 1532192695.843211
+>>>Queue Stats: inserted=36833183 items_in_queue=4833183 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18401630
+Trying deal = 18401630 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2912572 ; States-in-collection: 2912572 ; Time: 1532192709.589453
+>>>Queue Stats: inserted=2912572 items_in_queue=0 extracted=2912572
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18417210
+Trying deal = 18417210 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2391846 ; States-in-collection: 2391846 ; Time: 1532192720.895566
+>>>Queue Stats: inserted=2391846 items_in_queue=0 extracted=2391846
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18433316
+Trying deal = 18433316 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 45793534 ; Time: 1532193022.987618
+>>>Queue Stats: inserted=45793534 items_in_queue=13793534 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18438557
+Trying deal = 18438557 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 32963576 ; Time: 1532193222.032196
+>>>Queue Stats: inserted=32963576 items_in_queue=963576 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18438837
+Trying deal = 18438837 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 17940155 ; States-in-collection: 17940155 ; Time: 1532193322.282881
+>>>Queue Stats: inserted=17940155 items_in_queue=0 extracted=17940155
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18453002
+Trying deal = 18453002 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 5245850 ; States-in-collection: 5245850 ; Time: 1532193347.729297
+>>>Queue Stats: inserted=5245850 items_in_queue=0 extracted=5245850
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18455277
+Trying deal = 18455277 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 7538229 ; States-in-collection: 7538229 ; Time: 1532193388.518663
+>>>Queue Stats: inserted=7538229 items_in_queue=0 extracted=7538229
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18476043
+Trying deal = 18476043 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 8250308 ; States-in-collection: 8250308 ; Time: 1532193428.564382
+>>>Queue Stats: inserted=8250308 items_in_queue=0 extracted=8250308
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18483935
+Trying deal = 18483935 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 8013273 ; States-in-collection: 8013273 ; Time: 1532193466.948163
+>>>Queue Stats: inserted=8013273 items_in_queue=0 extracted=8013273
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18501590
+Trying deal = 18501590 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 1987745 ; States-in-collection: 1987745 ; Time: 1532193475.389812
+>>>Queue Stats: inserted=1987745 items_in_queue=0 extracted=1987745
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18513952
+Trying deal = 18513952 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 49466784 ; Time: 1532193793.730501
+>>>Queue Stats: inserted=49466784 items_in_queue=17466784 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18518493
+Trying deal = 18518493 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 45661073 ; Time: 1532194049.449418
+>>>Queue Stats: inserted=45661073 items_in_queue=13661073 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18524380
+Trying deal = 18524380 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 35303674 ; Time: 1532194276.719594
+>>>Queue Stats: inserted=35303674 items_in_queue=3303674 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18530263
+Trying deal = 18530263 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 40569741 ; Time: 1532194582.342311
+>>>Queue Stats: inserted=40569741 items_in_queue=8569741 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18531753
+Trying deal = 18531753 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 43858413 ; Time: 1532194913.535629
+>>>Queue Stats: inserted=43858413 items_in_queue=11858413 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18537696
+Trying deal = 18537696 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2004268 ; States-in-collection: 2004268 ; Time: 1532194922.068846
+>>>Queue Stats: inserted=2004268 items_in_queue=0 extracted=2004268
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18570816
+Trying deal = 18570816 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 8577363 ; States-in-collection: 8577363 ; Time: 1532194962.891042
+>>>Queue Stats: inserted=8577363 items_in_queue=0 extracted=8577363
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18577779
+Trying deal = 18577779 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 3354392 ; States-in-collection: 3354392 ; Time: 1532194976.510900
+>>>Queue Stats: inserted=3354392 items_in_queue=0 extracted=3354392
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18585855
+Trying deal = 18585855 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2404847 ; States-in-collection: 2404847 ; Time: 1532194986.351433
+>>>Queue Stats: inserted=2404847 items_in_queue=0 extracted=2404847
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18590015
+Trying deal = 18590015 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 16764298 ; States-in-collection: 16764298 ; Time: 1532195081.315074
+>>>Queue Stats: inserted=16764298 items_in_queue=0 extracted=16764298
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18629592
+Trying deal = 18629592 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2173121 ; States-in-collection: 2173121 ; Time: 1532195091.912697
+>>>Queue Stats: inserted=2173121 items_in_queue=0 extracted=2173121
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18639899
+Trying deal = 18639899 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2554758 ; States-in-collection: 2554758 ; Time: 1532195103.914961
+>>>Queue Stats: inserted=2554758 items_in_queue=0 extracted=2554758
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18656590
+Trying deal = 18656590 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 31183965 ; States-in-collection: 31183965 ; Time: 1532195324.621948
+>>>Queue Stats: inserted=31183965 items_in_queue=0 extracted=31183965
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18690020
+Trying deal = 18690020 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 4502790 ; States-in-collection: 4502790 ; Time: 1532195345.452414
+>>>Queue Stats: inserted=4502790 items_in_queue=0 extracted=4502790
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18690979
+Trying deal = 18690979 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 17152997 ; States-in-collection: 17152997 ; Time: 1532195433.270122
+>>>Queue Stats: inserted=17152997 items_in_queue=0 extracted=17152997
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18692110
+Trying deal = 18692110 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 16119386 ; States-in-collection: 16119386 ; Time: 1532195551.913354
+>>>Queue Stats: inserted=16119386 items_in_queue=0 extracted=16119386
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18692581
+Trying deal = 18692581 using dbm
+Column 0 -> Column 6
+--------
+
+==
+Column 0 -> Foundation 2
+--------
+
+==
+END
+handle_and_destroy_instance_solution end
+Trying deal = 18693055
+Trying deal = 18693055 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 10936739 ; States-in-collection: 10936739 ; Time: 1532195616.255609
+>>>Queue Stats: inserted=10936739 items_in_queue=0 extracted=10936739
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18698384
+Trying deal = 18698384 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2673407 ; States-in-collection: 2673407 ; Time: 1532195630.892152
+>>>Queue Stats: inserted=2673407 items_in_queue=0 extracted=2673407
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18730636
+Trying deal = 18730636 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 36766244 ; Time: 1532195926.823774
+>>>Queue Stats: inserted=36766244 items_in_queue=4766244 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18742545
+Trying deal = 18742545 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 30431081 ; States-in-collection: 30431081 ; Time: 1532196135.989564
+>>>Queue Stats: inserted=30431081 items_in_queue=0 extracted=30431081
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18743597
+Trying deal = 18743597 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 44270942 ; Time: 1532196430.352483
+>>>Queue Stats: inserted=44270942 items_in_queue=12270942 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18757000
+Trying deal = 18757000 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 48274036 ; Time: 1532196773.390392
+>>>Queue Stats: inserted=48274036 items_in_queue=16274036 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18757891
+Trying deal = 18757891 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2002573 ; States-in-collection: 2002573 ; Time: 1532196780.792085
+>>>Queue Stats: inserted=2002573 items_in_queue=0 extracted=2002573
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18760598
+Trying deal = 18760598 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 2371642 ; States-in-collection: 2371642 ; Time: 1532196789.931880
+>>>Queue Stats: inserted=2371642 items_in_queue=0 extracted=2371642
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18766167
+Trying deal = 18766167 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 5894215 ; States-in-collection: 5894215 ; Time: 1532196818.115183
+>>>Queue Stats: inserted=5894215 items_in_queue=0 extracted=5894215
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 18779528
+Trying deal = 18779528 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 39597247 ; Time: 1532197078.602193
+>>>Queue Stats: inserted=39597247 items_in_queue=7597247 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18795522
+Trying deal = 18795522 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 35269570 ; Time: 1532197300.582624
+>>>Queue Stats: inserted=35269570 items_in_queue=3269570 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18797674
+Trying deal = 18797674 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 34309211 ; Time: 1532197535.315827
+>>>Queue Stats: inserted=34309211 items_in_queue=2309211 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18797699
+Trying deal = 18797699 using dbm
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 32000000 ; States-in-collection: 36777092 ; Time: 1532197800.902297
+>>>Queue Stats: inserted=36777092 items_in_queue=4777092 extracted=32000000
+Intractable.
+Reached Max-or-more iterations of 32000000.
+handle_and_destroy_instance_solution end
+Trying deal = 18807103
+Trying deal = 18807103 using dbm

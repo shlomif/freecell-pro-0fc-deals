@@ -28,6 +28,12 @@ ab()
     _sol -to 0AB -sp r:tf -mi "$MAX_ITERS"
 }
 
+dbm_tail()
+{
+    echo "Trying deal = $deal using dbm"
+    depth_dbm_fc_solver --iters-delta-limit "$MAX_ITERS" --offload-dir-path $PWD/offload/ <(pi-make-microsoft-freecell-board -t "$deal") | tail -10
+}
+
 ab_tail()
 {
     echo "Trying deal = $deal using 0AB"
