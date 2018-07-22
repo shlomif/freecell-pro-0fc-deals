@@ -17,6 +17,6 @@ export START="$(tail-extract '^Trying deal = ([0-9]+)' "$out")"
 < 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 >= $ENV{START}' | \
     (while read deal
     do
-        d "$deal" dbm_tail
+        d "$deal" ab_tail
     done) 2>&1 | \
     tee -a "$out"

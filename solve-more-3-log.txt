@@ -14665,3 +14665,21 @@ Could not solve successfully.
 handle_and_destroy_instance_solution end
 Trying deal = 25949408
 Trying deal = 25949408 using dbm
+Trying deal = 25949408
+Trying deal = 25949408 using 0AB
+This game is solveable.
+Total number of states checked is 3568761.
+Trying deal = 25963024
+Trying deal = 25963024 using 0AB
+I could not solve this game.
+Total number of states checked is 3886923.
+Trying deal = 25964781
+Trying deal = 25964781 using 0AB
+I could not solve this game.
+Total number of states checked is 2639830.
+Trying deal = 25969836
+Trying deal = 25969836 using 0AB
+I could not solve this game.
+Total number of states checked is 4327329.
+Trying deal = 26019247
+Trying deal = 26019247 using 0AB
