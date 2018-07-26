@@ -36,6 +36,10 @@ LIN:
                     {
                         $imp{$deal} = 1;
                     }
+                    elsif ( $text =~ /^END$/ms )
+                    {
+                        $sol{$deal} = 1;
+                    }
                     last INNER;
                 }
             }
