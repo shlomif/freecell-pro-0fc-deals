@@ -76449,3 +76449,17 @@ Reached Max-or-more iterations of 32000000.
 handle_and_destroy_instance_solution end
 Trying deal = 88561404
 Trying deal = 88561404 using dbm
+Trying deal = 88561404
+Trying deal = 88561404 using dbm
+instance_run_solver_thread end
+Finished running threads for curr_depth=103
+Start mark-and-sweep cleanup for curr_depth=103
+Finish mark-and-sweep cleanup for curr_depth=103
+instance_run_all_threads end
+handle_and_destroy_instance_solution start
+Reached 27065665 ; States-in-collection: 27065665 ; Time: 1533363043.201790
+>>>Queue Stats: inserted=27065665 items_in_queue=0 extracted=27065665
+Could not solve successfully.
+handle_and_destroy_instance_solution end
+Trying deal = 88567259
+Trying deal = 88567259 using dbm
