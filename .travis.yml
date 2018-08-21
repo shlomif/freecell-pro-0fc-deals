@@ -1,7 +1,7 @@
 cache:
     ccache: true
     directories:
-    - $HOME/perl_modules
+        - $HOME/perl_modules
 sudo: false
 language: perl
 perl:
@@ -11,10 +11,8 @@ matrix:
     allow_failures:
         - perl: 'blead'
 before_install:
-   - git config --global user.name "TravisCI"
-   - git config --global user.email $HOSTNAME":not-for-mail@travis-ci.org"
-     # This makes tests fail:
-     # - eval $(curl https://travis-perl.github.io/init) --auto
+    - git config --global user.name "TravisCI"
+    - git config --global user.email $HOSTNAME":not-for-mail@travis-ci.org"
     - cpanm local::lib
     - eval "$(perl -Mlocal::lib=$HOME/perl_modules)"
 install:
