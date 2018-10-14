@@ -11,6 +11,7 @@ matrix:
     allow_failures:
         - perl: 'blead'
 before_install:
+    - eval $(curl https://travis-perl.github.io/init) --auto
     - git config --global user.name "TravisCI"
     - git config --global user.email $HOSTNAME":not-for-mail@travis-ci.org"
     - cpanm local::lib
