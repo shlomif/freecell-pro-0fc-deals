@@ -10,7 +10,7 @@ all: stats
 
 check: test
 
-test: 0fc-log.txt
+test: all 0fc-log.txt
 	prove t/*.t
 
 total: test put diff
