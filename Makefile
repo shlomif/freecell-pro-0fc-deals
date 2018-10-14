@@ -21,8 +21,10 @@ put:
 diff:
 	git diff HEAD --stat
 
+PERL = perl
+
 stats: 0fc-log.txt
-	perl stats.pl $< | commify
+	$(PERL) stats.pl $< | $(PERL) commify.pl
 
 # vim:ft=make
 #
