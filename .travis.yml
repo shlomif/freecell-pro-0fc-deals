@@ -20,6 +20,6 @@ before_install:
     - cpanm local::lib
     - eval "$(perl -Mlocal::lib=$HOME/perl_modules)"
 install:
-    - cpanm --quiet --skip-satisfied Number::Format Path::Tiny Perl::Tidy Test::Code::TidyAll Test::Perl::Critic Test::TrailingSpace
+    - cpanm --skip-satisfied Number::Format Path::Tiny Perl::Tidy Test::Code::TidyAll Test::Perl::Critic Test::TrailingSpace || (cat ~/.cpanm/work/*/build.log ; false)
 script:
     - make test
