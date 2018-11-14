@@ -20,6 +20,8 @@ before_install:
     - cpanm local::lib
     - eval "$(perl -Mlocal::lib=$HOME/perl_modules)"
 install:
+    # See https://github.com/travis-perl/helpers/issues/42
+    - unset AUTHOR_TESTING
     - cpanm --skip-satisfied Number::Format Path::Tiny Perl::Tidy Test::Code::TidyAll Test::Perl::Critic Test::TrailingSpace || (cat ~/.cpanm/work/*/build.log ; false)
 script:
     - make test
