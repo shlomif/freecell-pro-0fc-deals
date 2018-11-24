@@ -6,8 +6,9 @@ use List::Util qw/ sum /;
 my %stats;
 while (<>)
 {
-    ++$stats{ ( split /\t/, $_, 2 )[0] };
+    ++$stats{ substr($_, 0, 1) };
 }
+$stats{Int} = delete $stats{I};
 my $tot    = ( 1 << 33 ) - 1;
 my $remain = $tot - sum values %stats;
 $stats{Imp} = $remain;
