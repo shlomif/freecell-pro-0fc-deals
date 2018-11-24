@@ -4,11 +4,9 @@ use strict;
 use warnings;
 use List::Util qw/ sum /;
 my %stats;
-while ( my $l = <> )
+while (<>)
 {
-    chomp $l;
-    my @f = split /\t/, $l;
-    ++$stats{ $f[0] };
+    ++$stats{ ( split /\t/, $_, 2 )[0] };
 }
 my $tot    = ( 1 << 33 ) - 1;
 my $remain = $tot - sum values %stats;
