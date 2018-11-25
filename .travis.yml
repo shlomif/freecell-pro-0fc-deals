@@ -2,6 +2,7 @@ cache:
     ccache: true
     directories:
         - $HOME/perl_modules
+dist: xenial
 sudo: false
 language: perl
 perl:
