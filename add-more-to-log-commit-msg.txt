@@ -1,6 +1,6 @@
-Add more results using the solve-more-3.bash log.
+Add more results using the solve-more-6-gnupar.bash log.
 
-Based on the run by the solve-more-3.bash program and the 0ab preset/scan.
+Based on the run by the solve-more-6-gnupar.bash program and the dbm_tail.
 
 Find 0fc freecell deals in the freecell pro range :
 

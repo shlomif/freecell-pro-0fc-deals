@@ -15,5 +15,5 @@
 out='solve-more-3-log.txt'
 export START="$(tail-extract '^Trying deal = ([0-9]+)' "$out")"
 < 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 >= $ENV{START}' | \
-    parallel --group -j2 -k "bash -c \". solve_common.bash ; deal=\$1; d \\\"\$deal\\\" dbm_tail\"" 2>&1 | \
+    parallel --group -j2 -k bash run-job-1.bash 2>&1 | \
     tee -a "$out"
