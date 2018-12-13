@@ -17,12 +17,12 @@ shlomif[0fc]:$this$ pwd
 /home/shlomif/Download/unpack/games/freecell/freecell-pro-0fc-deals
 shlomif[0fc]:$this$ make
 bash concatenate-to-big-log.bash
-perl stats.pl 0fc-log.txt | commify
-Solved: 17,923,959
-Intractable: 1,542,497
-Impossible: 8,570,468,135
+perl stats.pl 0fc-log.txt | perl commify.pl
+Solved: 18,388,509 ( 0.21 %)
+Intractable: 1,047,159 ( 0.01 %)
+Impossible: 8,570,498,923 ( 99.77 %)
 shlomif[0fc]:$this$ ls -l 0fc-log.txt
--rw-r--r-- 1 shlomif shlomif 253642729 May 28 00:30 0fc-log.txt
+-rw-r--r-- 1 shlomif shlomif 252287806 Dec 13 16:52 0fc-log.txt
 ```
 
 # Credits
