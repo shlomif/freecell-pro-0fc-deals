@@ -14,7 +14,7 @@ sub _key
 }
 
 {
-    my $buf = path("solve-more-3-log.txt")->slurp_utf8;
+    my $buf = path("solve-more-3-log.txt")->slurp_utf8 . "\n\n\n" . path("solve-more-4-log.txt")->slurp_utf8;
     $buf =~ s#Trying deal = ([0-9]+) using 0AB\n\n?I could not solve this game.#
         $imp{_key($1)}{$1} = 1;
         #egms;
