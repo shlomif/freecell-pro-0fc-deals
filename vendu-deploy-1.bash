@@ -9,6 +9,7 @@
 set -e
 set -x
 
+export FREECELL_SOLVER_QUIET=1
 base="`pwd`"
 shlomif_set="$base/shlomif-computer-settings"
 fcs_repo="$base/fc-solve"
