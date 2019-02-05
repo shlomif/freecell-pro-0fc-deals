@@ -14,9 +14,11 @@
 # d 100260 ab
 out='solve-more-4-log.txt'
 export START="$(tail-extract '^Trying deal = ([0-9]+)' "$out")"
-if test "$START" -lt 1000000000
+# min=1000000000
+min=2000000000
+if test "$START" -lt "$min"
 then
-    START=1000000000
+    START="$min"
 fi
 < 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 >= $ENV{START}' | \
     (while read deal
