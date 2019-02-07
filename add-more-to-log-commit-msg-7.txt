@@ -1,0 +1,9 @@
+Add more results using the solve-more-7.bash log.
+
+Based on the run by the solve-more-7.bash program and the 0AB scan/
+
+Find 0fc freecell deals in the freecell pro range :
+
+http://fc-solve.shlomifish.org/faq.html#what_are_ms_deals
+
+It is processed using << perl apply-solve-more-3-log.pl >>
