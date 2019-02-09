@@ -15,14 +15,13 @@ the latest one, then it is impossible.
 ```
 shlomif[0fc]:$this$ pwd
 /home/shlomif/Download/unpack/games/freecell/freecell-pro-0fc-deals
-shlomif[0fc]:$this$ make
-bash concatenate-to-big-log.bash
+shlomif[0fc]:$this$ gmake
 perl stats.pl 0fc-log.txt | perl commify.pl
-Solved: 18,388,509 ( 0.21 %)
-Intractable: 1,047,159 ( 0.01 %)
-Impossible: 8,570,498,923 ( 99.77 %)
+Solved: 18,402,275 ( 0.21 %)
+Intractable: 999,907 ( 0.01 %)
+Impossible: 8,570,532,409 ( 99.77 %)
 shlomif[0fc]:$this$ ls -l 0fc-log.txt
--rw-r--r-- 1 shlomif shlomif 252287806 Dec 13 16:52 0fc-log.txt
+-rw-r--r-- 1 shlomif shlomif 251772325 Feb  9 18:02 0fc-log.txt
 ```
 
 # Credits
