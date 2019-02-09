@@ -119848,3 +119848,3991 @@ Trying deal = 3242055724
 Trying deal = 3242055724 using 0AB
 This game is solveable.
 Total number of states checked is 1910870.
+Trying deal = 3242065498
+Trying deal = 3242065498 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242095925
+Trying deal = 3242095925 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242099140
+Trying deal = 3242099140 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242099590
+Trying deal = 3242099590 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242101578
+Trying deal = 3242101578 using 0AB
+I could not solve this game.
+Total number of states checked is 2067091.
+Trying deal = 3242102473
+Trying deal = 3242102473 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242115832
+Trying deal = 3242115832 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242116200
+Trying deal = 3242116200 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242120627
+Trying deal = 3242120627 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242123444
+Trying deal = 3242123444 using 0AB
+I could not solve this game.
+Total number of states checked is 1103975.
+Trying deal = 3242154977
+Trying deal = 3242154977 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242155931
+Trying deal = 3242155931 using 0AB
+I could not solve this game.
+Total number of states checked is 1034605.
+Trying deal = 3242164691
+Trying deal = 3242164691 using 0AB
+This game is solveable.
+Total number of states checked is 1179095.
+Trying deal = 3242184174
+Trying deal = 3242184174 using 0AB
+I could not solve this game.
+Total number of states checked is 1079891.
+Trying deal = 3242198098
+Trying deal = 3242198098 using 0AB
+I could not solve this game.
+Total number of states checked is 1338257.
+Trying deal = 3242204712
+Trying deal = 3242204712 using 0AB
+I could not solve this game.
+Total number of states checked is 1881562.
+Trying deal = 3242215622
+Trying deal = 3242215622 using 0AB
+This game is solveable.
+Total number of states checked is 1343382.
+Trying deal = 3242217311
+Trying deal = 3242217311 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242223398
+Trying deal = 3242223398 using 0AB
+I could not solve this game.
+Total number of states checked is 1258423.
+Trying deal = 3242225486
+Trying deal = 3242225486 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242226825
+Trying deal = 3242226825 using 0AB
+I could not solve this game.
+Total number of states checked is 2026173.
+Trying deal = 3242230247
+Trying deal = 3242230247 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242231710
+Trying deal = 3242231710 using 0AB
+I could not solve this game.
+Total number of states checked is 1062439.
+Trying deal = 3242234734
+Trying deal = 3242234734 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242249610
+Trying deal = 3242249610 using 0AB
+I could not solve this game.
+Total number of states checked is 2217311.
+Trying deal = 3242260093
+Trying deal = 3242260093 using 0AB
+I could not solve this game.
+Total number of states checked is 2117210.
+Trying deal = 3242278182
+Trying deal = 3242278182 using 0AB
+I could not solve this game.
+Total number of states checked is 1189116.
+Trying deal = 3242288911
+Trying deal = 3242288911 using 0AB
+This game is solveable.
+Total number of states checked is 1842495.
+Trying deal = 3242291582
+Trying deal = 3242291582 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242293001
+Trying deal = 3242293001 using 0AB
+I could not solve this game.
+Total number of states checked is 1420335.
+Trying deal = 3242294867
+Trying deal = 3242294867 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242302398
+Trying deal = 3242302398 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242308611
+Trying deal = 3242308611 using 0AB
+I could not solve this game.
+Total number of states checked is 1395868.
+Trying deal = 3242312365
+Trying deal = 3242312365 using 0AB
+I could not solve this game.
+Total number of states checked is 1941520.
+Trying deal = 3242316152
+Trying deal = 3242316152 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242320365
+Trying deal = 3242320365 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242323633
+Trying deal = 3242323633 using 0AB
+I could not solve this game.
+Total number of states checked is 1471526.
+Trying deal = 3242333257
+Trying deal = 3242333257 using 0AB
+I could not solve this game.
+Total number of states checked is 1084052.
+Trying deal = 3242342407
+Trying deal = 3242342407 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242348529
+Trying deal = 3242348529 using 0AB
+I could not solve this game.
+Total number of states checked is 1728502.
+Trying deal = 3242350956
+Trying deal = 3242350956 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242351264
+Trying deal = 3242351264 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242352163
+Trying deal = 3242352163 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242362634
+Trying deal = 3242362634 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242367152
+Trying deal = 3242367152 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242368354
+Trying deal = 3242368354 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242368771
+Trying deal = 3242368771 using 0AB
+This game is solveable.
+Total number of states checked is 1198098.
+Trying deal = 3242371838
+Trying deal = 3242371838 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242374765
+Trying deal = 3242374765 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242376544
+Trying deal = 3242376544 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242379438
+Trying deal = 3242379438 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242389739
+Trying deal = 3242389739 using 0AB
+I could not solve this game.
+Total number of states checked is 1063584.
+Trying deal = 3242397815
+Trying deal = 3242397815 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242404173
+Trying deal = 3242404173 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242404593
+Trying deal = 3242404593 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242407071
+Trying deal = 3242407071 using 0AB
+I could not solve this game.
+Total number of states checked is 2134813.
+Trying deal = 3242407164
+Trying deal = 3242407164 using 0AB
+I could not solve this game.
+Total number of states checked is 1240730.
+Trying deal = 3242408246
+Trying deal = 3242408246 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242420022
+Trying deal = 3242420022 using 0AB
+I could not solve this game.
+Total number of states checked is 1131369.
+Trying deal = 3242425213
+Trying deal = 3242425213 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242434263
+Trying deal = 3242434263 using 0AB
+I could not solve this game.
+Total number of states checked is 1068771.
+Trying deal = 3242436065
+Trying deal = 3242436065 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242451445
+Trying deal = 3242451445 using 0AB
+I could not solve this game.
+Total number of states checked is 2491630.
+Trying deal = 3242455451
+Trying deal = 3242455451 using 0AB
+I could not solve this game.
+Total number of states checked is 1013881.
+Trying deal = 3242461088
+Trying deal = 3242461088 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242463464
+Trying deal = 3242463464 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242479358
+Trying deal = 3242479358 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242485507
+Trying deal = 3242485507 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242492562
+Trying deal = 3242492562 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242495410
+Trying deal = 3242495410 using 0AB
+I could not solve this game.
+Total number of states checked is 1848864.
+Trying deal = 3242500496
+Trying deal = 3242500496 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242515789
+Trying deal = 3242515789 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242530905
+Trying deal = 3242530905 using 0AB
+I could not solve this game.
+Total number of states checked is 1904841.
+Trying deal = 3242536833
+Trying deal = 3242536833 using 0AB
+This game is solveable.
+Total number of states checked is 1004099.
+Trying deal = 3242539597
+Trying deal = 3242539597 using 0AB
+I could not solve this game.
+Total number of states checked is 1797726.
+Trying deal = 3242544332
+Trying deal = 3242544332 using 0AB
+I could not solve this game.
+Total number of states checked is 2393314.
+Trying deal = 3242544603
+Trying deal = 3242544603 using 0AB
+I could not solve this game.
+Total number of states checked is 1045331.
+Trying deal = 3242549985
+Trying deal = 3242549985 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242552790
+Trying deal = 3242552790 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242556481
+Trying deal = 3242556481 using 0AB
+I could not solve this game.
+Total number of states checked is 1468825.
+Trying deal = 3242558911
+Trying deal = 3242558911 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242559227
+Trying deal = 3242559227 using 0AB
+I could not solve this game.
+Total number of states checked is 1492789.
+Trying deal = 3242569117
+Trying deal = 3242569117 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242588853
+Trying deal = 3242588853 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242595924
+Trying deal = 3242595924 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242614421
+Trying deal = 3242614421 using 0AB
+I could not solve this game.
+Total number of states checked is 1012477.
+Trying deal = 3242620189
+Trying deal = 3242620189 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242642476
+Trying deal = 3242642476 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242650258
+Trying deal = 3242650258 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242654682
+Trying deal = 3242654682 using 0AB
+I could not solve this game.
+Total number of states checked is 1963889.
+Trying deal = 3242700715
+Trying deal = 3242700715 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242703722
+Trying deal = 3242703722 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242727651
+Trying deal = 3242727651 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242759317
+Trying deal = 3242759317 using 0AB
+I could not solve this game.
+Total number of states checked is 1309599.
+Trying deal = 3242766929
+Trying deal = 3242766929 using 0AB
+I could not solve this game.
+Total number of states checked is 1248027.
+Trying deal = 3242775130
+Trying deal = 3242775130 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242777382
+Trying deal = 3242777382 using 0AB
+This game is solveable.
+Total number of states checked is 2308087.
+Trying deal = 3242785894
+Trying deal = 3242785894 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242786754
+Trying deal = 3242786754 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242789676
+Trying deal = 3242789676 using 0AB
+I could not solve this game.
+Total number of states checked is 1626771.
+Trying deal = 3242790130
+Trying deal = 3242790130 using 0AB
+This game is solveable.
+Total number of states checked is 1005097.
+Trying deal = 3242797840
+Trying deal = 3242797840 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242801655
+Trying deal = 3242801655 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242808461
+Trying deal = 3242808461 using 0AB
+I could not solve this game.
+Total number of states checked is 1362437.
+Trying deal = 3242827216
+Trying deal = 3242827216 using 0AB
+I could not solve this game.
+Total number of states checked is 2913013.
+Trying deal = 3242835990
+Trying deal = 3242835990 using 0AB
+I could not solve this game.
+Total number of states checked is 1733075.
+Trying deal = 3242840607
+Trying deal = 3242840607 using 0AB
+I could not solve this game.
+Total number of states checked is 2562927.
+Trying deal = 3242841776
+Trying deal = 3242841776 using 0AB
+This game is solveable.
+Total number of states checked is 1398057.
+Trying deal = 3242857550
+Trying deal = 3242857550 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242868851
+Trying deal = 3242868851 using 0AB
+I could not solve this game.
+Total number of states checked is 2304273.
+Trying deal = 3242871489
+Trying deal = 3242871489 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242889265
+Trying deal = 3242889265 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242891256
+Trying deal = 3242891256 using 0AB
+I could not solve this game.
+Total number of states checked is 1067735.
+Trying deal = 3242897749
+Trying deal = 3242897749 using 0AB
+I could not solve this game.
+Total number of states checked is 1416187.
+Trying deal = 3242901710
+Trying deal = 3242901710 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242908262
+Trying deal = 3242908262 using 0AB
+I could not solve this game.
+Total number of states checked is 1029637.
+Trying deal = 3242909269
+Trying deal = 3242909269 using 0AB
+I could not solve this game.
+Total number of states checked is 2112405.
+Trying deal = 3242912440
+Trying deal = 3242912440 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242932038
+Trying deal = 3242932038 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242932740
+Trying deal = 3242932740 using 0AB
+I could not solve this game.
+Total number of states checked is 1925682.
+Trying deal = 3242955964
+Trying deal = 3242955964 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242957502
+Trying deal = 3242957502 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242961637
+Trying deal = 3242961637 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3242966825
+Trying deal = 3242966825 using 0AB
+This game is solveable.
+Total number of states checked is 2174938.
+Trying deal = 3242999253
+Trying deal = 3242999253 using 0AB
+I could not solve this game.
+Total number of states checked is 2265537.
+Trying deal = 3243015443
+Trying deal = 3243015443 using 0AB
+I could not solve this game.
+Total number of states checked is 2511773.
+Trying deal = 3243019249
+Trying deal = 3243019249 using 0AB
+I could not solve this game.
+Total number of states checked is 1853366.
+Trying deal = 3243029346
+Trying deal = 3243029346 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243050920
+Trying deal = 3243050920 using 0AB
+I could not solve this game.
+Total number of states checked is 1144056.
+Trying deal = 3243055560
+Trying deal = 3243055560 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243104926
+Trying deal = 3243104926 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243105407
+Trying deal = 3243105407 using 0AB
+I could not solve this game.
+Total number of states checked is 1585716.
+Trying deal = 3243126069
+Trying deal = 3243126069 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243152094
+Trying deal = 3243152094 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243154448
+Trying deal = 3243154448 using 0AB
+I could not solve this game.
+Total number of states checked is 2513597.
+Trying deal = 3243158408
+Trying deal = 3243158408 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243173917
+Trying deal = 3243173917 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243175094
+Trying deal = 3243175094 using 0AB
+I could not solve this game.
+Total number of states checked is 2901156.
+Trying deal = 3243192693
+Trying deal = 3243192693 using 0AB
+I could not solve this game.
+Total number of states checked is 1963617.
+Trying deal = 3243201762
+Trying deal = 3243201762 using 0AB
+This game is solveable.
+Total number of states checked is 1173214.
+Trying deal = 3243218179
+Trying deal = 3243218179 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243228662
+Trying deal = 3243228662 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243229266
+Trying deal = 3243229266 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243239093
+Trying deal = 3243239093 using 0AB
+I could not solve this game.
+Total number of states checked is 1863976.
+Trying deal = 3243251654
+Trying deal = 3243251654 using 0AB
+I could not solve this game.
+Total number of states checked is 1490378.
+Trying deal = 3243258922
+Trying deal = 3243258922 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243265313
+Trying deal = 3243265313 using 0AB
+I could not solve this game.
+Total number of states checked is 1461638.
+Trying deal = 3243268127
+Trying deal = 3243268127 using 0AB
+I could not solve this game.
+Total number of states checked is 1809015.
+Trying deal = 3243269351
+Trying deal = 3243269351 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243288245
+Trying deal = 3243288245 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243290048
+Trying deal = 3243290048 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243297226
+Trying deal = 3243297226 using 0AB
+I could not solve this game.
+Total number of states checked is 1159907.
+Trying deal = 3243300337
+Trying deal = 3243300337 using 0AB
+I could not solve this game.
+Total number of states checked is 1640930.
+Trying deal = 3243307358
+Trying deal = 3243307358 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243309298
+Trying deal = 3243309298 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243315340
+Trying deal = 3243315340 using 0AB
+I could not solve this game.
+Total number of states checked is 1029399.
+Trying deal = 3243316978
+Trying deal = 3243316978 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243320145
+Trying deal = 3243320145 using 0AB
+I could not solve this game.
+Total number of states checked is 1745794.
+Trying deal = 3243349824
+Trying deal = 3243349824 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243388195
+Trying deal = 3243388195 using 0AB
+This game is solveable.
+Total number of states checked is 1004367.
+Trying deal = 3243408382
+Trying deal = 3243408382 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243414086
+Trying deal = 3243414086 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243419297
+Trying deal = 3243419297 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243429588
+Trying deal = 3243429588 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243442885
+Trying deal = 3243442885 using 0AB
+I could not solve this game.
+Total number of states checked is 1141300.
+Trying deal = 3243444360
+Trying deal = 3243444360 using 0AB
+I could not solve this game.
+Total number of states checked is 1197312.
+Trying deal = 3243455031
+Trying deal = 3243455031 using 0AB
+I could not solve this game.
+Total number of states checked is 1391395.
+Trying deal = 3243466551
+Trying deal = 3243466551 using 0AB
+I could not solve this game.
+Total number of states checked is 1388815.
+Trying deal = 3243478491
+Trying deal = 3243478491 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243479785
+Trying deal = 3243479785 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243484092
+Trying deal = 3243484092 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243490455
+Trying deal = 3243490455 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243495808
+Trying deal = 3243495808 using 0AB
+This game is solveable.
+Total number of states checked is 1058311.
+Trying deal = 3243496020
+Trying deal = 3243496020 using 0AB
+I could not solve this game.
+Total number of states checked is 1213364.
+Trying deal = 3243501422
+Trying deal = 3243501422 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243517450
+Trying deal = 3243517450 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243524380
+Trying deal = 3243524380 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243524527
+Trying deal = 3243524527 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243526691
+Trying deal = 3243526691 using 0AB
+I could not solve this game.
+Total number of states checked is 1513328.
+Trying deal = 3243538061
+Trying deal = 3243538061 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243546954
+Trying deal = 3243546954 using 0AB
+This game is solveable.
+Total number of states checked is 2235498.
+Trying deal = 3243548927
+Trying deal = 3243548927 using 0AB
+I could not solve this game.
+Total number of states checked is 2174605.
+Trying deal = 3243551590
+Trying deal = 3243551590 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243567111
+Trying deal = 3243567111 using 0AB
+I could not solve this game.
+Total number of states checked is 1514636.
+Trying deal = 3243573323
+Trying deal = 3243573323 using 0AB
+This game is solveable.
+Total number of states checked is 2061708.
+Trying deal = 3243586864
+Trying deal = 3243586864 using 0AB
+I could not solve this game.
+Total number of states checked is 1417003.
+Trying deal = 3243588297
+Trying deal = 3243588297 using 0AB
+I could not solve this game.
+Total number of states checked is 2537635.
+Trying deal = 3243594671
+Trying deal = 3243594671 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243599199
+Trying deal = 3243599199 using 0AB
+I could not solve this game.
+Total number of states checked is 1767996.
+Trying deal = 3243610087
+Trying deal = 3243610087 using 0AB
+I could not solve this game.
+Total number of states checked is 1117169.
+Trying deal = 3243618747
+Trying deal = 3243618747 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243625561
+Trying deal = 3243625561 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243638309
+Trying deal = 3243638309 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243638360
+Trying deal = 3243638360 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243640745
+Trying deal = 3243640745 using 0AB
+I could not solve this game.
+Total number of states checked is 2120934.
+Trying deal = 3243659226
+Trying deal = 3243659226 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243659359
+Trying deal = 3243659359 using 0AB
+This game is solveable.
+Total number of states checked is 2614776.
+Trying deal = 3243661240
+Trying deal = 3243661240 using 0AB
+I could not solve this game.
+Total number of states checked is 1233569.
+Trying deal = 3243661354
+Trying deal = 3243661354 using 0AB
+I could not solve this game.
+Total number of states checked is 1244759.
+Trying deal = 3243664429
+Trying deal = 3243664429 using 0AB
+I could not solve this game.
+Total number of states checked is 2260632.
+Trying deal = 3243667577
+Trying deal = 3243667577 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243675653
+Trying deal = 3243675653 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243675654
+Trying deal = 3243675654 using 0AB
+I could not solve this game.
+Total number of states checked is 1216936.
+Trying deal = 3243706244
+Trying deal = 3243706244 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243707888
+Trying deal = 3243707888 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243726747
+Trying deal = 3243726747 using 0AB
+This game is solveable.
+Total number of states checked is 2572424.
+Trying deal = 3243732125
+Trying deal = 3243732125 using 0AB
+I could not solve this game.
+Total number of states checked is 2194274.
+Trying deal = 3243770872
+Trying deal = 3243770872 using 0AB
+This game is solveable.
+Total number of states checked is 1276799.
+Trying deal = 3243776704
+Trying deal = 3243776704 using 0AB
+This game is solveable.
+Total number of states checked is 2336075.
+Trying deal = 3243793106
+Trying deal = 3243793106 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243795439
+Trying deal = 3243795439 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243842307
+Trying deal = 3243842307 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243845023
+Trying deal = 3243845023 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243857263
+Trying deal = 3243857263 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243879040
+Trying deal = 3243879040 using 0AB
+I could not solve this game.
+Total number of states checked is 1043306.
+Trying deal = 3243880616
+Trying deal = 3243880616 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243888087
+Trying deal = 3243888087 using 0AB
+I could not solve this game.
+Total number of states checked is 1207160.
+Trying deal = 3243894269
+Trying deal = 3243894269 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243901585
+Trying deal = 3243901585 using 0AB
+I could not solve this game.
+Total number of states checked is 1833492.
+Trying deal = 3243910590
+Trying deal = 3243910590 using 0AB
+I could not solve this game.
+Total number of states checked is 1948820.
+Trying deal = 3243921722
+Trying deal = 3243921722 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243926512
+Trying deal = 3243926512 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243942791
+Trying deal = 3243942791 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243953703
+Trying deal = 3243953703 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243961579
+Trying deal = 3243961579 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243973094
+Trying deal = 3243973094 using 0AB
+I could not solve this game.
+Total number of states checked is 1581939.
+Trying deal = 3243991140
+Trying deal = 3243991140 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3243998935
+Trying deal = 3243998935 using 0AB
+I could not solve this game.
+Total number of states checked is 1798845.
+Trying deal = 3244002279
+Trying deal = 3244002279 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244005728
+Trying deal = 3244005728 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244009403
+Trying deal = 3244009403 using 0AB
+This game is solveable.
+Total number of states checked is 1152003.
+Trying deal = 3244010625
+Trying deal = 3244010625 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244013130
+Trying deal = 3244013130 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244014841
+Trying deal = 3244014841 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244029597
+Trying deal = 3244029597 using 0AB
+I could not solve this game.
+Total number of states checked is 1276961.
+Trying deal = 3244029900
+Trying deal = 3244029900 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244045066
+Trying deal = 3244045066 using 0AB
+This game is solveable.
+Total number of states checked is 2243474.
+Trying deal = 3244050644
+Trying deal = 3244050644 using 0AB
+I could not solve this game.
+Total number of states checked is 1077311.
+Trying deal = 3244050780
+Trying deal = 3244050780 using 0AB
+I could not solve this game.
+Total number of states checked is 1743414.
+Trying deal = 3244053112
+Trying deal = 3244053112 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244068780
+Trying deal = 3244068780 using 0AB
+I could not solve this game.
+Total number of states checked is 1878267.
+Trying deal = 3244079254
+Trying deal = 3244079254 using 0AB
+I could not solve this game.
+Total number of states checked is 1067348.
+Trying deal = 3244079445
+Trying deal = 3244079445 using 0AB
+I could not solve this game.
+Total number of states checked is 1865604.
+Trying deal = 3244100627
+Trying deal = 3244100627 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244104845
+Trying deal = 3244104845 using 0AB
+I could not solve this game.
+Total number of states checked is 2936200.
+Trying deal = 3244107153
+Trying deal = 3244107153 using 0AB
+I could not solve this game.
+Total number of states checked is 1511752.
+Trying deal = 3244110374
+Trying deal = 3244110374 using 0AB
+This game is solveable.
+Total number of states checked is 1591376.
+Trying deal = 3244123383
+Trying deal = 3244123383 using 0AB
+I could not solve this game.
+Total number of states checked is 1859483.
+Trying deal = 3244125369
+Trying deal = 3244125369 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244130063
+Trying deal = 3244130063 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244131050
+Trying deal = 3244131050 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244131515
+Trying deal = 3244131515 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244140412
+Trying deal = 3244140412 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244141611
+Trying deal = 3244141611 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244150812
+Trying deal = 3244150812 using 0AB
+I could not solve this game.
+Total number of states checked is 1230614.
+Trying deal = 3244163860
+Trying deal = 3244163860 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244165470
+Trying deal = 3244165470 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244174630
+Trying deal = 3244174630 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244187471
+Trying deal = 3244187471 using 0AB
+I could not solve this game.
+Total number of states checked is 2371365.
+Trying deal = 3244192581
+Trying deal = 3244192581 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244197875
+Trying deal = 3244197875 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244199461
+Trying deal = 3244199461 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244204124
+Trying deal = 3244204124 using 0AB
+This game is solveable.
+Total number of states checked is 1800288.
+Trying deal = 3244213011
+Trying deal = 3244213011 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244229518
+Trying deal = 3244229518 using 0AB
+I could not solve this game.
+Total number of states checked is 1711488.
+Trying deal = 3244231062
+Trying deal = 3244231062 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244233427
+Trying deal = 3244233427 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244237519
+Trying deal = 3244237519 using 0AB
+I could not solve this game.
+Total number of states checked is 1852107.
+Trying deal = 3244237603
+Trying deal = 3244237603 using 0AB
+I could not solve this game.
+Total number of states checked is 2297821.
+Trying deal = 3244241752
+Trying deal = 3244241752 using 0AB
+This game is solveable.
+Total number of states checked is 1147934.
+Trying deal = 3244247370
+Trying deal = 3244247370 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244248772
+Trying deal = 3244248772 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244254093
+Trying deal = 3244254093 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244256134
+Trying deal = 3244256134 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244275013
+Trying deal = 3244275013 using 0AB
+This game is solveable.
+Total number of states checked is 2037363.
+Trying deal = 3244280153
+Trying deal = 3244280153 using 0AB
+I could not solve this game.
+Total number of states checked is 2159490.
+Trying deal = 3244304911
+Trying deal = 3244304911 using 0AB
+I could not solve this game.
+Total number of states checked is 1005812.
+Trying deal = 3244324394
+Trying deal = 3244324394 using 0AB
+I could not solve this game.
+Total number of states checked is 1000731.
+Trying deal = 3244324852
+Trying deal = 3244324852 using 0AB
+I could not solve this game.
+Total number of states checked is 1559797.
+Trying deal = 3244327833
+Trying deal = 3244327833 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244339741
+Trying deal = 3244339741 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244349444
+Trying deal = 3244349444 using 0AB
+This game is solveable.
+Total number of states checked is 2050350.
+Trying deal = 3244357832
+Trying deal = 3244357832 using 0AB
+I could not solve this game.
+Total number of states checked is 2455900.
+Trying deal = 3244401690
+Trying deal = 3244401690 using 0AB
+I could not solve this game.
+Total number of states checked is 1257276.
+Trying deal = 3244404677
+Trying deal = 3244404677 using 0AB
+I could not solve this game.
+Total number of states checked is 2654737.
+Trying deal = 3244409125
+Trying deal = 3244409125 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244437303
+Trying deal = 3244437303 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244441546
+Trying deal = 3244441546 using 0AB
+I could not solve this game.
+Total number of states checked is 1846949.
+Trying deal = 3244442438
+Trying deal = 3244442438 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244444541
+Trying deal = 3244444541 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244444860
+Trying deal = 3244444860 using 0AB
+I could not solve this game.
+Total number of states checked is 1335848.
+Trying deal = 3244462585
+Trying deal = 3244462585 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244463726
+Trying deal = 3244463726 using 0AB
+I could not solve this game.
+Total number of states checked is 1556180.
+Trying deal = 3244471340
+Trying deal = 3244471340 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244474891
+Trying deal = 3244474891 using 0AB
+I could not solve this game.
+Total number of states checked is 1405577.
+Trying deal = 3244486185
+Trying deal = 3244486185 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244505236
+Trying deal = 3244505236 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244518065
+Trying deal = 3244518065 using 0AB
+I could not solve this game.
+Total number of states checked is 2160710.
+Trying deal = 3244530340
+Trying deal = 3244530340 using 0AB
+I could not solve this game.
+Total number of states checked is 1086598.
+Trying deal = 3244534900
+Trying deal = 3244534900 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244537291
+Trying deal = 3244537291 using 0AB
+I could not solve this game.
+Total number of states checked is 2411722.
+Trying deal = 3244537701
+Trying deal = 3244537701 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244538424
+Trying deal = 3244538424 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244538623
+Trying deal = 3244538623 using 0AB
+I could not solve this game.
+Total number of states checked is 1051004.
+Trying deal = 3244544455
+Trying deal = 3244544455 using 0AB
+I could not solve this game.
+Total number of states checked is 2833929.
+Trying deal = 3244551568
+Trying deal = 3244551568 using 0AB
+This game is solveable.
+Total number of states checked is 1924820.
+Trying deal = 3244551791
+Trying deal = 3244551791 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244555922
+Trying deal = 3244555922 using 0AB
+I could not solve this game.
+Total number of states checked is 1859143.
+Trying deal = 3244559482
+Trying deal = 3244559482 using 0AB
+I could not solve this game.
+Total number of states checked is 2738470.
+Trying deal = 3244575428
+Trying deal = 3244575428 using 0AB
+I could not solve this game.
+Total number of states checked is 1212659.
+Trying deal = 3244576053
+Trying deal = 3244576053 using 0AB
+I could not solve this game.
+Total number of states checked is 1160852.
+Trying deal = 3244588068
+Trying deal = 3244588068 using 0AB
+I could not solve this game.
+Total number of states checked is 1293963.
+Trying deal = 3244613114
+Trying deal = 3244613114 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244620682
+Trying deal = 3244620682 using 0AB
+I could not solve this game.
+Total number of states checked is 1902786.
+Trying deal = 3244625376
+Trying deal = 3244625376 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244627436
+Trying deal = 3244627436 using 0AB
+I could not solve this game.
+Total number of states checked is 1900011.
+Trying deal = 3244639606
+Trying deal = 3244639606 using 0AB
+This game is solveable.
+Total number of states checked is 1149466.
+Trying deal = 3244643488
+Trying deal = 3244643488 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244644294
+Trying deal = 3244644294 using 0AB
+I could not solve this game.
+Total number of states checked is 1490911.
+Trying deal = 3244647003
+Trying deal = 3244647003 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244647502
+Trying deal = 3244647502 using 0AB
+I could not solve this game.
+Total number of states checked is 1091095.
+Trying deal = 3244656872
+Trying deal = 3244656872 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244659338
+Trying deal = 3244659338 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244680469
+Trying deal = 3244680469 using 0AB
+I could not solve this game.
+Total number of states checked is 1378491.
+Trying deal = 3244697626
+Trying deal = 3244697626 using 0AB
+This game is solveable.
+Total number of states checked is 1125872.
+Trying deal = 3244710686
+Trying deal = 3244710686 using 0AB
+I could not solve this game.
+Total number of states checked is 1217597.
+Trying deal = 3244723675
+Trying deal = 3244723675 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244731472
+Trying deal = 3244731472 using 0AB
+I could not solve this game.
+Total number of states checked is 2688511.
+Trying deal = 3244742212
+Trying deal = 3244742212 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244745961
+Trying deal = 3244745961 using 0AB
+This game is solveable.
+Total number of states checked is 2918919.
+Trying deal = 3244761546
+Trying deal = 3244761546 using 0AB
+I could not solve this game.
+Total number of states checked is 1487601.
+Trying deal = 3244766215
+Trying deal = 3244766215 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244781520
+Trying deal = 3244781520 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244787837
+Trying deal = 3244787837 using 0AB
+I could not solve this game.
+Total number of states checked is 1159209.
+Trying deal = 3244807657
+Trying deal = 3244807657 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244811587
+Trying deal = 3244811587 using 0AB
+I could not solve this game.
+Total number of states checked is 2053405.
+Trying deal = 3244821978
+Trying deal = 3244821978 using 0AB
+I could not solve this game.
+Total number of states checked is 1711394.
+Trying deal = 3244841269
+Trying deal = 3244841269 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244851061
+Trying deal = 3244851061 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244852042
+Trying deal = 3244852042 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244878032
+Trying deal = 3244878032 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244879255
+Trying deal = 3244879255 using 0AB
+I could not solve this game.
+Total number of states checked is 1372587.
+Trying deal = 3244888869
+Trying deal = 3244888869 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244904948
+Trying deal = 3244904948 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244907888
+Trying deal = 3244907888 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244909241
+Trying deal = 3244909241 using 0AB
+I could not solve this game.
+Total number of states checked is 2843371.
+Trying deal = 3244934697
+Trying deal = 3244934697 using 0AB
+I could not solve this game.
+Total number of states checked is 1470641.
+Trying deal = 3244946769
+Trying deal = 3244946769 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244948067
+Trying deal = 3244948067 using 0AB
+I could not solve this game.
+Total number of states checked is 1618455.
+Trying deal = 3244958087
+Trying deal = 3244958087 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3244975836
+Trying deal = 3244975836 using 0AB
+I could not solve this game.
+Total number of states checked is 1586814.
+Trying deal = 3244977077
+Trying deal = 3244977077 using 0AB
+I could not solve this game.
+Total number of states checked is 1494282.
+Trying deal = 3244979916
+Trying deal = 3244979916 using 0AB
+I could not solve this game.
+Total number of states checked is 1512037.
+Trying deal = 3244982075
+Trying deal = 3244982075 using 0AB
+I could not solve this game.
+Total number of states checked is 1908570.
+Trying deal = 3245003518
+Trying deal = 3245003518 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245025569
+Trying deal = 3245025569 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245028561
+Trying deal = 3245028561 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245029943
+Trying deal = 3245029943 using 0AB
+This game is solveable.
+Total number of states checked is 1080012.
+Trying deal = 3245039563
+Trying deal = 3245039563 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245047824
+Trying deal = 3245047824 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245051879
+Trying deal = 3245051879 using 0AB
+I could not solve this game.
+Total number of states checked is 1108627.
+Trying deal = 3245056891
+Trying deal = 3245056891 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245057811
+Trying deal = 3245057811 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245076673
+Trying deal = 3245076673 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245078570
+Trying deal = 3245078570 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245082883
+Trying deal = 3245082883 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245087649
+Trying deal = 3245087649 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245088563
+Trying deal = 3245088563 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245093846
+Trying deal = 3245093846 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245110134
+Trying deal = 3245110134 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245123488
+Trying deal = 3245123488 using 0AB
+I could not solve this game.
+Total number of states checked is 1974256.
+Trying deal = 3245138761
+Trying deal = 3245138761 using 0AB
+I could not solve this game.
+Total number of states checked is 1250113.
+Trying deal = 3245140432
+Trying deal = 3245140432 using 0AB
+I could not solve this game.
+Total number of states checked is 1149892.
+Trying deal = 3245146888
+Trying deal = 3245146888 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245152310
+Trying deal = 3245152310 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245153827
+Trying deal = 3245153827 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245163236
+Trying deal = 3245163236 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245165663
+Trying deal = 3245165663 using 0AB
+I could not solve this game.
+Total number of states checked is 1666859.
+Trying deal = 3245166499
+Trying deal = 3245166499 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245174667
+Trying deal = 3245174667 using 0AB
+I could not solve this game.
+Total number of states checked is 1133417.
+Trying deal = 3245185956
+Trying deal = 3245185956 using 0AB
+I could not solve this game.
+Total number of states checked is 2427460.
+Trying deal = 3245196512
+Trying deal = 3245196512 using 0AB
+I could not solve this game.
+Total number of states checked is 1601028.
+Trying deal = 3245199763
+Trying deal = 3245199763 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245201330
+Trying deal = 3245201330 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245212458
+Trying deal = 3245212458 using 0AB
+I could not solve this game.
+Total number of states checked is 1046846.
+Trying deal = 3245230776
+Trying deal = 3245230776 using 0AB
+I could not solve this game.
+Total number of states checked is 1006260.
+Trying deal = 3245247270
+Trying deal = 3245247270 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245249887
+Trying deal = 3245249887 using 0AB
+I could not solve this game.
+Total number of states checked is 1539286.
+Trying deal = 3245260096
+Trying deal = 3245260096 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245261046
+Trying deal = 3245261046 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245263872
+Trying deal = 3245263872 using 0AB
+I could not solve this game.
+Total number of states checked is 2420904.
+Trying deal = 3245275453
+Trying deal = 3245275453 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245275995
+Trying deal = 3245275995 using 0AB
+I could not solve this game.
+Total number of states checked is 1007997.
+Trying deal = 3245281936
+Trying deal = 3245281936 using 0AB
+I could not solve this game.
+Total number of states checked is 1292696.
+Trying deal = 3245285281
+Trying deal = 3245285281 using 0AB
+I could not solve this game.
+Total number of states checked is 1048473.
+Trying deal = 3245293736
+Trying deal = 3245293736 using 0AB
+I could not solve this game.
+Total number of states checked is 1166821.
+Trying deal = 3245296564
+Trying deal = 3245296564 using 0AB
+This game is solveable.
+Total number of states checked is 1392704.
+Trying deal = 3245299322
+Trying deal = 3245299322 using 0AB
+This game is solveable.
+Total number of states checked is 1407623.
+Trying deal = 3245318703
+Trying deal = 3245318703 using 0AB
+This game is solveable.
+Total number of states checked is 2200403.
+Trying deal = 3245321427
+Trying deal = 3245321427 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245325180
+Trying deal = 3245325180 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245328121
+Trying deal = 3245328121 using 0AB
+I could not solve this game.
+Total number of states checked is 1154514.
+Trying deal = 3245346629
+Trying deal = 3245346629 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245352213
+Trying deal = 3245352213 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245366728
+Trying deal = 3245366728 using 0AB
+I could not solve this game.
+Total number of states checked is 1199367.
+Trying deal = 3245368853
+Trying deal = 3245368853 using 0AB
+This game is solveable.
+Total number of states checked is 2954289.
+Trying deal = 3245369756
+Trying deal = 3245369756 using 0AB
+This game is solveable.
+Total number of states checked is 1004936.
+Trying deal = 3245392438
+Trying deal = 3245392438 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245392830
+Trying deal = 3245392830 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245398054
+Trying deal = 3245398054 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245403488
+Trying deal = 3245403488 using 0AB
+This game is solveable.
+Total number of states checked is 1062369.
+Trying deal = 3245418975
+Trying deal = 3245418975 using 0AB
+I could not solve this game.
+Total number of states checked is 2199108.
+Trying deal = 3245431829
+Trying deal = 3245431829 using 0AB
+This game is solveable.
+Total number of states checked is 1334104.
+Trying deal = 3245436422
+Trying deal = 3245436422 using 0AB
+This game is solveable.
+Total number of states checked is 1520755.
+Trying deal = 3245443476
+Trying deal = 3245443476 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245452388
+Trying deal = 3245452388 using 0AB
+I could not solve this game.
+Total number of states checked is 1005526.
+Trying deal = 3245454734
+Trying deal = 3245454734 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245477773
+Trying deal = 3245477773 using 0AB
+I could not solve this game.
+Total number of states checked is 2098563.
+Trying deal = 3245485670
+Trying deal = 3245485670 using 0AB
+I could not solve this game.
+Total number of states checked is 1044324.
+Trying deal = 3245531978
+Trying deal = 3245531978 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245546853
+Trying deal = 3245546853 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245583494
+Trying deal = 3245583494 using 0AB
+This game is solveable.
+Total number of states checked is 1524073.
+Trying deal = 3245588534
+Trying deal = 3245588534 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245592425
+Trying deal = 3245592425 using 0AB
+I could not solve this game.
+Total number of states checked is 1704933.
+Trying deal = 3245599744
+Trying deal = 3245599744 using 0AB
+I could not solve this game.
+Total number of states checked is 2582677.
+Trying deal = 3245606759
+Trying deal = 3245606759 using 0AB
+I could not solve this game.
+Total number of states checked is 2032543.
+Trying deal = 3245625862
+Trying deal = 3245625862 using 0AB
+I could not solve this game.
+Total number of states checked is 1800260.
+Trying deal = 3245637255
+Trying deal = 3245637255 using 0AB
+I could not solve this game.
+Total number of states checked is 2242635.
+Trying deal = 3245653650
+Trying deal = 3245653650 using 0AB
+I could not solve this game.
+Total number of states checked is 2190944.
+Trying deal = 3245660615
+Trying deal = 3245660615 using 0AB
+I could not solve this game.
+Total number of states checked is 2298811.
+Trying deal = 3245666998
+Trying deal = 3245666998 using 0AB
+I could not solve this game.
+Total number of states checked is 1002842.
+Trying deal = 3245685411
+Trying deal = 3245685411 using 0AB
+I could not solve this game.
+Total number of states checked is 1968058.
+Trying deal = 3245686925
+Trying deal = 3245686925 using 0AB
+I could not solve this game.
+Total number of states checked is 1766481.
+Trying deal = 3245690883
+Trying deal = 3245690883 using 0AB
+I could not solve this game.
+Total number of states checked is 1906938.
+Trying deal = 3245697556
+Trying deal = 3245697556 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245707040
+Trying deal = 3245707040 using 0AB
+This game is solveable.
+Total number of states checked is 1900947.
+Trying deal = 3245727031
+Trying deal = 3245727031 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245739510
+Trying deal = 3245739510 using 0AB
+This game is solveable.
+Total number of states checked is 2398995.
+Trying deal = 3245751917
+Trying deal = 3245751917 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245753882
+Trying deal = 3245753882 using 0AB
+I could not solve this game.
+Total number of states checked is 1785948.
+Trying deal = 3245755501
+Trying deal = 3245755501 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245760109
+Trying deal = 3245760109 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245760668
+Trying deal = 3245760668 using 0AB
+I could not solve this game.
+Total number of states checked is 1292036.
+Trying deal = 3245769874
+Trying deal = 3245769874 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245771715
+Trying deal = 3245771715 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245777670
+Trying deal = 3245777670 using 0AB
+I could not solve this game.
+Total number of states checked is 2627694.
+Trying deal = 3245785052
+Trying deal = 3245785052 using 0AB
+I could not solve this game.
+Total number of states checked is 2705065.
+Trying deal = 3245796298
+Trying deal = 3245796298 using 0AB
+I could not solve this game.
+Total number of states checked is 1376825.
+Trying deal = 3245797557
+Trying deal = 3245797557 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245800974
+Trying deal = 3245800974 using 0AB
+I could not solve this game.
+Total number of states checked is 1291507.
+Trying deal = 3245801337
+Trying deal = 3245801337 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245818018
+Trying deal = 3245818018 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245827159
+Trying deal = 3245827159 using 0AB
+I could not solve this game.
+Total number of states checked is 1447599.
+Trying deal = 3245829564
+Trying deal = 3245829564 using 0AB
+This game is solveable.
+Total number of states checked is 1372156.
+Trying deal = 3245836473
+Trying deal = 3245836473 using 0AB
+I could not solve this game.
+Total number of states checked is 1040913.
+Trying deal = 3245837690
+Trying deal = 3245837690 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245844414
+Trying deal = 3245844414 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245848150
+Trying deal = 3245848150 using 0AB
+This game is solveable.
+Total number of states checked is 1339196.
+Trying deal = 3245872751
+Trying deal = 3245872751 using 0AB
+I could not solve this game.
+Total number of states checked is 1275368.
+Trying deal = 3245877736
+Trying deal = 3245877736 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245887386
+Trying deal = 3245887386 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245892166
+Trying deal = 3245892166 using 0AB
+I could not solve this game.
+Total number of states checked is 1074072.
+Trying deal = 3245916219
+Trying deal = 3245916219 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245931190
+Trying deal = 3245931190 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245939030
+Trying deal = 3245939030 using 0AB
+I could not solve this game.
+Total number of states checked is 1504125.
+Trying deal = 3245940269
+Trying deal = 3245940269 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245941172
+Trying deal = 3245941172 using 0AB
+I could not solve this game.
+Total number of states checked is 1703133.
+Trying deal = 3245961735
+Trying deal = 3245961735 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3245979626
+Trying deal = 3245979626 using 0AB
+This game is solveable.
+Total number of states checked is 1856049.
+Trying deal = 3245990378
+Trying deal = 3245990378 using 0AB
+This game is solveable.
+Total number of states checked is 2480962.
+Trying deal = 3246017486
+Trying deal = 3246017486 using 0AB
+This game is solveable.
+Total number of states checked is 1581483.
+Trying deal = 3246044028
+Trying deal = 3246044028 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246047570
+Trying deal = 3246047570 using 0AB
+I could not solve this game.
+Total number of states checked is 2982902.
+Trying deal = 3246049229
+Trying deal = 3246049229 using 0AB
+I could not solve this game.
+Total number of states checked is 1345494.
+Trying deal = 3246053514
+Trying deal = 3246053514 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246055772
+Trying deal = 3246055772 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246057193
+Trying deal = 3246057193 using 0AB
+I could not solve this game.
+Total number of states checked is 1330813.
+Trying deal = 3246057330
+Trying deal = 3246057330 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246065295
+Trying deal = 3246065295 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246076833
+Trying deal = 3246076833 using 0AB
+I could not solve this game.
+Total number of states checked is 1641468.
+Trying deal = 3246082502
+Trying deal = 3246082502 using 0AB
+I could not solve this game.
+Total number of states checked is 2177740.
+Trying deal = 3246083132
+Trying deal = 3246083132 using 0AB
+I could not solve this game.
+Total number of states checked is 1325649.
+Trying deal = 3246093417
+Trying deal = 3246093417 using 0AB
+This game is solveable.
+Total number of states checked is 1422096.
+Trying deal = 3246094272
+Trying deal = 3246094272 using 0AB
+This game is solveable.
+Total number of states checked is 1051784.
+Trying deal = 3246115854
+Trying deal = 3246115854 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246118896
+Trying deal = 3246118896 using 0AB
+I could not solve this game.
+Total number of states checked is 1064704.
+Trying deal = 3246146378
+Trying deal = 3246146378 using 0AB
+I could not solve this game.
+Total number of states checked is 1050509.
+Trying deal = 3246154911
+Trying deal = 3246154911 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246156093
+Trying deal = 3246156093 using 0AB
+I could not solve this game.
+Total number of states checked is 1494933.
+Trying deal = 3246197031
+Trying deal = 3246197031 using 0AB
+I could not solve this game.
+Total number of states checked is 1247534.
+Trying deal = 3246200363
+Trying deal = 3246200363 using 0AB
+I could not solve this game.
+Total number of states checked is 1661210.
+Trying deal = 3246201386
+Trying deal = 3246201386 using 0AB
+This game is solveable.
+Total number of states checked is 1819905.
+Trying deal = 3246232157
+Trying deal = 3246232157 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246234593
+Trying deal = 3246234593 using 0AB
+This game is solveable.
+Total number of states checked is 1901198.
+Trying deal = 3246234739
+Trying deal = 3246234739 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246235013
+Trying deal = 3246235013 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246253504
+Trying deal = 3246253504 using 0AB
+This game is solveable.
+Total number of states checked is 1198570.
+Trying deal = 3246258068
+Trying deal = 3246258068 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246259329
+Trying deal = 3246259329 using 0AB
+I could not solve this game.
+Total number of states checked is 1716768.
+Trying deal = 3246266248
+Trying deal = 3246266248 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246272267
+Trying deal = 3246272267 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246279187
+Trying deal = 3246279187 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246279461
+Trying deal = 3246279461 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246279602
+Trying deal = 3246279602 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246290187
+Trying deal = 3246290187 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246295166
+Trying deal = 3246295166 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246310151
+Trying deal = 3246310151 using 0AB
+This game is solveable.
+Total number of states checked is 1044628.
+Trying deal = 3246322749
+Trying deal = 3246322749 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246328499
+Trying deal = 3246328499 using 0AB
+I could not solve this game.
+Total number of states checked is 2994040.
+Trying deal = 3246332305
+Trying deal = 3246332305 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246337383
+Trying deal = 3246337383 using 0AB
+I could not solve this game.
+Total number of states checked is 1707566.
+Trying deal = 3246344835
+Trying deal = 3246344835 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246359313
+Trying deal = 3246359313 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246368482
+Trying deal = 3246368482 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246374121
+Trying deal = 3246374121 using 0AB
+I could not solve this game.
+Total number of states checked is 1541421.
+Trying deal = 3246375624
+Trying deal = 3246375624 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246390779
+Trying deal = 3246390779 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246401723
+Trying deal = 3246401723 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246402596
+Trying deal = 3246402596 using 0AB
+I could not solve this game.
+Total number of states checked is 1920855.
+Trying deal = 3246408740
+Trying deal = 3246408740 using 0AB
+I could not solve this game.
+Total number of states checked is 1475216.
+Trying deal = 3246414781
+Trying deal = 3246414781 using 0AB
+I could not solve this game.
+Total number of states checked is 2779969.
+Trying deal = 3246438450
+Trying deal = 3246438450 using 0AB
+I could not solve this game.
+Total number of states checked is 1372090.
+Trying deal = 3246445405
+Trying deal = 3246445405 using 0AB
+I could not solve this game.
+Total number of states checked is 1018203.
+Trying deal = 3246446688
+Trying deal = 3246446688 using 0AB
+This game is solveable.
+Total number of states checked is 1495403.
+Trying deal = 3246456434
+Trying deal = 3246456434 using 0AB
+I could not solve this game.
+Total number of states checked is 1679637.
+Trying deal = 3246470814
+Trying deal = 3246470814 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246476611
+Trying deal = 3246476611 using 0AB
+This game is solveable.
+Total number of states checked is 1036015.
+Trying deal = 3246479070
+Trying deal = 3246479070 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246494265
+Trying deal = 3246494265 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246495289
+Trying deal = 3246495289 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246522948
+Trying deal = 3246522948 using 0AB
+I could not solve this game.
+Total number of states checked is 1652918.
+Trying deal = 3246530349
+Trying deal = 3246530349 using 0AB
+I could not solve this game.
+Total number of states checked is 1618023.
+Trying deal = 3246535868
+Trying deal = 3246535868 using 0AB
+I could not solve this game.
+Total number of states checked is 1109319.
+Trying deal = 3246536826
+Trying deal = 3246536826 using 0AB
+I could not solve this game.
+Total number of states checked is 2455700.
+Trying deal = 3246538449
+Trying deal = 3246538449 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246540178
+Trying deal = 3246540178 using 0AB
+This game is solveable.
+Total number of states checked is 2071925.
+Trying deal = 3246545050
+Trying deal = 3246545050 using 0AB
+I could not solve this game.
+Total number of states checked is 2393377.
+Trying deal = 3246567550
+Trying deal = 3246567550 using 0AB
+I could not solve this game.
+Total number of states checked is 1530875.
+Trying deal = 3246586461
+Trying deal = 3246586461 using 0AB
+I could not solve this game.
+Total number of states checked is 1277336.
+Trying deal = 3246589550
+Trying deal = 3246589550 using 0AB
+I could not solve this game.
+Total number of states checked is 1883024.
+Trying deal = 3246590510
+Trying deal = 3246590510 using 0AB
+I could not solve this game.
+Total number of states checked is 1736672.
+Trying deal = 3246592028
+Trying deal = 3246592028 using 0AB
+I could not solve this game.
+Total number of states checked is 1170868.
+Trying deal = 3246596272
+Trying deal = 3246596272 using 0AB
+I could not solve this game.
+Total number of states checked is 1847099.
+Trying deal = 3246597666
+Trying deal = 3246597666 using 0AB
+I could not solve this game.
+Total number of states checked is 2968573.
+Trying deal = 3246598721
+Trying deal = 3246598721 using 0AB
+I could not solve this game.
+Total number of states checked is 2301521.
+Trying deal = 3246599710
+Trying deal = 3246599710 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246601575
+Trying deal = 3246601575 using 0AB
+I could not solve this game.
+Total number of states checked is 1220690.
+Trying deal = 3246603944
+Trying deal = 3246603944 using 0AB
+I could not solve this game.
+Total number of states checked is 1346844.
+Trying deal = 3246612706
+Trying deal = 3246612706 using 0AB
+I could not solve this game.
+Total number of states checked is 1256127.
+Trying deal = 3246614936
+Trying deal = 3246614936 using 0AB
+I could not solve this game.
+Total number of states checked is 2226140.
+Trying deal = 3246616239
+Trying deal = 3246616239 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246617938
+Trying deal = 3246617938 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246624392
+Trying deal = 3246624392 using 0AB
+I could not solve this game.
+Total number of states checked is 1010745.
+Trying deal = 3246648245
+Trying deal = 3246648245 using 0AB
+This game is solveable.
+Total number of states checked is 2368424.
+Trying deal = 3246653150
+Trying deal = 3246653150 using 0AB
+I could not solve this game.
+Total number of states checked is 1289979.
+Trying deal = 3246656302
+Trying deal = 3246656302 using 0AB
+I could not solve this game.
+Total number of states checked is 2585581.
+Trying deal = 3246664570
+Trying deal = 3246664570 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246673160
+Trying deal = 3246673160 using 0AB
+This game is solveable.
+Total number of states checked is 1386073.
+Trying deal = 3246682801
+Trying deal = 3246682801 using 0AB
+I could not solve this game.
+Total number of states checked is 1934152.
+Trying deal = 3246714858
+Trying deal = 3246714858 using 0AB
+I could not solve this game.
+Total number of states checked is 1118142.
+Trying deal = 3246719397
+Trying deal = 3246719397 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246722125
+Trying deal = 3246722125 using 0AB
+I could not solve this game.
+Total number of states checked is 2874661.
+Trying deal = 3246725702
+Trying deal = 3246725702 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246729516
+Trying deal = 3246729516 using 0AB
+I could not solve this game.
+Total number of states checked is 2337666.
+Trying deal = 3246729794
+Trying deal = 3246729794 using 0AB
+This game is solveable.
+Total number of states checked is 2914520.
+Trying deal = 3246732175
+Trying deal = 3246732175 using 0AB
+I could not solve this game.
+Total number of states checked is 1239380.
+Trying deal = 3246749912
+Trying deal = 3246749912 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246781244
+Trying deal = 3246781244 using 0AB
+I could not solve this game.
+Total number of states checked is 1281986.
+Trying deal = 3246782076
+Trying deal = 3246782076 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246785451
+Trying deal = 3246785451 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246803713
+Trying deal = 3246803713 using 0AB
+I could not solve this game.
+Total number of states checked is 2003732.
+Trying deal = 3246808721
+Trying deal = 3246808721 using 0AB
+I could not solve this game.
+Total number of states checked is 2803651.
+Trying deal = 3246812063
+Trying deal = 3246812063 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246812900
+Trying deal = 3246812900 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246826743
+Trying deal = 3246826743 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246839312
+Trying deal = 3246839312 using 0AB
+I could not solve this game.
+Total number of states checked is 1021973.
+Trying deal = 3246850860
+Trying deal = 3246850860 using 0AB
+I could not solve this game.
+Total number of states checked is 1116406.
+Trying deal = 3246851297
+Trying deal = 3246851297 using 0AB
+I could not solve this game.
+Total number of states checked is 1952882.
+Trying deal = 3246854126
+Trying deal = 3246854126 using 0AB
+I could not solve this game.
+Total number of states checked is 2710057.
+Trying deal = 3246874823
+Trying deal = 3246874823 using 0AB
+I could not solve this game.
+Total number of states checked is 1890535.
+Trying deal = 3246878734
+Trying deal = 3246878734 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246884773
+Trying deal = 3246884773 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246887109
+Trying deal = 3246887109 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246893973
+Trying deal = 3246893973 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246904909
+Trying deal = 3246904909 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246911724
+Trying deal = 3246911724 using 0AB
+I could not solve this game.
+Total number of states checked is 1696648.
+Trying deal = 3246914001
+Trying deal = 3246914001 using 0AB
+I could not solve this game.
+Total number of states checked is 1127632.
+Trying deal = 3246914652
+Trying deal = 3246914652 using 0AB
+I could not solve this game.
+Total number of states checked is 1315707.
+Trying deal = 3246943871
+Trying deal = 3246943871 using 0AB
+I could not solve this game.
+Total number of states checked is 2588033.
+Trying deal = 3246975124
+Trying deal = 3246975124 using 0AB
+I could not solve this game.
+Total number of states checked is 1328293.
+Trying deal = 3246981238
+Trying deal = 3246981238 using 0AB
+I could not solve this game.
+Total number of states checked is 2398252.
+Trying deal = 3246985166
+Trying deal = 3246985166 using 0AB
+This game is solveable.
+Total number of states checked is 1853047.
+Trying deal = 3246990526
+Trying deal = 3246990526 using 0AB
+I could not solve this game.
+Total number of states checked is 2033933.
+Trying deal = 3246992495
+Trying deal = 3246992495 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3246994879
+Trying deal = 3246994879 using 0AB
+I could not solve this game.
+Total number of states checked is 1053121.
+Trying deal = 3247010492
+Trying deal = 3247010492 using 0AB
+I could not solve this game.
+Total number of states checked is 1151968.
+Trying deal = 3247020381
+Trying deal = 3247020381 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247031433
+Trying deal = 3247031433 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247047750
+Trying deal = 3247047750 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247053121
+Trying deal = 3247053121 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247091048
+Trying deal = 3247091048 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247092737
+Trying deal = 3247092737 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247095006
+Trying deal = 3247095006 using 0AB
+I could not solve this game.
+Total number of states checked is 1121662.
+Trying deal = 3247099265
+Trying deal = 3247099265 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247101877
+Trying deal = 3247101877 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247112103
+Trying deal = 3247112103 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247115203
+Trying deal = 3247115203 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247118040
+Trying deal = 3247118040 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247131887
+Trying deal = 3247131887 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247151598
+Trying deal = 3247151598 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247175652
+Trying deal = 3247175652 using 0AB
+This game is solveable.
+Total number of states checked is 1629057.
+Trying deal = 3247175726
+Trying deal = 3247175726 using 0AB
+I could not solve this game.
+Total number of states checked is 1225931.
+Trying deal = 3247177514
+Trying deal = 3247177514 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247180983
+Trying deal = 3247180983 using 0AB
+I could not solve this game.
+Total number of states checked is 2152316.
+Trying deal = 3247181401
+Trying deal = 3247181401 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247190567
+Trying deal = 3247190567 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247194374
+Trying deal = 3247194374 using 0AB
+I could not solve this game.
+Total number of states checked is 1054277.
+Trying deal = 3247205745
+Trying deal = 3247205745 using 0AB
+I could not solve this game.
+Total number of states checked is 1731385.
+Trying deal = 3247220299
+Trying deal = 3247220299 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247221912
+Trying deal = 3247221912 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247254733
+Trying deal = 3247254733 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247254943
+Trying deal = 3247254943 using 0AB
+I could not solve this game.
+Total number of states checked is 1920039.
+Trying deal = 3247258726
+Trying deal = 3247258726 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247270045
+Trying deal = 3247270045 using 0AB
+I could not solve this game.
+Total number of states checked is 1811865.
+Trying deal = 3247275974
+Trying deal = 3247275974 using 0AB
+I could not solve this game.
+Total number of states checked is 2797434.
+Trying deal = 3247281221
+Trying deal = 3247281221 using 0AB
+I could not solve this game.
+Total number of states checked is 2468184.
+Trying deal = 3247281444
+Trying deal = 3247281444 using 0AB
+I could not solve this game.
+Total number of states checked is 2801241.
+Trying deal = 3247297830
+Trying deal = 3247297830 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247312952
+Trying deal = 3247312952 using 0AB
+I could not solve this game.
+Total number of states checked is 1655798.
+Trying deal = 3247319528
+Trying deal = 3247319528 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247334188
+Trying deal = 3247334188 using 0AB
+This game is solveable.
+Total number of states checked is 1135574.
+Trying deal = 3247341203
+Trying deal = 3247341203 using 0AB
+I could not solve this game.
+Total number of states checked is 2172203.
+Trying deal = 3247362505
+Trying deal = 3247362505 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247373494
+Trying deal = 3247373494 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247377424
+Trying deal = 3247377424 using 0AB
+I could not solve this game.
+Total number of states checked is 2162644.
+Trying deal = 3247380509
+Trying deal = 3247380509 using 0AB
+I could not solve this game.
+Total number of states checked is 1323909.
+Trying deal = 3247390244
+Trying deal = 3247390244 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247392130
+Trying deal = 3247392130 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247394427
+Trying deal = 3247394427 using 0AB
+I could not solve this game.
+Total number of states checked is 1320771.
+Trying deal = 3247419360
+Trying deal = 3247419360 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247419473
+Trying deal = 3247419473 using 0AB
+I could not solve this game.
+Total number of states checked is 2344552.
+Trying deal = 3247441872
+Trying deal = 3247441872 using 0AB
+I could not solve this game.
+Total number of states checked is 1342221.
+Trying deal = 3247446745
+Trying deal = 3247446745 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247451213
+Trying deal = 3247451213 using 0AB
+I could not solve this game.
+Total number of states checked is 1985491.
+Trying deal = 3247452685
+Trying deal = 3247452685 using 0AB
+I could not solve this game.
+Total number of states checked is 1091076.
+Trying deal = 3247455912
+Trying deal = 3247455912 using 0AB
+I could not solve this game.
+Total number of states checked is 1686196.
+Trying deal = 3247457727
+Trying deal = 3247457727 using 0AB
+I could not solve this game.
+Total number of states checked is 1721429.
+Trying deal = 3247461039
+Trying deal = 3247461039 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247478237
+Trying deal = 3247478237 using 0AB
+I could not solve this game.
+Total number of states checked is 2060337.
+Trying deal = 3247479513
+Trying deal = 3247479513 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247497832
+Trying deal = 3247497832 using 0AB
+This game is solveable.
+Total number of states checked is 1807950.
+Trying deal = 3247502515
+Trying deal = 3247502515 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247505813
+Trying deal = 3247505813 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247525739
+Trying deal = 3247525739 using 0AB
+I could not solve this game.
+Total number of states checked is 2778652.
+Trying deal = 3247526564
+Trying deal = 3247526564 using 0AB
+I could not solve this game.
+Total number of states checked is 1915387.
+Trying deal = 3247536776
+Trying deal = 3247536776 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247551883
+Trying deal = 3247551883 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247567283
+Trying deal = 3247567283 using 0AB
+I could not solve this game.
+Total number of states checked is 1723837.
+Trying deal = 3247567411
+Trying deal = 3247567411 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247575007
+Trying deal = 3247575007 using 0AB
+I could not solve this game.
+Total number of states checked is 2032057.
+Trying deal = 3247575327
+Trying deal = 3247575327 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247576448
+Trying deal = 3247576448 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247590134
+Trying deal = 3247590134 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247610622
+Trying deal = 3247610622 using 0AB
+I could not solve this game.
+Total number of states checked is 1306854.
+Trying deal = 3247612531
+Trying deal = 3247612531 using 0AB
+This game is solveable.
+Total number of states checked is 1223990.
+Trying deal = 3247631711
+Trying deal = 3247631711 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247639348
+Trying deal = 3247639348 using 0AB
+I could not solve this game.
+Total number of states checked is 1969659.
+Trying deal = 3247642805
+Trying deal = 3247642805 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247646703
+Trying deal = 3247646703 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247646904
+Trying deal = 3247646904 using 0AB
+I could not solve this game.
+Total number of states checked is 1072095.
+Trying deal = 3247648410
+Trying deal = 3247648410 using 0AB
+This game is solveable.
+Total number of states checked is 1654935.
+Trying deal = 3247653802
+Trying deal = 3247653802 using 0AB
+I could not solve this game.
+Total number of states checked is 1843807.
+Trying deal = 3247655771
+Trying deal = 3247655771 using 0AB
+I could not solve this game.
+Total number of states checked is 1012235.
+Trying deal = 3247663111
+Trying deal = 3247663111 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247678346
+Trying deal = 3247678346 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247682954
+Trying deal = 3247682954 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247684945
+Trying deal = 3247684945 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247688915
+Trying deal = 3247688915 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247695302
+Trying deal = 3247695302 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247696509
+Trying deal = 3247696509 using 0AB
+I could not solve this game.
+Total number of states checked is 2084739.
+Trying deal = 3247698362
+Trying deal = 3247698362 using 0AB
+I could not solve this game.
+Total number of states checked is 1229012.
+Trying deal = 3247720478
+Trying deal = 3247720478 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247724992
+Trying deal = 3247724992 using 0AB
+I could not solve this game.
+Total number of states checked is 1497908.
+Trying deal = 3247749703
+Trying deal = 3247749703 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247754646
+Trying deal = 3247754646 using 0AB
+This game is solveable.
+Total number of states checked is 1990513.
+Trying deal = 3247757815
+Trying deal = 3247757815 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247770921
+Trying deal = 3247770921 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247775936
+Trying deal = 3247775936 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247786034
+Trying deal = 3247786034 using 0AB
+I could not solve this game.
+Total number of states checked is 1655829.
+Trying deal = 3247794514
+Trying deal = 3247794514 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247822323
+Trying deal = 3247822323 using 0AB
+I could not solve this game.
+Total number of states checked is 2273002.
+Trying deal = 3247826292
+Trying deal = 3247826292 using 0AB
+I could not solve this game.
+Total number of states checked is 1964945.
+Trying deal = 3247848166
+Trying deal = 3247848166 using 0AB
+I could not solve this game.
+Total number of states checked is 2516482.
+Trying deal = 3247848190
+Trying deal = 3247848190 using 0AB
+I could not solve this game.
+Total number of states checked is 2964479.
+Trying deal = 3247851184
+Trying deal = 3247851184 using 0AB
+This game is solveable.
+Total number of states checked is 1964166.
+Trying deal = 3247858689
+Trying deal = 3247858689 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247867307
+Trying deal = 3247867307 using 0AB
+I could not solve this game.
+Total number of states checked is 2754578.
+Trying deal = 3247871959
+Trying deal = 3247871959 using 0AB
+I could not solve this game.
+Total number of states checked is 1123302.
+Trying deal = 3247876602
+Trying deal = 3247876602 using 0AB
+I could not solve this game.
+Total number of states checked is 1251061.
+Trying deal = 3247883296
+Trying deal = 3247883296 using 0AB
+I could not solve this game.
+Total number of states checked is 1702120.
+Trying deal = 3247896681
+Trying deal = 3247896681 using 0AB
+This game is solveable.
+Total number of states checked is 1591521.
+Trying deal = 3247898168
+Trying deal = 3247898168 using 0AB
+I could not solve this game.
+Total number of states checked is 2151873.
+Trying deal = 3247906332
+Trying deal = 3247906332 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247932851
+Trying deal = 3247932851 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247934151
+Trying deal = 3247934151 using 0AB
+This game is solveable.
+Total number of states checked is 1545352.
+Trying deal = 3247940227
+Trying deal = 3247940227 using 0AB
+I could not solve this game.
+Total number of states checked is 1020266.
+Trying deal = 3247949936
+Trying deal = 3247949936 using 0AB
+I could not solve this game.
+Total number of states checked is 1174117.
+Trying deal = 3247956090
+Trying deal = 3247956090 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247962123
+Trying deal = 3247962123 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247962201
+Trying deal = 3247962201 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247968353
+Trying deal = 3247968353 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247969611
+Trying deal = 3247969611 using 0AB
+I could not solve this game.
+Total number of states checked is 1144407.
+Trying deal = 3247978456
+Trying deal = 3247978456 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247982102
+Trying deal = 3247982102 using 0AB
+I could not solve this game.
+Total number of states checked is 1680320.
+Trying deal = 3247982762
+Trying deal = 3247982762 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3247984712
+Trying deal = 3247984712 using 0AB
+I could not solve this game.
+Total number of states checked is 1658348.
+Trying deal = 3247990077
+Trying deal = 3247990077 using 0AB
+I could not solve this game.
+Total number of states checked is 1053581.
+Trying deal = 3247992945
+Trying deal = 3247992945 using 0AB
+This game is solveable.
+Total number of states checked is 2892976.
+Trying deal = 3247999473
+Trying deal = 3247999473 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248003337
+Trying deal = 3248003337 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248004065
+Trying deal = 3248004065 using 0AB
+I could not solve this game.
+Total number of states checked is 1329537.
+Trying deal = 3248026175
+Trying deal = 3248026175 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248035634
+Trying deal = 3248035634 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248035916
+Trying deal = 3248035916 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248052151
+Trying deal = 3248052151 using 0AB
+I could not solve this game.
+Total number of states checked is 1253368.
+Trying deal = 3248062949
+Trying deal = 3248062949 using 0AB
+I could not solve this game.
+Total number of states checked is 2025470.
+Trying deal = 3248065550
+Trying deal = 3248065550 using 0AB
+I could not solve this game.
+Total number of states checked is 1795411.
+Trying deal = 3248073682
+Trying deal = 3248073682 using 0AB
+I could not solve this game.
+Total number of states checked is 2018058.
+Trying deal = 3248074072
+Trying deal = 3248074072 using 0AB
+I could not solve this game.
+Total number of states checked is 2624176.
+Trying deal = 3248076219
+Trying deal = 3248076219 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248076262
+Trying deal = 3248076262 using 0AB
+I could not solve this game.
+Total number of states checked is 1466231.
+Trying deal = 3248077389
+Trying deal = 3248077389 using 0AB
+I could not solve this game.
+Total number of states checked is 1462277.
+Trying deal = 3248106287
+Trying deal = 3248106287 using 0AB
+I could not solve this game.
+Total number of states checked is 2906414.
+Trying deal = 3248127996
+Trying deal = 3248127996 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248130893
+Trying deal = 3248130893 using 0AB
+This game is solveable.
+Total number of states checked is 1195587.
+Trying deal = 3248141917
+Trying deal = 3248141917 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248156311
+Trying deal = 3248156311 using 0AB
+I could not solve this game.
+Total number of states checked is 2047297.
+Trying deal = 3248158132
+Trying deal = 3248158132 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248182638
+Trying deal = 3248182638 using 0AB
+I could not solve this game.
+Total number of states checked is 1777135.
+Trying deal = 3248192053
+Trying deal = 3248192053 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248193705
+Trying deal = 3248193705 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248196889
+Trying deal = 3248196889 using 0AB
+I could not solve this game.
+Total number of states checked is 2707409.
+Trying deal = 3248199868
+Trying deal = 3248199868 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248203652
+Trying deal = 3248203652 using 0AB
+I could not solve this game.
+Total number of states checked is 2042518.
+Trying deal = 3248214769
+Trying deal = 3248214769 using 0AB
+I could not solve this game.
+Total number of states checked is 2716191.
+Trying deal = 3248215161
+Trying deal = 3248215161 using 0AB
+I could not solve this game.
+Total number of states checked is 1081217.
+Trying deal = 3248217089
+Trying deal = 3248217089 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248218793
+Trying deal = 3248218793 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248234203
+Trying deal = 3248234203 using 0AB
+I could not solve this game.
+Total number of states checked is 1981950.
+Trying deal = 3248242613
+Trying deal = 3248242613 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248247008
+Trying deal = 3248247008 using 0AB
+I could not solve this game.
+Total number of states checked is 1922712.
+Trying deal = 3248252875
+Trying deal = 3248252875 using 0AB
+This game is solveable.
+Total number of states checked is 2192471.
+Trying deal = 3248255304
+Trying deal = 3248255304 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248257869
+Trying deal = 3248257869 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248258731
+Trying deal = 3248258731 using 0AB
+This game is solveable.
+Total number of states checked is 2917005.
+Trying deal = 3248264237
+Trying deal = 3248264237 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248265426
+Trying deal = 3248265426 using 0AB
+I could not solve this game.
+Total number of states checked is 1685596.
+Trying deal = 3248273406
+Trying deal = 3248273406 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248294886
+Trying deal = 3248294886 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248313192
+Trying deal = 3248313192 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248315250
+Trying deal = 3248315250 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248319749
+Trying deal = 3248319749 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248342904
+Trying deal = 3248342904 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248350190
+Trying deal = 3248350190 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248350439
+Trying deal = 3248350439 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248363437
+Trying deal = 3248363437 using 0AB
+I could not solve this game.
+Total number of states checked is 1272399.
+Trying deal = 3248372978
+Trying deal = 3248372978 using 0AB
+I could not solve this game.
+Total number of states checked is 2430634.
+Trying deal = 3248383552
+Trying deal = 3248383552 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248391771
+Trying deal = 3248391771 using 0AB
+I could not solve this game.
+Total number of states checked is 1122778.
+Trying deal = 3248394003
+Trying deal = 3248394003 using 0AB
+I could not solve this game.
+Total number of states checked is 1391656.
+Trying deal = 3248403590
+Trying deal = 3248403590 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248406138
+Trying deal = 3248406138 using 0AB
+I could not solve this game.
+Total number of states checked is 1850994.
+Trying deal = 3248408848
+Trying deal = 3248408848 using 0AB
+I could not solve this game.
+Total number of states checked is 1099615.
+Trying deal = 3248412776
+Trying deal = 3248412776 using 0AB
+I could not solve this game.
+Total number of states checked is 1020930.
+Trying deal = 3248453151
+Trying deal = 3248453151 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248458927
+Trying deal = 3248458927 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248474312
+Trying deal = 3248474312 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248475975
+Trying deal = 3248475975 using 0AB
+I could not solve this game.
+Total number of states checked is 1131652.
+Trying deal = 3248479993
+Trying deal = 3248479993 using 0AB
+I could not solve this game.
+Total number of states checked is 1498793.
+Trying deal = 3248487751
+Trying deal = 3248487751 using 0AB
+I could not solve this game.
+Total number of states checked is 2617336.
+Trying deal = 3248491214
+Trying deal = 3248491214 using 0AB
+I could not solve this game.
+Total number of states checked is 2008380.
+Trying deal = 3248501101
+Trying deal = 3248501101 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248502616
+Trying deal = 3248502616 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248510926
+Trying deal = 3248510926 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248517276
+Trying deal = 3248517276 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248520016
+Trying deal = 3248520016 using 0AB
+I could not solve this game.
+Total number of states checked is 1792097.
+Trying deal = 3248540499
+Trying deal = 3248540499 using 0AB
+I could not solve this game.
+Total number of states checked is 1479753.
+Trying deal = 3248541392
+Trying deal = 3248541392 using 0AB
+I could not solve this game.
+Total number of states checked is 2576409.
+Trying deal = 3248543664
+Trying deal = 3248543664 using 0AB
+This game is solveable.
+Total number of states checked is 1807162.
+Trying deal = 3248545456
+Trying deal = 3248545456 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248546794
+Trying deal = 3248546794 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248552417
+Trying deal = 3248552417 using 0AB
+I could not solve this game.
+Total number of states checked is 2712373.
+Trying deal = 3248556575
+Trying deal = 3248556575 using 0AB
+I could not solve this game.
+Total number of states checked is 1599092.
+Trying deal = 3248558190
+Trying deal = 3248558190 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248559381
+Trying deal = 3248559381 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248560685
+Trying deal = 3248560685 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248568142
+Trying deal = 3248568142 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248569994
+Trying deal = 3248569994 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248574561
+Trying deal = 3248574561 using 0AB
+This game is solveable.
+Total number of states checked is 1640548.
+Trying deal = 3248615595
+Trying deal = 3248615595 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248618962
+Trying deal = 3248618962 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248619663
+Trying deal = 3248619663 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248630711
+Trying deal = 3248630711 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248639182
+Trying deal = 3248639182 using 0AB
+I could not solve this game.
+Total number of states checked is 1514729.
+Trying deal = 3248658621
+Trying deal = 3248658621 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248660813
+Trying deal = 3248660813 using 0AB
+I could not solve this game.
+Total number of states checked is 1360571.
+Trying deal = 3248666462
+Trying deal = 3248666462 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248669696
+Trying deal = 3248669696 using 0AB
+This game is solveable.
+Total number of states checked is 1090122.
+Trying deal = 3248676067
+Trying deal = 3248676067 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248681647
+Trying deal = 3248681647 using 0AB
+I could not solve this game.
+Total number of states checked is 1733927.
+Trying deal = 3248711356
+Trying deal = 3248711356 using 0AB
+This game is solveable.
+Total number of states checked is 1345261.
+Trying deal = 3248730241
+Trying deal = 3248730241 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248738367
+Trying deal = 3248738367 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248742449
+Trying deal = 3248742449 using 0AB
+I could not solve this game.
+Total number of states checked is 1577409.
+Trying deal = 3248743168
+Trying deal = 3248743168 using 0AB
+I could not solve this game.
+Total number of states checked is 1641927.
+Trying deal = 3248749405
+Trying deal = 3248749405 using 0AB
+I could not solve this game.
+Total number of states checked is 1582669.
+Trying deal = 3248751092
+Trying deal = 3248751092 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248767728
+Trying deal = 3248767728 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248772032
+Trying deal = 3248772032 using 0AB
+I could not solve this game.
+Total number of states checked is 1179757.
+Trying deal = 3248775403
+Trying deal = 3248775403 using 0AB
+I could not solve this game.
+Total number of states checked is 1571290.
+Trying deal = 3248776803
+Trying deal = 3248776803 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248793592
+Trying deal = 3248793592 using 0AB
+I could not solve this game.
+Total number of states checked is 2321785.
+Trying deal = 3248797564
+Trying deal = 3248797564 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248797570
+Trying deal = 3248797570 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248803736
+Trying deal = 3248803736 using 0AB
+I could not solve this game.
+Total number of states checked is 1135702.
+Trying deal = 3248842558
+Trying deal = 3248842558 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248844173
+Trying deal = 3248844173 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248850011
+Trying deal = 3248850011 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248864835
+Trying deal = 3248864835 using 0AB
+I could not solve this game.
+Total number of states checked is 1888192.
+Trying deal = 3248871240
+Trying deal = 3248871240 using 0AB
+I could not solve this game.
+Total number of states checked is 1697401.
+Trying deal = 3248874219
+Trying deal = 3248874219 using 0AB
+I could not solve this game.
+Total number of states checked is 2727434.
+Trying deal = 3248878198
+Trying deal = 3248878198 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248880437
+Trying deal = 3248880437 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248881109
+Trying deal = 3248881109 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248909511
+Trying deal = 3248909511 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248909945
+Trying deal = 3248909945 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248919208
+Trying deal = 3248919208 using 0AB
+I could not solve this game.
+Total number of states checked is 1365105.
+Trying deal = 3248925569
+Trying deal = 3248925569 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248932458
+Trying deal = 3248932458 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248932714
+Trying deal = 3248932714 using 0AB
+I could not solve this game.
+Total number of states checked is 1037786.
+Trying deal = 3248933523
+Trying deal = 3248933523 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248943550
+Trying deal = 3248943550 using 0AB
+I could not solve this game.
+Total number of states checked is 2709161.
+Trying deal = 3248943732
+Trying deal = 3248943732 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248959028
+Trying deal = 3248959028 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248975041
+Trying deal = 3248975041 using 0AB
+This game is solveable.
+Total number of states checked is 2089959.
+Trying deal = 3248978392
+Trying deal = 3248978392 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248988413
+Trying deal = 3248988413 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3248997974
+Trying deal = 3248997974 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249055507
+Trying deal = 3249055507 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249056449
+Trying deal = 3249056449 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249075672
+Trying deal = 3249075672 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249076520
+Trying deal = 3249076520 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249086417
+Trying deal = 3249086417 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249106938
+Trying deal = 3249106938 using 0AB
+This game is solveable.
+Total number of states checked is 1476605.
+Trying deal = 3249114734
+Trying deal = 3249114734 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249133698
+Trying deal = 3249133698 using 0AB
+I could not solve this game.
+Total number of states checked is 1337763.
+Trying deal = 3249136104
+Trying deal = 3249136104 using 0AB
+This game is solveable.
+Total number of states checked is 1945338.
+Trying deal = 3249155618
+Trying deal = 3249155618 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249157266
+Trying deal = 3249157266 using 0AB
+I could not solve this game.
+Total number of states checked is 1552093.
+Trying deal = 3249159401
+Trying deal = 3249159401 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249162635
+Trying deal = 3249162635 using 0AB
+I could not solve this game.
+Total number of states checked is 2287490.
+Trying deal = 3249168242
+Trying deal = 3249168242 using 0AB
+I could not solve this game.
+Total number of states checked is 1742269.
+Trying deal = 3249169118
+Trying deal = 3249169118 using 0AB
+I could not solve this game.
+Total number of states checked is 1656043.
+Trying deal = 3249170688
+Trying deal = 3249170688 using 0AB
+I could not solve this game.
+Total number of states checked is 1461581.
+Trying deal = 3249174065
+Trying deal = 3249174065 using 0AB
+I could not solve this game.
+Total number of states checked is 2784752.
+Trying deal = 3249175199
+Trying deal = 3249175199 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249180024
+Trying deal = 3249180024 using 0AB
+This game is solveable.
+Total number of states checked is 2936374.
+Trying deal = 3249182525
+Trying deal = 3249182525 using 0AB
+I could not solve this game.
+Total number of states checked is 1073134.
+Trying deal = 3249186314
+Trying deal = 3249186314 using 0AB
+I could not solve this game.
+Total number of states checked is 2632515.
+Trying deal = 3249188423
+Trying deal = 3249188423 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249191827
+Trying deal = 3249191827 using 0AB
+I could not solve this game.
+Total number of states checked is 1064614.
+Trying deal = 3249201685
+Trying deal = 3249201685 using 0AB
+I could not solve this game.
+Total number of states checked is 1776233.
+Trying deal = 3249204964
+Trying deal = 3249204964 using 0AB
+I could not solve this game.
+Total number of states checked is 1060731.
+Trying deal = 3249224972
+Trying deal = 3249224972 using 0AB
+I could not solve this game.
+Total number of states checked is 2221034.
+Trying deal = 3249231784
+Trying deal = 3249231784 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249252034
+Trying deal = 3249252034 using 0AB
+I could not solve this game.
+Total number of states checked is 1212265.
+Trying deal = 3249257480
+Trying deal = 3249257480 using 0AB
+I could not solve this game.
+Total number of states checked is 1883937.
+Trying deal = 3249272070
+Trying deal = 3249272070 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249272449
+Trying deal = 3249272449 using 0AB
+I could not solve this game.
+Total number of states checked is 2488239.
+Trying deal = 3249272597
+Trying deal = 3249272597 using 0AB
+I could not solve this game.
+Total number of states checked is 1466554.
+Trying deal = 3249277519
+Trying deal = 3249277519 using 0AB
+I could not solve this game.
+Total number of states checked is 1276479.
+Trying deal = 3249284651
+Trying deal = 3249284651 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249286982
+Trying deal = 3249286982 using 0AB
+I could not solve this game.
+Total number of states checked is 1195067.
+Trying deal = 3249295000
+Trying deal = 3249295000 using 0AB
+I could not solve this game.
+Total number of states checked is 1727278.
+Trying deal = 3249297417
+Trying deal = 3249297417 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249306558
+Trying deal = 3249306558 using 0AB
+I could not solve this game.
+Total number of states checked is 2375771.
+Trying deal = 3249310979
+Trying deal = 3249310979 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249316584
+Trying deal = 3249316584 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249321581
+Trying deal = 3249321581 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249325625
+Trying deal = 3249325625 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249328121
+Trying deal = 3249328121 using 0AB
+I could not solve this game.
+Total number of states checked is 1144512.
+Trying deal = 3249346667
+Trying deal = 3249346667 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249354438
+Trying deal = 3249354438 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249364270
+Trying deal = 3249364270 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249366393
+Trying deal = 3249366393 using 0AB
+I could not solve this game.
+Total number of states checked is 1155247.
+Trying deal = 3249369726
+Trying deal = 3249369726 using 0AB
+This game is solveable.
+Total number of states checked is 1303359.
+Trying deal = 3249395424
+Trying deal = 3249395424 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249398799
+Trying deal = 3249398799 using 0AB
+I could not solve this game.
+Total number of states checked is 2561282.
+Trying deal = 3249407824
+Trying deal = 3249407824 using 0AB
+I could not solve this game.
+Total number of states checked is 1194225.
+Trying deal = 3249413648
+Trying deal = 3249413648 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249413893
+Trying deal = 3249413893 using 0AB
+I could not solve this game.
+Total number of states checked is 2056094.
+Trying deal = 3249416374
+Trying deal = 3249416374 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249420320
+Trying deal = 3249420320 using 0AB
+I could not solve this game.
+Total number of states checked is 1633122.
+Trying deal = 3249427694
+Trying deal = 3249427694 using 0AB
+I could not solve this game.
+Total number of states checked is 2919737.
+Trying deal = 3249432736
+Trying deal = 3249432736 using 0AB
+I could not solve this game.
+Total number of states checked is 2170397.
+Trying deal = 3249447842
+Trying deal = 3249447842 using 0AB
+This game is solveable.
+Total number of states checked is 1358997.
+Trying deal = 3249449520
+Trying deal = 3249449520 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249449778
+Trying deal = 3249449778 using 0AB
+I could not solve this game.
+Total number of states checked is 1571547.
+Trying deal = 3249462201
+Trying deal = 3249462201 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249469244
+Trying deal = 3249469244 using 0AB
+I could not solve this game.
+Total number of states checked is 1126623.
+Trying deal = 3249478490
+Trying deal = 3249478490 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249479737
+Trying deal = 3249479737 using 0AB
+This game is solveable.
+Total number of states checked is 1434202.
+Trying deal = 3249486277
+Trying deal = 3249486277 using 0AB
+I could not solve this game.
+Total number of states checked is 1131520.
+Trying deal = 3249501467
+Trying deal = 3249501467 using 0AB
+I could not solve this game.
+Total number of states checked is 1521423.
+Trying deal = 3249503729
+Trying deal = 3249503729 using 0AB
+I could not solve this game.
+Total number of states checked is 1411381.
+Trying deal = 3249514115
+Trying deal = 3249514115 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249514447
+Trying deal = 3249514447 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249516147
+Trying deal = 3249516147 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249533405
+Trying deal = 3249533405 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249553952
+Trying deal = 3249553952 using 0AB
+I could not solve this game.
+Total number of states checked is 1190218.
+Trying deal = 3249572669
+Trying deal = 3249572669 using 0AB
+I could not solve this game.
+Total number of states checked is 2238001.
+Trying deal = 3249579029
+Trying deal = 3249579029 using 0AB
+I could not solve this game.
+Total number of states checked is 1207548.
+Trying deal = 3249586940
+Trying deal = 3249586940 using 0AB
+I could not solve this game.
+Total number of states checked is 1343927.
+Trying deal = 3249589809
+Trying deal = 3249589809 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249604997
+Trying deal = 3249604997 using 0AB
+I could not solve this game.
+Total number of states checked is 1396229.
+Trying deal = 3249609875
+Trying deal = 3249609875 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249632965
+Trying deal = 3249632965 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249654382
+Trying deal = 3249654382 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249662581
+Trying deal = 3249662581 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249674575
+Trying deal = 3249674575 using 0AB
+I could not solve this game.
+Total number of states checked is 1158291.
+Trying deal = 3249676057
+Trying deal = 3249676057 using 0AB
+I could not solve this game.
+Total number of states checked is 1165844.
+Trying deal = 3249689652
+Trying deal = 3249689652 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249691254
+Trying deal = 3249691254 using 0AB
+This game is solveable.
+Total number of states checked is 1153980.
+Trying deal = 3249691500
+Trying deal = 3249691500 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249692796
+Trying deal = 3249692796 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249693828
+Trying deal = 3249693828 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249712769
+Trying deal = 3249712769 using 0AB
+This game is solveable.
+Total number of states checked is 2138363.
+Trying deal = 3249718458
+Trying deal = 3249718458 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249719610
+Trying deal = 3249719610 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249730505
+Trying deal = 3249730505 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249733643
+Trying deal = 3249733643 using 0AB
+I could not solve this game.
+Total number of states checked is 1836372.
+Trying deal = 3249747812
+Trying deal = 3249747812 using 0AB
+This game is solveable.
+Total number of states checked is 1232355.
+Trying deal = 3249750094
+Trying deal = 3249750094 using 0AB
+I could not solve this game.
+Total number of states checked is 1745043.
+Trying deal = 3249775789
+Trying deal = 3249775789 using 0AB
+I could not solve this game.
+Total number of states checked is 1390936.
+Trying deal = 3249794493
+Trying deal = 3249794493 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249804801
+Trying deal = 3249804801 using 0AB
+This game is solveable.
+Total number of states checked is 1504107.
+Trying deal = 3249805293
+Trying deal = 3249805293 using 0AB
+This game is solveable.
+Total number of states checked is 1377784.
+Trying deal = 3249844752
+Trying deal = 3249844752 using 0AB
+This game is solveable.
+Total number of states checked is 2380404.
+Trying deal = 3249849573
+Trying deal = 3249849573 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249854280
+Trying deal = 3249854280 using 0AB
+This game is solveable.
+Total number of states checked is 1692447.
+Trying deal = 3249856598
+Trying deal = 3249856598 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249857270
+Trying deal = 3249857270 using 0AB
+I could not solve this game.
+Total number of states checked is 1577046.
+Trying deal = 3249857296
+Trying deal = 3249857296 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249860448
+Trying deal = 3249860448 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249863431
+Trying deal = 3249863431 using 0AB
+I could not solve this game.
+Total number of states checked is 2521583.
+Trying deal = 3249894845
+Trying deal = 3249894845 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249896883
+Trying deal = 3249896883 using 0AB
+This game is solveable.
+Total number of states checked is 1629817.
+Trying deal = 3249903081
+Trying deal = 3249903081 using 0AB
+I could not solve this game.
+Total number of states checked is 1434610.
+Trying deal = 3249916304
+Trying deal = 3249916304 using 0AB
+This game is solveable.
+Total number of states checked is 1133707.
+Trying deal = 3249918460
+Trying deal = 3249918460 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249921108
+Trying deal = 3249921108 using 0AB
+I could not solve this game.
+Total number of states checked is 1286874.
+Trying deal = 3249938492
+Trying deal = 3249938492 using 0AB
+I could not solve this game.
+Total number of states checked is 2906112.
+Trying deal = 3249940793
+Trying deal = 3249940793 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249965932
+Trying deal = 3249965932 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249968688
+Trying deal = 3249968688 using 0AB
+This game is solveable.
+Total number of states checked is 1603406.
+Trying deal = 3249971038
+Trying deal = 3249971038 using 0AB
+I could not solve this game.
+Total number of states checked is 1454212.
+Trying deal = 3249982071
+Trying deal = 3249982071 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3249993684
+Trying deal = 3249993684 using 0AB
+This game is solveable.
+Total number of states checked is 2968172.
+Trying deal = 3249994228
+Trying deal = 3249994228 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250000872
+Trying deal = 3250000872 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250006235
+Trying deal = 3250006235 using 0AB
+I could not solve this game.
+Total number of states checked is 1908203.
+Trying deal = 3250008292
+Trying deal = 3250008292 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250010106
+Trying deal = 3250010106 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250018654
+Trying deal = 3250018654 using 0AB
+I could not solve this game.
+Total number of states checked is 2089415.
+Trying deal = 3250018881
+Trying deal = 3250018881 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250069450
+Trying deal = 3250069450 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250097102
+Trying deal = 3250097102 using 0AB
+I could not solve this game.
+Total number of states checked is 2387600.
+Trying deal = 3250098406
+Trying deal = 3250098406 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250100146
+Trying deal = 3250100146 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250104365
+Trying deal = 3250104365 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250110820
+Trying deal = 3250110820 using 0AB
+This game is solveable.
+Total number of states checked is 1941992.
+Trying deal = 3250110851
+Trying deal = 3250110851 using 0AB
+This game is solveable.
+Total number of states checked is 2983145.
+Trying deal = 3250118884
+Trying deal = 3250118884 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250138082
+Trying deal = 3250138082 using 0AB
+I could not solve this game.
+Total number of states checked is 1728549.
+Trying deal = 3250141449
+Trying deal = 3250141449 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250147161
+Trying deal = 3250147161 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250148663
+Trying deal = 3250148663 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250160658
+Trying deal = 3250160658 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250171328
+Trying deal = 3250171328 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250176899
+Trying deal = 3250176899 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250191219
+Trying deal = 3250191219 using 0AB
+I could not solve this game.
+Total number of states checked is 1772336.
+Trying deal = 3250200987
+Trying deal = 3250200987 using 0AB
+This game is solveable.
+Total number of states checked is 1094471.
+Trying deal = 3250203931
+Trying deal = 3250203931 using 0AB
+I could not solve this game.
+Total number of states checked is 1081037.
+Trying deal = 3250218402
+Trying deal = 3250218402 using 0AB
+Iterations count exceeded.
+Total number of states checked is 3000000.
+Trying deal = 3250219439
+Trying deal = 3250219439 using 0AB
+I could not solve this game.
+Total number of states checked is 1791443.
+Trying deal = 3250222753
+Trying deal = 3250222753 using 0AB
+This game is solveable.
+Total number of states checked is 2188134.
+Trying deal = 3250239762
+Trying deal = 3250239762 using 0AB
+I could not solve this game.
+Total number of states checked is 1018804.
