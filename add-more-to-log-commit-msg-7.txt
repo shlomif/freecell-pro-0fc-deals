@@ -1,6 +1,7 @@
-Add more results using the solve-more-7.bash log.
+Add more results using the solve-more-7 log.
 
-Based on the run by the solve-more-7.bash program and the 0AB scan/
+Based on the run by the solve-more-7-gnupar.bash program and the 0AB
+scan.
 
 Find 0fc freecell deals in the freecell pro range :
 
