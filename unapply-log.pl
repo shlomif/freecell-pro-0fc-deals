@@ -14,7 +14,7 @@ sub _key
     return int( shift() / 1e8 );
 }
 
-foreach my $fn ("bad--solve-more-3-log.txt", "bad--solve-more-4-log.txt")
+foreach my $fn ( "bad--solve-more-3-log.txt", "bad--solve-more-4-log.txt" )
 {
     my $buf = path($fn)->slurp_utf8;
     $buf =~ s#Trying deal = ([0-9]+) using 0AB\n\n?I could not solve this game.#
