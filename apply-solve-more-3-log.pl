@@ -16,6 +16,7 @@ sub _key
 foreach my $fn (
     "solve-more-3-log.txt", "solve-more-4-log.txt",
     "solve-more-7-log.txt", "solve-more-7--4e9--log.txt",
+    "solve-more-7--5e9--log.txt",
     )
 {
     my $buf = path($fn)->slurp_utf8;
