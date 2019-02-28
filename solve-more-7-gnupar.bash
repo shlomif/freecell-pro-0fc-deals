@@ -16,5 +16,5 @@ export MAX_ITERS="${MAX_ITERS:-3000000}"
 out='solve-more-7--6e9--log.txt'
 export START="$(tail -1000 "$out" | grep -E '^Trying deal =' | tail-extract '^Trying deal = ([0-9]+)' -)"
 < 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 > $ENV{START}' | \
-    parallel --group -j2 -k bash run-job-2.bash 2>&1 | \
+    parallel --group -j1 -k bash run-job-2.bash 2>&1 | \
     tee -a "$out"
