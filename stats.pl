@@ -19,5 +19,5 @@ foreach my $rec ( [ 'Solved', 'S' ], [ 'Intractable', 'Int' ],
     my $val   = $stats{$key};
     my $ratio = $val / $tot;
     my $pct   = 100 * $ratio;
-    printf "%s: %d ( %.2f %%)\n", $txt, $val, $pct;
+    printf "%s: %d ( %.4f %%)\n", $txt, $val, $pct;
 }

@@ -12,7 +12,7 @@ STDOUT->autoflush(1);
 
 while (<>)
 {
-    print s/(\d+(?:\.\d+)?)/$f->format_number($1)/egr;
+    print s/(\d+(?:\.\d+)?)/$f->format_number($1, 4)/egr;
 }
 
 __END__
