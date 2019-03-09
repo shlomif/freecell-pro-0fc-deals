@@ -18,11 +18,11 @@ shlomif[0fc]:$this$ pwd
 shlomif[0fc]:$this$ gmake
 bash concatenate-to-big-log.bash
 perl stats.pl 0fc-log.txt | perl commify.pl
-Solved: 18,440,291 ( 0.21 %)
-Intractable: 797,863 ( 0.01 %)
-Impossible: 8,570,696,437 ( 99.78 %)
+Solved: 18,459,958 ( 0.2149 %)
+Intractable: 699,490 ( 0.0081 %)
+Impossible: 8,570,775,143 ( 99.777 %)
 shlomif[0fc]:$this$ ls -l 0fc-log.txt
--rw-r--r-- 1 shlomif shlomif 249235873 Feb 27 09:20 0fc-log.txt
+-rw-r--r-- 1 shlomif shlomif 248015949 Mar  9 12:25 0fc-log.txt
 ```
 
 # Credits
