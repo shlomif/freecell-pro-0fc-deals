@@ -31,7 +31,7 @@ ab()
 dbm()
 {
     echo "Trying deal = $deal using dbm"
-    depth_dbm_fc_solver --iters-delta-limit "$MAX_ITERS" --offload-dir-path $PWD/offload/ <(pi-make-microsoft-freecell-board -t "$deal")
+    depth-dbm-fc-solver --iters-delta-limit "$MAX_ITERS" --offload-dir-path $PWD/offload/ <(pi-make-microsoft-freecell-board -t "$deal")
 }
 
 dbm_tail()
@@ -39,7 +39,7 @@ dbm_tail()
     echo "Trying deal = $deal using dbm"
     local offd="$PWD/offload/deal$deal"
     mkdir -p "$offd"
-    depth_dbm_fc_solver --iters-delta-limit "$MAX_ITERS" --offload-dir-path "$offd" <(pi-make-microsoft-freecell-board -t "$deal") | tail -10
+    depth-dbm-fc-solver --iters-delta-limit "$MAX_ITERS" --offload-dir-path "$offd" <(pi-make-microsoft-freecell-board -t "$deal") | tail -10
 }
 
 ab_tail()
