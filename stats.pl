@@ -9,7 +9,7 @@ while (<>)
     ++$stats{ substr( $_, 0, 1 ) };
 }
 $stats{Int} = delete $stats{I};
-my $tot    = ( 1 << 33 ) - 1;
+my $tot    = ( ( 1 << 33 ) - 1 );
 my $remain = $tot - sum values %stats;
 $stats{Imp} = $remain;
 foreach my $rec ( [ 'Solved', 'S' ], [ 'Intractable', 'Int' ],
