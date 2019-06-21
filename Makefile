@@ -5,6 +5,9 @@
 
 all: inc.exe stats
 
+colstat.exe: collect-stats.cpp
+	g++ -o $@ -Wall -Wextra -O3 -march=native -flto -fwhole-program $<
+
 inc.exe: inc-nums.cpp
 	g++ -o $@ -Wall -Wextra -O3 -march=native -flto -fwhole-program $<
 
@@ -26,7 +29,7 @@ diff:
 
 PERL = perl
 
-stats: 0fc-log.txt
+stats: 0fc-log.txt colstat.exe
 	$(PERL) stats.pl $< | $(PERL) commify.pl
 
 # vim:ft=make
