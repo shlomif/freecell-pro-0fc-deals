@@ -12,13 +12,6 @@ use Test::More tests => 2;
     is( scalar(`grep -vcE '^(S|Int)\t[1-9][0-9]*\$' "$LOG_FN"`),
         "0\n", "all lines match." );
 
-    my $NUMS = qq%< "$LOG_FN" $^X -lanE 'say \$F[-1]'%;
-
     # TEST
-    is(
-        scalar(`$NUMS | $^X -lnE 'say \$last if \$last >= \$_; \$last = \$_;'`),
-        '', "Lines are sorted.",
-    );
-
-    # is( scalar(`$NUMS`), scalar(`$NUMS | sort -n -u`), "Lines are sorted.", );
+    is( system("./inc.exe $LOG_FN"), 0, "Lines are sorted.", );
 }

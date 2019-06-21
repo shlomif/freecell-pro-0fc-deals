@@ -3,7 +3,10 @@
 # shlomif, 2018-04-06 18:32
 #
 
-all: stats
+all: inc.exe stats
+
+inc.exe: inc-nums.cpp
+	g++ -o $@ -Wall -Wextra -O3 -march=native -flto -fwhole-program $<
 
 0fc-log.txt: $(wildcard 0fc-logs/*.log.txt)
 	bash concatenate-to-big-log.bash
