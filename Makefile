@@ -5,11 +5,13 @@
 
 all: inc.exe stats
 
+CXXFLAGS = -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program
+
 colstat.exe: collect-stats.cpp
-	g++ -o $@ -Wall -Wextra -O3 -march=native -flto -fwhole-program $<
+	g++ -o $@ $(CXXFLAGS) $<
 
 inc.exe: inc-nums.cpp
-	g++ -o $@ -Wall -Wextra -O3 -march=native -flto -fwhole-program $<
+	g++ -o $@ $(CXXFLAGS) $<
 
 0fc-log.txt: $(wildcard 0fc-logs/*.log.txt)
 	bash concatenate-to-big-log.bash
