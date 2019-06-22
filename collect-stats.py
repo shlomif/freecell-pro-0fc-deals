@@ -6,7 +6,7 @@
 #
 
 import sys
-with open(sys.argv[1], "rb") as f:
+with open(sys.argv[1], "r") as f:
     S = J = 0
     for line in f:
         if line[0] == 'S':
