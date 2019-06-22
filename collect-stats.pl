@@ -5,6 +5,9 @@
 # Distributed under terms of the MIT license.
 #
 
+use strict;
+use warnings;
+
 my $S = 0;
 my $J = 0;
 while (<>)
