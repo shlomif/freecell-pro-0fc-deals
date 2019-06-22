@@ -3,7 +3,10 @@
 use strict;
 use warnings;
 use List::Util qw/ sum /;
-my %stats  = split /\s+/, `./colstat.exe @ARGV`;
+
+my %stats = split /\s+/, `./colstat.exe @ARGV`;
+
+# my %stats  = split /\s+/, `pypy collect-stats.py @ARGV`;
 my $tot    = ( ( 1 << 33 ) - 1 );
 my $remain = $tot - sum values %stats;
 $stats{Imp} = $remain;
