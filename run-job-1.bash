@@ -6,8 +6,9 @@
 # Distributed under terms of the MIT license.
 #
 
+export MAX_ITERS=3000000
 __deal="$1"
 shift
 . solve_common.bash
 deal="$__deal"
-d "$deal" dbm_tail
+d "$deal" ab_tail
