@@ -1,9 +1,10 @@
 Add more results using the solve-more-6-gnupar.bash log.
 
-Based on the run by the solve-more-6-gnupar.bash program and the dbm_tail.
+Based on the run by the solve-more-6-gnupar.bash program and the 0AB
+scan with 3e6 max iters.
 
 Find 0fc freecell deals in the freecell pro range :
 
 http://fc-solve.shlomifish.org/faq.html#what_are_ms_deals
 
-It is processed using << perl -p -i apply-solve-more-3-log.pl 0fc-logs/*.txt >>
+It is processed using << perl apply-solve-more-3-log.pl >>
