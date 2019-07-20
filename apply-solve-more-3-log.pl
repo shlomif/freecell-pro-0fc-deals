@@ -33,6 +33,22 @@ LIN:
     for ( my $i = 0 ; $i < @lines ; ++$i )
     {
         my $l = $lines[$i];
+        if ( my ( $deal, $verdict ) =
+            $l =~
+/\A([0-9]+) = Verdict: (Unsolved|Solved) ; Iters: [0-9]+ ; Length -?[0-9]*\s*\n?\z/
+            )
+        {
+
+            if ( $verdict eq "Unsolved" )
+            {
+                $imp{ _key($deal) }{$deal} = 1;
+            }
+            else
+            {
+                $sol{ _key($deal) }{$deal} = 1;
+            }
+            next LIN;
+        }
         if ( my ($deal) = $l =~ /\ATrying deal = ([0-9]+) using dbm\n?\z/ )
         {
             my $text = $l;
