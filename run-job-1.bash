@@ -6,7 +6,7 @@
 # Distributed under terms of the MIT license.
 #
 
-export MAX_ITERS=3000000
+export MAX_ITERS=6000000
 __deal="$1"
 shift
 . solve_common.bash
