@@ -24,5 +24,5 @@ disabled()
 export MAX_ITERS=6000000
 < 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 > $ENV{START}' | \
     head -1000 | \
-    parallel -I'{}' --group -j1 -k summary-fc-solve '{}' -- --freecells-num 0 -sam -p -t -sel -to 0AB -sp r:tf -mi "$MAX_ITERS" 2>&1 | \
+    xargs -I'{}' summary-fc-solve '{}' -- --freecells-num 0 -to 0AB -sp r:tf -mi "$MAX_ITERS" 2>&1 | \
     tee -a "$out"
