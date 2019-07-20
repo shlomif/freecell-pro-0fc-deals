@@ -35,7 +35,7 @@ LIN:
         my $l = $lines[$i];
         if ( my ( $deal, $verdict ) =
             $l =~
-/\A([0-9]+) = Verdict: (Unsolved|Solved) ; Iters: [0-9]+ ; Length -?[0-9]*\s*\n?\z/
+/\A([0-9]+) = Verdict: (Unsolved|Solved) ; Iters: [0-9]+ ; Length: -?[0-9]*\s*\n?\z/
             )
         {
 
