@@ -28241,3 +28241,30 @@ Trying deal = 1144065419
 Trying deal = 1144065419 using 0AB
 I could not solve this game.
 Total number of states checked is 3285444.
+Missing right curly or square bracket at -e line 1, at end of line
+syntax error at -e line 1, at EOF
+Execution of -e aborted due to compilation errors.
+1144072023 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144091064 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144097301 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144146041 = Verdict: Solved ; Iters: 3447572 ; Length: -1
+1144163617 = Verdict: Unsolved ; Iters: 5705805 ; Length: -1
+1144180190 = Verdict: Unsolved ; Iters: 5720464 ; Length: -1
+1144182867 = Verdict: Unsolved ; Iters: 3144504 ; Length: -1
+1144197210 = Verdict: Unsolved ; Iters: 4291795 ; Length: -1
+1144215385 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144219586 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144264567 = Verdict: Unsolved ; Iters: 5791959 ; Length: -1
+1144264936 = Verdict: Unsolved ; Iters: 3168458 ; Length: -1
+1144282406 = Verdict: Unsolved ; Iters: 4694139 ; Length: -1
+1144316564 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144330325 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144335972 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144345368 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144355406 = Verdict: Unsolved ; Iters: 5707715 ; Length: -1
+1144366374 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144388118 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144407048 = Verdict: Unsolved ; Iters: 3463605 ; Length: -1
+1144409331 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144411724 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144423383 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
