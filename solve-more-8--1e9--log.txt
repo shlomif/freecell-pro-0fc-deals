@@ -28268,3 +28268,12 @@ Execution of -e aborted due to compilation errors.
 1144409331 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
 1144411724 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
 1144423383 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144427815 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144431903 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144455044 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144464886 = Verdict: Unsolved ; Iters: 4945943 ; Length: -1
+1144467375 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
+1144495755 = Verdict: Unsolved ; Iters: 3175103 ; Length: -1
+1144521407 = Verdict: Solved ; Iters: 3567750 ; Length: -1
+1144551849 = Verdict: Unsolved ; Iters: 3223539 ; Length: -1
+1144552200 = Verdict: Intractable ; Iters: 6000000 ; Length: -1
