@@ -21,9 +21,12 @@ then
     START="$min"
 fi
 < 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 >= $ENV{START}' | \
+    parallel --group -j2 -k bash run-job-1.bash 2>&1 | \
+    tee -a "$out"
+
+exit
     (while read deal
     do
         d "$deal" ab_tail
         # d "$deal" dbm_tail
     done) 2>&1 | \
-    tee -a "$out"

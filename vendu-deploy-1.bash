@@ -15,6 +15,7 @@ shlomif_set="$base/shlomif-computer-settings"
 fcs_repo="$base/fc-solve"
 export MAX_ITERS='32000000'
 export MAX_ITERS='6500000'
+export MAX_ITERS='16000000'
 
 if ! test -e "$shlomif_set"
 then
