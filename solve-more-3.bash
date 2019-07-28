@@ -13,7 +13,7 @@
 # d 99673 ab
 # d 100260 ab
 out='solve-more-4-log.txt'
-export START="$(tail-extract '^Trying deal = ([0-9]+)' "$out")"
+export START="$(tail-extract '^(?:Trying deal = )?([0-9]+)' "$out")"
 # min=1000000000
 min=2000000000
 if test "$START" -lt "$min"
