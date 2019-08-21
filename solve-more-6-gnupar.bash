@@ -14,7 +14,11 @@
 # d 100260 ab
 out='solve-more-8--1e9--log.txt'
 export START="$(tail -1000 "$out" | grep -E '^(Trying deal =|[0-9]+ =)' | tail-extract '^(?:Trying deal = )?([0-9]+)' -)"
-START="${START:-1000000000}"
+START="${START:-1200000000}"
+if test "$START" -lt 1200000000
+then
+    START=1200000000
+fi
 f1()
 {
 < 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 > $ENV{START}' | \
