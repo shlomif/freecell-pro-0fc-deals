@@ -22,7 +22,7 @@ fi
 f1()
 {
 < 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 > $ENV{START}' | \
-    parallel --group -j1 -k bash run-job-1.bash 2>&1 | \
+    parallel --group -j8 -k bash run-job-1.bash 2>&1 | \
     tee -a "$out"
 }
 # f1
@@ -34,4 +34,4 @@ export MAX_ITERS=6000000
     ( while read l; do summary-fc-solve "$l" -- --freecells-num 0 -to 0AB -sp r:tf -mi "$MAX_ITERS"; done ) 2>&1 | \
     tee -a "$out"
 }
-f2
+f1
