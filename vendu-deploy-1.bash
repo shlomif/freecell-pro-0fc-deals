@@ -44,7 +44,7 @@ then
     cd "$base"
 fi
 
-PATH="$fcs_i/bin:$PATH"
+PATH="$fcs_i/bin:$PATH:$fcs_b"
 
 make 0fc-log.txt
 
