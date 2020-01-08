@@ -7,12 +7,12 @@ cache:
     ccache: true
     directories:
         - $HOME/perl_modules
-dist: xenial
+dist: bionic
 sudo: false
 language: perl
 perl:
+    - '5.30'
     - 'blead'
-    - '5.26'
 matrix:
     allow_failures:
         - perl: 'blead'
