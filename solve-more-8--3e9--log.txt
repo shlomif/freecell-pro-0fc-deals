@@ -1,0 +1,14 @@
+3000007593 = Verdict: Solved ; Iters: 9720558 ; Length: -1
+3000023228 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+3000028994 = Verdict: Solved ; Iters: 3970538 ; Length: -1
+3000054029 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+3000060774 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+3000078705 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+3000093498 = Verdict: Solved ; Iters: 6035612 ; Length: -1
+3000121771 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+3000128020 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+3000143646 = Verdict: Solved ; Iters: 4437257 ; Length: -1
+3000153112 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+3000156648 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+3000168303 = Verdict: Solved ; Iters: 3857339 ; Length: -1
+3000187971 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
