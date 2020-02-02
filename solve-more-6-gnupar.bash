@@ -17,7 +17,7 @@ export START="$(tail -1000 "$out" | grep -E '^(Trying deal =|[0-9]+ =)' | tail-e
 START="${START:-3000060774}"
 f1()
 {
-< 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 > $ENV{START}' | \
+< 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 > $ENV{START} && $1 < 36e8' | \
     parallel --group -j4 -k bash run-job-3.bash 2>&1 | \
     tee -a "$out"
 }
