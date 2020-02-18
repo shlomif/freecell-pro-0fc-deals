@@ -19,12 +19,12 @@ shlomif[0fc]:$this$ gmake
 g++ -o inc.exe -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program inc-nums.cpp
 bash concatenate-to-big-log.bash
 g++ -o colstat.exe -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program collect-stats.cpp
-shlomif[0fc]:$this$ perl stats.pl 0fc-log.txt | perl commify.pl
-Solved: 18,497,411 ( 0.2153 %)
-Intractable: 499,113 ( 0.0058 %)
-Impossible: 8,570,938,067 ( 99.7789 %)
+perl stats.pl 0fc-log.txt | perl commify.pl
+Solved: 18,520,025 ( 0.2156 %)
+Intractable: 399,931 ( 0.0047 %)
+Impossible: 8,571,014,635 ( 99.7797 %)
 shlomif[0fc]:$this$ ls -l 0fc-log.txt
--rw-r--r--. 1 shlomif shlomif 245526679 Jan  8 19:32 0fc-log.txt
+-rw-r--r--. 1 shlomif shlomif 244332931 Feb 18 20:45 0fc-log.txt
 ```
 
 # Credits
