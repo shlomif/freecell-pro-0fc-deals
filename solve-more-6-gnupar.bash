@@ -12,7 +12,7 @@
 # d 96924 ab
 # d 99673 ab
 # d 100260 ab
-out='solve-more-8--4e9--log.txt'
+out='solve-more-8--5e9--log.txt'
 export START="$(tail -1000 "$out" | grep -E '^(Trying deal =|[0-9]+ =)' | tail-extract '^(?:Trying deal = )?([0-9]+)' -)"
 START="${START:-4000000000}"
 f1()

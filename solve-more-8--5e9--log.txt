@@ -1214,3 +1214,16 @@
 5019030352 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
 5019066926 = Verdict: Unsolved ; Iters: 4032059 ; Length: -1
 5019089827 = Verdict: Unsolved ; Iters: 7405144 ; Length: -1
+5019093215 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+5019096214 = Verdict: Solved ; Iters: 5554139 ; Length: -1
+5019154193 = Verdict: Unsolved ; Iters: 7507959 ; Length: -1
+5019178222 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+5019209382 = Verdict: Solved ; Iters: 5866179 ; Length: -1
+5019218598 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+5019219625 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+5019234203 = Verdict: Unsolved ; Iters: 9090367 ; Length: -1
+5019235135 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+5019242248 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+5019243463 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+5019275319 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+5019277725 = Verdict: Unsolved ; Iters: 6027056 ; Length: -1
