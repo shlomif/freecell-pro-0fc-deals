@@ -110,3 +110,9 @@
 6001704612 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
 6001707201 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
 6001707234 = Verdict: Solved ; Iters: 4463706 ; Length: -1
+6001726338 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+6001740391 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+6001752023 = Verdict: Unsolved ; Iters: 8259995 ; Length: -1
+6001752396 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+6001757678 = Verdict: Solved ; Iters: 5400902 ; Length: -1
+6001766575 = Verdict: Unsolved ; Iters: 3840917 ; Length: -1
