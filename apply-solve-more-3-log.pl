@@ -18,7 +18,7 @@ sub _key
 # "solve-more-7--7e9--log.txt", "solve-more-7--8e9--log.txt",
 # "solve-more-3-log.txt", "solve-more-3--1e9--log.txt",
 # "solve-more-4-log.txt", )
-foreach my $fn ( "solve-more-8--4e9--log.txt", "solve-more-8--5e9--log.txt", )
+foreach my $fn ( "solve-more-8--5e9--log.txt", "solve-more-8--6e9--log.txt", )
 {
     my $buf = path($fn)->slurp_utf8;
     $buf =~ s#Trying deal = ([0-9]+) using 0AB\n\n?I could not solve this game.#
