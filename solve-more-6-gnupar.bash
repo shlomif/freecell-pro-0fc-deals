@@ -15,18 +15,26 @@
 out='solve-more-8--6e9--log.txt'
 export START="$(tail -1000 "$out" | grep -E '^(Trying deal =|[0-9]+ =)' | tail-extract '^(?:Trying deal = )?([0-9]+)' -)"
 START="${START:-6000000000}"
+gen_deals()
+{
+    < 0fc-log.txt perl -lnE 'if (my ($deal) = /\AInt\t([0-9]+)\z/){ if ($deal > $ENV{START}) { say $deal;} }'
+}
+log_sink()
+{
+    tee -a "$out"
+}
 f1()
 {
-< 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 > $ENV{START}' | \
-    parallel --group -j1 -k bash run-job-3.bash 2>&1 | \
-    tee -a "$out"
+    gen_deals |
+    parallel --group -j"${NUM_CPUS:-4}" -k bash run-job-3.bash 2>&1 | \
+    log_sink
 }
     # perl -E 'while(my $l=<>){chomp$l;system("summary-fc-solve", $l, qw(-- --freecells-num 0 -to 0AB -sp r:tf -mi),$ENV{MAX_ITERS});}' 2>&1 | \
 f2()
 {
-< 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 > $ENV{START}' | \
+    gen_deals |
     ( while read l; do summary-fc-solve "$l" -- --freecells-num 0 -to 0AB -sp r:tf -mi "$MAX_ITERS"; done ) 2>&1 | \
-    tee -a "$out"
+    log_sink
 }
 export MAX_ITERS=10000000
 f1
