@@ -18,7 +18,7 @@ START="${START:-6000000000}"
 f1()
 {
 < 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 > $ENV{START}' | \
-    parallel --group -j4 -k bash run-job-3.bash 2>&1 | \
+    parallel --group -j1 -k bash run-job-3.bash 2>&1 | \
     tee -a "$out"
 }
     # perl -E 'while(my $l=<>){chomp$l;system("summary-fc-solve", $l, qw(-- --freecells-num 0 -to 0AB -sp r:tf -mi),$ENV{MAX_ITERS});}' 2>&1 | \
