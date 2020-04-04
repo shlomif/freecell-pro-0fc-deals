@@ -614,3 +614,10 @@
 7009558565 = Verdict: Unsolved ; Iters: 4302233 ; Length: -1
 7009574180 = Verdict: Unsolved ; Iters: 3889291 ; Length: -1
 7009583161 = Verdict: Unsolved ; Iters: 3782454 ; Length: -1
+7009594669 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+7009602369 = Verdict: Unsolved ; Iters: 3299817 ; Length: -1
+7009664542 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+7009675696 = Verdict: Unsolved ; Iters: 8641839 ; Length: -1
+7009708139 = Verdict: Unsolved ; Iters: 5227971 ; Length: -1
+7009714837 = Verdict: Unsolved ; Iters: 4327584 ; Length: -1
+7009720359 = Verdict: Unsolved ; Iters: 3042652 ; Length: -1
