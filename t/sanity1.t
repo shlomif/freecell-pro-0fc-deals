@@ -13,5 +13,5 @@ use Test::More tests => 2;
         "0\n", "all lines match." );
 
     # TEST
-    is( system("./inc.exe $LOG_FN"), 0, "Lines are sorted.", );
+    is( scalar( system( "./inc.exe", $LOG_FN ) ), 0, "Lines are sorted.", );
 }
