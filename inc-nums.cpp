@@ -15,7 +15,7 @@ int main(int, const char *argv[])
     unsigned long long last = 0;
     while (getline(f, l))
     {
-        const size_t idx = l.find_last_not_of("0123456789");
+        const size_t idx = l.rfind('\t');
         const unsigned long long n = std::stoull(l.substr(idx + 1));
         if (last >= n)
         {
