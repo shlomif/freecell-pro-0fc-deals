@@ -1,0 +1,5 @@
+700072548 = Verdict: Unsolved ; Iters: 7053305 ; Length: -1
+700091015 = Verdict: Intractable ; Iters: 10000000 ; Length: -1
+700092357 = Verdict: Solved ; Iters: 3358226 ; Length: -1
+700105446 = Verdict: Solved ; Iters: 7137518 ; Length: -1
+700127607 = Verdict: Unsolved ; Iters: 3945214 ; Length: -1
