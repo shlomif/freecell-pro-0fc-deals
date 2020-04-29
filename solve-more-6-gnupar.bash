@@ -12,9 +12,9 @@
 # d 96924 ab
 # d 99673 ab
 # d 100260 ab
-out='solve-more-9--0e9--log.txt'
+out='solve-more-9--1e9--log.txt'
 export START="$(tail -1000 "$out" | grep -E '^(Trying deal =|[0-9]+ =)' | tail-extract '^(?:Trying deal = )?([0-9]+)' -)"
-START="${START:-700000593}"
+START="${START:-1000000000}"
 gen_deals()
 {
     < 0fc-log.txt perl -lnE 'if (my ($deal) = /\AInt\t([0-9]+)\z/){ if ($deal > $ENV{START}) { say $deal;} }'
