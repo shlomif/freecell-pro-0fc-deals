@@ -13068,3 +13068,19 @@ tcmalloc: large alloc 1233903616 bytes == 0x1c4d9a000 @  0x7f8faa59e40d 0x7f8faa
 2937187417 = Verdict: Unsolved ; Iters: 18945914 ; Length: -1
 2937192287 = Verdict: Unsolved ; Iters: 28912893 ; Length: -1
 2937248547 = Verdict: Unsolved ; Iters: 25436363 ; Length: -1
+2937254963 = Verdict: Unsolved ; Iters: 25160978 ; Length: -1
+2937286021 = Verdict: Unsolved ; Iters: 25124071 ; Length: -1
+2937381615 = Verdict: Unsolved ; Iters: 26509151 ; Length: -1
+2937403842 = Verdict: Unsolved ; Iters: 16016216 ; Length: -1
+2937448836 = Verdict: Unsolved ; Iters: 15075833 ; Length: -1
+2937476324 = Verdict: Unsolved ; Iters: 16454742 ; Length: -1
+2937486077 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+2937519588 = Verdict: Solved ; Iters: 10954173 ; Length: -1
+2937526845 = Verdict: Unsolved ; Iters: 15824634 ; Length: -1
+2937554498 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+2937563454 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+tcmalloc: large alloc 1233903616 bytes == 0x2a5d4c000 @  0x7ff46b1f040d 0x7ff46b2119d1 0x4063e2 0x402a6f 0x7ff46b033042 0x40468e
+tcmalloc: large alloc 1542381568 bytes == 0x32ca36000 @  0x7ff46b1f040d 0x7ff46b2119d1 0x4063e2 0x402a6f 0x7ff46b033042 0x40468e
+2937581685 = Verdict: Unsolved ; Iters: 17229416 ; Length: -1
+2937582740 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+2937596527 = Verdict: Unsolved ; Iters: 16206217 ; Length: -1
