@@ -8307,3 +8307,12 @@ tcmalloc: large alloc 2409979904 bytes == 0x489e6c000 @  0x7efc49bf940d 0x7efc49
 3276242444 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
 3276248138 = Verdict: Solved ; Iters: 22671830 ; Length: -1
 3276268419 = Verdict: Unsolved ; Iters: 12004576 ; Length: -1
+3276285729 = Verdict: Solved ; Iters: 26187618 ; Length: -1
+3276293968 = Verdict: Unsolved ; Iters: 16331595 ; Length: -1
+3276313844 = Verdict: Unsolved ; Iters: 11034872 ; Length: -1
+3276328480 = Verdict: Solved ; Iters: 15785343 ; Length: -1
+3276330916 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3276430496 = Verdict: Unsolved ; Iters: 11757971 ; Length: -1
+3276444974 = Verdict: Unsolved ; Iters: 24192701 ; Length: -1
+3276558583 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3276566187 = Verdict: Unsolved ; Iters: 27683283 ; Length: -1
