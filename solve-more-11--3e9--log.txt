@@ -9990,3 +9990,31 @@ tcmalloc: large alloc 1233903616 bytes == 0x292736000 @  0x7f943588c40d 0x7f9435
 3331461070 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
 3331568298 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
 3331602344 = Verdict: Unsolved ; Iters: 20882015 ; Length: -1
+3331631155 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3331766012 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+tcmalloc: large alloc 1233903616 bytes == 0x273fbc000 @  0x7f5bc431240d 0x7f5bc43339d1 0x4063e2 0x402a6f 0x7f5bc4155042 0x40468e
+tcmalloc: large alloc 1542381568 bytes == 0x2fc956000 @  0x7f5bc431240d 0x7f5bc43339d1 0x4063e2 0x402a6f 0x7f5bc4155042 0x40468e
+tcmalloc: large alloc 1927979008 bytes == 0x3c5bea000 @  0x7f5bc431240d 0x7f5bc43339d1 0x4063e2 0x402a6f 0x7f5bc4155042 0x40468e
+tcmalloc: large alloc 2409979904 bytes == 0x4942f6000 @  0x7f5bc431240d 0x7f5bc43339d1 0x4063e2 0x402a6f 0x7f5bc4155042 0x40468e
+3331794141 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3331802153 = Verdict: Unsolved ; Iters: 21731750 ; Length: -1
+3331863939 = Verdict: Solved ; Iters: 11923286 ; Length: -1
+3331875058 = Verdict: Solved ; Iters: 15847560 ; Length: -1
+3331894794 = Verdict: Unsolved ; Iters: 22174442 ; Length: -1
+3331936464 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3331944891 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3331988468 = Verdict: Solved ; Iters: 10147748 ; Length: -1
+3332012737 = Verdict: Unsolved ; Iters: 15571527 ; Length: -1
+3332030488 = Verdict: Solved ; Iters: 10784936 ; Length: -1
+3332031126 = Verdict: Unsolved ; Iters: 10501355 ; Length: -1
+3332038582 = Verdict: Unsolved ; Iters: 12544470 ; Length: -1
+3332114388 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3332129016 = Verdict: Unsolved ; Iters: 17318643 ; Length: -1
+3332187451 = Verdict: Solved ; Iters: 12232220 ; Length: -1
+3332197264 = Verdict: Solved ; Iters: 10233418 ; Length: -1
+3332219501 = Verdict: Unsolved ; Iters: 15869767 ; Length: -1
+3332246732 = Verdict: Solved ; Iters: 20921164 ; Length: -1
+3332285110 = Verdict: Unsolved ; Iters: 19043030 ; Length: -1
+3332303183 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3332336544 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3332350552 = Verdict: Solved ; Iters: 10884332 ; Length: -1
