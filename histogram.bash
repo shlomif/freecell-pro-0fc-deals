@@ -8,10 +8,15 @@
 
 csvfn='files-intractables-histogram.csv'
 xlsxfn='files-intractables-histogram.xlsx'
+
+if test -z "$BINSIZE"
+then
+    export BINSIZE="$((10 ** 8))"
+fi
+
 (
     echo '"Bin","Count"'
-    grep -cE '^Int' 0fc-logs/*.log.txt | perl -lanE 'say qq#"$1","$2"# if m#0fc-logs/([0-9]+)\.log\.txt:([0-9]+)#'
+    grep -E '^Int' 0fc-logs/*.log.txt | perl -Minteger -Mbytes -lanE 'BEGIN{$size=int($ENV{BINSIZE});};++$h{int($F[1] / $size)}; END{foreach my $bin (sort { $a <=> $b} keys%h){say qq#"$bin","$h{$bin}"#;}}'
 ) | tee "$csvfn"
-
 
 csv2chart xlsx -o "$xlsxfn" --title "Intractables frequency per bin" --chart-type column --exec gnumeric < "$csvfn"
