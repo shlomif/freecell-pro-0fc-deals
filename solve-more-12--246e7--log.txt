@@ -1,0 +1,12 @@
+2460006371 = Verdict: Unsolved ; Iters: 15929676 ; Length: -1
+2460008702 = Verdict: Unsolved ; Iters: 1023017 ; Length: -1
+2460009010 = Verdict: Unsolved ; Iters: 1029479 ; Length: -1
+2460025548 = Verdict: Unsolved ; Iters: 2143445 ; Length: -1
+2460028397 = Verdict: Unsolved ; Iters: 1651844 ; Length: -1
+2460032746 = Verdict: Unsolved ; Iters: 1346133 ; Length: -1
+2460037424 = Verdict: Unsolved ; Iters: 3383356 ; Length: -1
+2460038699 = Verdict: Unsolved ; Iters: 4006091 ; Length: -1
+2460044507 = Verdict: Solved ; Iters: 3776561 ; Length: -1
+2460051153 = Verdict: Solved ; Iters: 2186531 ; Length: -1
+2460070502 = Verdict: Solved ; Iters: 2107349 ; Length: -1
+2460072373 = Verdict: Solved ; Iters: 4132943 ; Length: -1

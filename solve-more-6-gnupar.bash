@@ -12,9 +12,16 @@
 # d 96924 ab
 # d 99673 ab
 # d 100260 ab
+back_to_246e7_deals='true'
+
 out='solve-more-11--3e9--log.txt'
-export START="$(tail -1000 "$out" | grep -E '^(Trying deal =|[0-9]+ =)' | tail-extract '^(?:Trying deal = )?([0-9]+)' -)"
 export MINSTART="$((30 * 10 ** 8))"
+if $back_to_246e7_deals
+then
+    out='solve-more-12--246e7--log.txt'
+    export MINSTART="$((246 * 10 ** 7))"
+fi
+export START="$(tail -1000 "$out" | grep -E '^(Trying deal =|[0-9]+ =)' | tail-extract '^(?:Trying deal = )?([0-9]+)' -)"
 START="${START:-$MINSTART}"
 if test "$START" -lt "$MINSTART"
 then
