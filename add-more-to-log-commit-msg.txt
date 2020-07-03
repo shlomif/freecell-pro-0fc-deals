@@ -1,7 +1,7 @@
 Add more results using the solve-more-6-gnupar.bash log.
 
 Based on the run by the solve-more-6-gnupar.bash program and the 0AB
-scan with 10e6 max iters.
+scan with 30e6 max iters.
 
 Find 0fc freecell deals in the freecell pro range :
 
