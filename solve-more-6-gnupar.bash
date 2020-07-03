@@ -12,7 +12,7 @@
 # d 96924 ab
 # d 99673 ab
 # d 100260 ab
-back_to_246e7_deals='true'
+back_to_246e7_deals='false'
 
 out='solve-more-11--3e9--log.txt'
 export MINSTART="$((30 * 10 ** 8))"
