@@ -23882,3 +23882,107 @@ tcmalloc: large alloc 1233903616 bytes == 0x289e0a000 @  0x7f5ef10e340d 0x7f5ef1
 3784421168 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
 3784422020 = Verdict: Solved ; Iters: 29679966 ; Length: -1
 3784460855 = Verdict: Solved ; Iters: 10106369 ; Length: -1
+3784502645 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3784506674 = Verdict: Unsolved ; Iters: 15088065 ; Length: -1
+3784506820 = Verdict: Unsolved ; Iters: 16342269 ; Length: -1
+3784507073 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3784580666 = Verdict: Solved ; Iters: 20737171 ; Length: -1
+3784626987 = Verdict: Solved ; Iters: 13824967 ; Length: -1
+3784719187 = Verdict: Solved ; Iters: 11023080 ; Length: -1
+3784783498 = Verdict: Unsolved ; Iters: 21885864 ; Length: -1
+3784809848 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3784842089 = Verdict: Unsolved ; Iters: 14578218 ; Length: -1
+3784907202 = Verdict: Solved ; Iters: 15034943 ; Length: -1
+3784921352 = Verdict: Unsolved ; Iters: 23700520 ; Length: -1
+3784977355 = Verdict: Unsolved ; Iters: 14579111 ; Length: -1
+3784992163 = Verdict: Unsolved ; Iters: 26239129 ; Length: -1
+3785010228 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3785053204 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3785062088 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3785169553 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3785182941 = Verdict: Unsolved ; Iters: 11464533 ; Length: -1
+3785190473 = Verdict: Solved ; Iters: 20181637 ; Length: -1
+3785190757 = Verdict: Solved ; Iters: 12606828 ; Length: -1
+3785274220 = Verdict: Solved ; Iters: 13294680 ; Length: -1
+3785330745 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3785336328 = Verdict: Unsolved ; Iters: 12527878 ; Length: -1
+3785341371 = Verdict: Unsolved ; Iters: 14617596 ; Length: -1
+3785459174 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3785505038 = Verdict: Unsolved ; Iters: 13154240 ; Length: -1
+3785557322 = Verdict: Unsolved ; Iters: 11871318 ; Length: -1
+3785563740 = Verdict: Unsolved ; Iters: 10858293 ; Length: -1
+3785608229 = Verdict: Solved ; Iters: 12504721 ; Length: -1
+3785613625 = Verdict: Unsolved ; Iters: 12121545 ; Length: -1
+3785669222 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+tcmalloc: large alloc 1233903616 bytes == 0x1b5348000 @  0x7f56b33e740d 0x7f56b34089d1 0x4063e2 0x402a6f 0x7f56b322a042 0x40468e
+tcmalloc: large alloc 1542381568 bytes == 0x2244b2000 @  0x7f56b33e740d 0x7f56b34089d1 0x4063e2 0x402a6f 0x7f56b322a042 0x40468e
+tcmalloc: large alloc 1927979008 bytes == 0x2a7d56000 @  0x7f56b33e740d 0x7f56b34089d1 0x4063e2 0x402a6f 0x7f56b322a042 0x40468e
+tcmalloc: large alloc 2409979904 bytes == 0x345ef2000 @  0x7f56b33e740d 0x7f56b34089d1 0x4063e2 0x402a6f 0x7f56b322a042 0x40468e
+tcmalloc: large alloc 3012476928 bytes == 0x40fe26000 @  0x7f56b33e740d 0x7f56b34089d1 0x4063e2 0x402a6f 0x7f56b322a042 0x40468e
+tcmalloc: large alloc 3765600256 bytes == 0x5123b4000 @  0x7f56b33e740d 0x7f56b34089d1 0x4063e2 0x402a6f 0x7f56b322a042 0x40468e
+tcmalloc: large alloc 4707000320 bytes == 0x64154c000 @  0x7f56b33e740d 0x7f56b34089d1 0x4063e2 0x402a6f 0x7f56b322a042 0x40468e
+3785726710 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3785793500 = Verdict: Unsolved ; Iters: 24739123 ; Length: -1
+3785831255 = Verdict: Unsolved ; Iters: 19854008 ; Length: -1
+3785963298 = Verdict: Solved ; Iters: 10578451 ; Length: -1
+3785977309 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786004306 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786008575 = Verdict: Unsolved ; Iters: 12366317 ; Length: -1
+3786121232 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786150644 = Verdict: Unsolved ; Iters: 27707788 ; Length: -1
+3786186731 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786244848 = Verdict: Solved ; Iters: 14081263 ; Length: -1
+3786259170 = Verdict: Unsolved ; Iters: 20892141 ; Length: -1
+3786290157 = Verdict: Unsolved ; Iters: 11973419 ; Length: -1
+3786305515 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786364965 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786376157 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786426204 = Verdict: Solved ; Iters: 13982572 ; Length: -1
+3786445062 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786446700 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786530105 = Verdict: Solved ; Iters: 16776503 ; Length: -1
+3786532539 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786579474 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786579854 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786584619 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786625262 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786720705 = Verdict: Unsolved ; Iters: 10689325 ; Length: -1
+3786746289 = Verdict: Solved ; Iters: 28927947 ; Length: -1
+3786760030 = Verdict: Unsolved ; Iters: 21602312 ; Length: -1
+3786764152 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786818538 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3786847594 = Verdict: Unsolved ; Iters: 25934078 ; Length: -1
+3786883299 = Verdict: Unsolved ; Iters: 12155392 ; Length: -1
+3786902284 = Verdict: Unsolved ; Iters: 26728278 ; Length: -1
+3786942806 = Verdict: Unsolved ; Iters: 11712055 ; Length: -1
+3786950878 = Verdict: Unsolved ; Iters: 26329833 ; Length: -1
+3786975412 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+tcmalloc: large alloc 1233903616 bytes == 0x1f36e0000 @  0x7f01e38ab40d 0x7f01e38cc9d1 0x4063e2 0x402a6f 0x7f01e36ee042 0x40468e
+tcmalloc: large alloc 1542381568 bytes == 0x277e5a000 @  0x7f01e38ab40d 0x7f01e38cc9d1 0x4063e2 0x402a6f 0x7f01e36ee042 0x40468e
+tcmalloc: large alloc 1927979008 bytes == 0x30eebe000 @  0x7f01e38ab40d 0x7f01e38cc9d1 0x4063e2 0x402a6f 0x7f01e36ee042 0x40468e
+tcmalloc: large alloc 2409979904 bytes == 0x3c03da000 @  0x7f01e38ab40d 0x7f01e38cc9d1 0x4063e2 0x402a6f 0x7f01e36ee042 0x40468e
+tcmalloc: large alloc 3012476928 bytes == 0x4a201e000 @  0x7f01e38ab40d 0x7f01e38cc9d1 0x4063e2 0x402a6f 0x7f01e36ee042 0x40468e
+3787005453 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787029905 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787148679 = Verdict: Unsolved ; Iters: 21960969 ; Length: -1
+3787170858 = Verdict: Solved ; Iters: 11193042 ; Length: -1
+3787191408 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787211376 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787224082 = Verdict: Unsolved ; Iters: 10140622 ; Length: -1
+3787255239 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787262510 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787278470 = Verdict: Solved ; Iters: 15386192 ; Length: -1
+3787281571 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787288266 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787347074 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787378497 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787381665 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787428546 = Verdict: Unsolved ; Iters: 10007815 ; Length: -1
+3787433630 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787450961 = Verdict: Solved ; Iters: 12886221 ; Length: -1
+3787474019 = Verdict: Solved ; Iters: 17475330 ; Length: -1
+3787478905 = Verdict: Unsolved ; Iters: 16498469 ; Length: -1
+3787482850 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787487667 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+3787487885 = Verdict: Unsolved ; Iters: 15013434 ; Length: -1
+3787576603 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
