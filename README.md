@@ -4,8 +4,8 @@ Finding 8 column deals in the fc-pro range which are solvable with zero
 freecells. The interesting file is `0fc-log.txt` which can be generated using
 the instructions below. "S" there means the following deal is solvable. "Int"
 means that it is intractable and that the solver ran out of resources before
-determining its solvability. If a deal does not appear in the list and is below
-the latest one, then it is impossible.
+determining its solvability. If a deal does not appear in the list,
+then it is impossible.
 
 * [What are the MS Freecell deals?](http://fc-solve.shlomifish.org/faq.html#what_are_ms_deals)
 * [The Freecell FAQ](http://www.solitairelaboratory.com/fcfaq.html)
@@ -20,11 +20,11 @@ g++ -o inc.exe -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program 
 bash concatenate-to-big-log.bash
 g++ -o colstat.exe -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program collect-stats.cpp
 perl stats.pl 0fc-log.txt | perl commify.pl
-Solved: 18,544,293 ( 0.2159 %)
-Intractable: 299,985 ( 0.0035 %)
-Impossible: 8,571,090,313 ( 99.7806 %)
+Solved: 18,565,130 ( 0.2161 %)
+Intractable: 219,891 ( 0.0026 %)
+Impossible: 8,571,149,570 ( 99.7813 %)
 shlomif[0fc]:$this$ ls -l 0fc-log.txt
--rw-r--r--. 1 shlomif shlomif 243149225 Apr  9 14:39 0fc-log.txt
+-rw-r--r--. 1 shlomif shlomif 242227453 Jul 10 19:30 0fc-log.txt
 ```
 
 # Credits
@@ -62,4 +62,4 @@ We made use of [Freecell Solver](http://fc-solve.shlomifish.org/) .
 
 # Related repositories and links
 
-* [Freecell Solver](https://github.com/shlomif/fc-solve) - the readme contains links to other repositories .
+* [Freecell Solver](https://github.com/shlomif/fc-solve) - the readme there contains links to other repositories .
