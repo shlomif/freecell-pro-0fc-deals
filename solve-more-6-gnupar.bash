@@ -8,6 +8,12 @@
 
 . solve_common.bash
 
+min_required_ram="$((30 * 1000 * 1000))"
+if ! perl ./check-for-required-ram.pl "$min_required_ram"
+then
+    exit 1
+fi
+
 # d 58844 ab
 # d 96924 ab
 # d 99673 ab
