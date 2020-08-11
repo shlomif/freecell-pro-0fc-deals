@@ -20,11 +20,11 @@ g++ -o inc.exe -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program 
 bash concatenate-to-big-log.bash
 g++ -o colstat.exe -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program collect-stats.cpp
 perl stats.pl 0fc-log.txt | perl commify.pl
-Solved: 18,565,130 ( 0.2161 %)
-Intractable: 219,891 ( 0.0026 %)
-Impossible: 8,571,149,570 ( 99.7813 %)
+Solved: 18,567,862 ( 0.2162 %)
+Intractable: 209,977 ( 0.0024 %)
+Impossible: 8,571,156,752 ( 99.7814 %)
 shlomif[0fc]:$this$ ls -l 0fc-log.txt
--rw-r--r--. 1 shlomif shlomif 242227453 Jul 10 19:30 0fc-log.txt
+-rw-r--r-- 1 shlomif shlomif 242114259 Aug 11 19:15 0fc-log.txt
 ```
 
 # Credits
