@@ -15660,3 +15660,63 @@ tcmalloc: large alloc 1542381568 bytes == 0x29b5de000 @  0x7feb8faca40d 0x7feb8f
 4525134657 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
 4525168722 = Verdict: Unsolved ; Iters: 22324626 ; Length: -1
 4525203769 = Verdict: Unsolved ; Iters: 13195383 ; Length: -1
+4525345324 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525426562 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525429726 = Verdict: Unsolved ; Iters: 20081181 ; Length: -1
+4525460265 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525477860 = Verdict: Unsolved ; Iters: 20662808 ; Length: -1
+4525543163 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525550610 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+tcmalloc: large alloc 1233903616 bytes == 0x221f8c000 @  0x7fbc2121a40d 0x7fbc2123b9d1 0x4025c2 0x7fbc2105d042 0x4044ee
+4525559360 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+tcmalloc: large alloc 1233903616 bytes == 0x212e2c000 @  0x7f1ae77b740d 0x7f1ae77d89d1 0x4025c2 0x7f1ae75fa042 0x4044ee
+4525569862 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525578334 = Verdict: Unsolved ; Iters: 13203553 ; Length: -1
+4525640257 = Verdict: Unsolved ; Iters: 11690072 ; Length: -1
+4525648022 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525714807 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525720676 = Verdict: Solved ; Iters: 25135927 ; Length: -1
+4525735305 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+tcmalloc: large alloc 1233903616 bytes == 0x1e807a000 @  0x7feb1540840d 0x7feb154299d1 0x4025c2 0x7feb1524b042 0x4044ee
+4525738218 = Verdict: Unsolved ; Iters: 10364826 ; Length: -1
+4525766178 = Verdict: Unsolved ; Iters: 25887275 ; Length: -1
+4525773454 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525793914 = Verdict: Unsolved ; Iters: 12562418 ; Length: -1
+4525794260 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525798121 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525845296 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525880948 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4525885349 = Verdict: Solved ; Iters: 15640805 ; Length: -1
+4525969239 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+tcmalloc: large alloc 1233903616 bytes == 0x214d4a000 @  0x7fb17d20f40d 0x7fb17d2309d1 0x4025c2 0x7fb17d052042 0x4044ee
+4526005442 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+tcmalloc: large alloc 1233903616 bytes == 0x2ceb80000 @  0x7effc274240d 0x7effc27639d1 0x4025c2 0x7effc2585042 0x4044ee
+tcmalloc: large alloc 1542381568 bytes == 0x35e16a000 @  0x7effc274240d 0x7effc27639d1 0x4025c2 0x7effc2585042 0x4044ee
+4526039785 = Verdict: Solved ; Iters: 10271548 ; Length: -1
+4526061543 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+tcmalloc: large alloc 1233903616 bytes == 0x26aea6000 @  0x7f6b6112040d 0x7f6b611419d1 0x4025c2 0x7f6b60f63042 0x4044ee
+4526070785 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526097657 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526103215 = Verdict: Solved ; Iters: 10062397 ; Length: -1
+4526104036 = Verdict: Solved ; Iters: 10990518 ; Length: -1
+4526134326 = Verdict: Unsolved ; Iters: 10181164 ; Length: -1
+4526144903 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526188780 = Verdict: Unsolved ; Iters: 29632527 ; Length: -1
+4526222177 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526223204 = Verdict: Unsolved ; Iters: 14623082 ; Length: -1
+4526298871 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526312409 = Verdict: Unsolved ; Iters: 20705179 ; Length: -1
+4526356153 = Verdict: Unsolved ; Iters: 18377739 ; Length: -1
+4526416452 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526446894 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526455173 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526528021 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526551259 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526586000 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526598571 = Verdict: Unsolved ; Iters: 24892819 ; Length: -1
+4526607353 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526632222 = Verdict: Unsolved ; Iters: 11451095 ; Length: -1
+4526639578 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526678927 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526711922 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4526712191 = Verdict: Solved ; Iters: 13804979 ; Length: -1
