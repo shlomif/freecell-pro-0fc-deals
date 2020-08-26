@@ -29642,3 +29642,18 @@ tcmalloc: large alloc 3765600256 bytes == 0x562202000 @  0x7fee8629a40d 0x7fee86
 tcmalloc: large alloc 1233903616 bytes == 0x3c0baa000 @  0x7fcba95c940d 0x7fcba95ea9d1 0x403339 0x40190b 0x7fcba940c042 0x4012ce
 4991432600 = Verdict: Unsolved ; Iters: 19423675 ; Length: -1
 4991439901 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4991440328 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4991444215 = Verdict: Unsolved ; Iters: 28349177 ; Length: -1
+4991454737 = Verdict: Solved ; Iters: 29531866 ; Length: -1
+4991456317 = Verdict: Unsolved ; Iters: 12301050 ; Length: -1
+4991480135 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4991585698 = Verdict: Solved ; Iters: 22838416 ; Length: -1
+4991591039 = Verdict: Unsolved ; Iters: 11247991 ; Length: -1
+4991598379 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4991647428 = Verdict: Unsolved ; Iters: 13354978 ; Length: -1
+4991692776 = Verdict: Unsolved ; Iters: 14042430 ; Length: -1
+4991720000 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4991727901 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4991733549 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+4991763073 = Verdict: Unsolved ; Iters: 24215992 ; Length: -1
+4991875657 = Verdict: Unsolved ; Iters: 28789404 ; Length: -1
