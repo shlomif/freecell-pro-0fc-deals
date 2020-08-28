@@ -13,6 +13,7 @@ then it is impossible.
 # Instructions:
 
 ```
+[shlomif@localhost freecell-pro-0fc-deals]$ -t 0fc
 shlomif[0fc]:$this$ pwd
 /home/shlomif/Download/unpack/games/freecell/freecell-pro-0fc-deals
 shlomif[0fc]:$this$ gmake
@@ -20,11 +21,11 @@ g++ -o inc.exe -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program 
 bash concatenate-to-big-log.bash
 g++ -o colstat.exe -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program collect-stats.cpp
 perl stats.pl 0fc-log.txt | perl commify.pl
-Solved: 18,569,284 ( 0.2162 %)
-Intractable: 204,645 ( 0.0024 %)
-Impossible: 8,571,160,662 ( 99.7814 %)
+Solved: 18,570,560 ( 0.2162 %)
+Intractable: 199,958 ( 0.0023 %)
+Impossible: 8,571,164,073 ( 99.7815 %)
 shlomif[0fc]:$this$ ls -l 0fc-log.txt
--rw-r--r--. 1 shlomif shlomif 242052765 Aug 24 14:04 0fc-log.txt
+-rw-r--r--. 1 shlomif shlomif 241999048 Aug 28 08:52 0fc-log.txt
 ```
 
 # Credits
