@@ -5,7 +5,7 @@ freecells. The interesting file is `0fc-log.txt` which can be generated using
 the instructions below. "S" there means the following deal is solvable. "Int"
 means that it is intractable and that the solver ran out of resources before
 determining its solvability. If a deal does not appear in the list,
-then it is impossible.
+then it is impossible to solve using zero freecells.
 
 * [What are the MS Freecell deals?](http://fc-solve.shlomifish.org/faq.html#what_are_ms_deals)
 * [The Freecell FAQ](http://www.solitairelaboratory.com/fcfaq.html)
@@ -60,6 +60,10 @@ We made use of [perl 5](https://dev.perl.org/perl5/) .
 ## Freecell Solver
 
 We made use of [Freecell Solver](http://fc-solve.shlomifish.org/) .
+
+## Travis-CI
+
+We have made use of [Travis-CI](https://travis-ci.org/).
 
 # Related repositories and links
 
