@@ -20,7 +20,7 @@ fi
 # d 100260 ab
 back_to_246e7_deals='false'
 
-out='solve-more-11--5e9--log.txt'
+out='solve-more-11--6e9--log.txt'
 export MINSTART="$((50 * 10 ** 8))"
 if $back_to_246e7_deals
 then
