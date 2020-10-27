@@ -27,7 +27,8 @@ sub _key
 # "solve-more-3-log.txt", "solve-more-3--1e9--log.txt",
 # "solve-more-4-log.txt", )
 # foreach my $fn ( "solve-more-8--5e9--log.txt", "solve-more-8--6e9--log.txt", )
-foreach my $fn ( "solve-more-11--4e9--log.txt", "solve-more-11--5e9--log.txt",
+# "solve-more-11--4e9--log.txt",
+foreach my $fn ( "solve-more-11--5e9--log.txt", "solve-more-11--6e9--log.txt",
     "solve-more-12--246e7--log.txt",
     )
 {
