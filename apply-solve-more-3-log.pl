@@ -11,6 +11,11 @@ use Path::Tiny qw/ path /;
 
 use vars qw/ %sol %imp /;
 
+sub _digit
+{
+    return int( shift() / 1_000_000_000 );
+}
+
 sub _key
 {
     return int( shift() / 1e8 );
@@ -33,6 +38,9 @@ foreach my $fn ( "solve-more-11--4e9--log.txt", "solve-more-11--5e9--log.txt",
     $buf =~ s#Trying deal = ([0-9]+) using 0AB\n\n?This game is solveable.#
         $sol{_key($1)}{$1} = 1;
         #egms;
+    my %digits;
+    $buf =~
+s#^(([0-9]+) =)#my($m, $deal)=($1,$2);$digits{_digit($deal)}=1; die if scalar(keys%digits)>1;$m#egms;
     my @lines = split /^/ms, $buf;
 
 LIN:
