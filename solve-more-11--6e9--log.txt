@@ -6391,3 +6391,8 @@
 6216295715 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
 6216360284 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
 6216430371 = Verdict: Unsolved ; Iters: 15212484 ; Length: -1
+6216459868 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+6216526975 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+6216535926 = Verdict: Unsolved ; Iters: 13533885 ; Length: -1
+6216537595 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+6216538059 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
