@@ -1,8 +1,3 @@
-#
-# Makefile
-# shlomif, 2018-04-06 18:32
-#
-
 all: inc.exe stats
 
 CXXFLAGS = -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program

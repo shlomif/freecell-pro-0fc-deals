@@ -14,6 +14,7 @@ then
     exit 1
 fi
 
+total_log_fn="0fc-log.txt"
 # d 58844 ab
 # d 96924 ab
 # d 99673 ab
@@ -33,9 +34,15 @@ if test "$START" -lt "$MINSTART"
 then
     START="$MINSTART"
 fi
+
+if ! test -f "$total_log_fn"
+then
+    gmake log
+fi
+
 gen_deals()
 {
-    < 0fc-log.txt perl -lnE 'if (my ($deal) = /\AInt\t([0-9]+)\z/){ if ($deal > $ENV{START}) { say $deal;} }'
+    < "$total_log_fn" perl -lnE 'if (my ($deal) = /\AInt\t([0-9]+)\z/){ if ($deal > $ENV{START}) { say $deal;} }'
 }
 log_sink()
 {
