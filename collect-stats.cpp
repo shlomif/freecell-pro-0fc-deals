@@ -9,20 +9,23 @@
 #include <iostream>
 #include <string>
 
-int main(int, const char *argv[])
+int main(const int argc, const char *argv[])
 {
-    std::ifstream f(argv[1], std::ios::in);
-    std::string l;
     unsigned long long S = 0, I = 0;
-    while (getline(f, l))
+    for (int fn_idx = 1; fn_idx < argc; fn_idx++)
     {
-        if (l[0] == 'S')
+        std::ifstream f(argv[fn_idx], std::ios::in);
+        std::string l;
+        while (getline(f, l))
         {
-            ++S;
-        }
-        else
-        {
-            ++I;
+            if (l[0] == 'S')
+            {
+                ++S;
+            }
+            else
+            {
+                ++I;
+            }
         }
     }
     std::cout << "S\t" << S << std::endl << "Int\t" << I << std::endl;

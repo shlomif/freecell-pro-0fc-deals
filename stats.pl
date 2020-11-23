@@ -4,11 +4,12 @@ use strict;
 use warnings;
 use List::Util qw/ sum /;
 
-my %stats = split /\s+/, `./colstat.exe @ARGV`;
+my @log_fns = ( @ARGV ? @ARGV : glob("0fc-logs/*.log.txt") );
+my %stats   = split /\s+/, `./colstat.exe @log_fns`;
 
-# my %stats = split /\s+/, `perl collect-stats.pl @ARGV`;
-# my %stats  = split /\s+/, `pypy collect-stats.py @ARGV`;
-# my %stats  = split /\s+/, `python2 collect-stats.py @ARGV`;
+# my %stats = split /\s+/, `perl collect-stats.pl @log_fns`;
+# my %stats  = split /\s+/, `pypy collect-stats.py @log_fns`;
+# my %stats  = split /\s+/, `python2 collect-stats.py @log_fns`;
 my $tot    = ( ( 1 << 33 ) - 1 );
 my $remain = $tot - sum values %stats;
 $stats{Imp} = $remain;

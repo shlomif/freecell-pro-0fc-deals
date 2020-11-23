@@ -13,12 +13,15 @@ colstat.exe: collect-stats.cpp
 inc.exe: inc-nums.cpp
 	g++ -o $@ $(CXXFLAGS) $<
 
-0fc-log.txt: $(wildcard 0fc-logs/*.log.txt)
+CONCATENATED_LOG := 0fc-log.txt
+SUBLOGS = $(wildcard 0fc-logs/*.log.txt)
+
+$(CONCATENATED_LOG): $(SUBLOGS)
 	bash concatenate-to-big-log.bash
 
 check: test
 
-test: all 0fc-log.txt
+test: all $(CONCATENATED_LOG)
 	prove t/*.t
 
 total: test put diff
@@ -31,8 +34,8 @@ diff:
 
 PERL = perl
 
-stats: 0fc-log.txt colstat.exe
-	$(PERL) stats.pl $< | $(PERL) commify.pl
+stats: $(CONCATENATED_LOG) colstat.exe
+	$(PERL) stats.pl | $(PERL) commify.pl
 
 # vim:ft=make
 #
