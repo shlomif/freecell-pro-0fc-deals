@@ -9881,3 +9881,8 @@
 6336433451 = Verdict: Unsolved ; Iters: 25848268 ; Length: -1
 6336433686 = Verdict: Solved ; Iters: 12424554 ; Length: -1
 6336499641 = Verdict: Unsolved ; Iters: 13333433 ; Length: -1
+6336528632 = Verdict: Unsolved ; Iters: 12517242 ; Length: -1
+6336544951 = Verdict: Unsolved ; Iters: 22222471 ; Length: -1
+6336556538 = Verdict: Unsolved ; Iters: 19548044 ; Length: -1
+6336625103 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+6336633748 = Verdict: Unsolved ; Iters: 12346869 ; Length: -1
