@@ -1,12 +1,13 @@
 all: inc.exe stats
 
+CXX ?= clang++
 CXXFLAGS = -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program
 
 colstat.exe: collect-stats.cpp
-	clang++ -o $@ $(CXXFLAGS) $<
+	$(CXX) -o $@ $(CXXFLAGS) $<
 
 inc.exe: inc-nums.cpp
-	clang++ -o $@ $(CXXFLAGS) $<
+	$(CXX) -o $@ $(CXXFLAGS) $<
 
 CONCATENATED_LOG := 0fc-log.txt
 SUBLOGS = $(wildcard 0fc-logs/*.log.txt)

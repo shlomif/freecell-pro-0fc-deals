@@ -7,7 +7,7 @@ cache:
     ccache: true
     directories:
         - $HOME/perl_modules
-dist: bionic
+dist: ferrous
 sudo: false
 language: perl
 perl:
@@ -32,4 +32,4 @@ install:
     - cpanm --notest Date::Format || (cat ~/.cpanm/work/*/build.log ; false)
     - cpanm --skip-satisfied Number::Format Path::Tiny Perl::Tidy Test::Code::TidyAll Test::Perl::Critic Test::TrailingSpace || (cat ~/.cpanm/work/*/build.log ; false)
 script:
-    - make test
+    - CXX="g++" make test
