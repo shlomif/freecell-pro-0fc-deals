@@ -18,14 +18,15 @@ shlomif[0fc]:$this$ pwd
 /home/shlomif/Download/unpack/games/freecell/freecell-pro-0fc-deals
 shlomif[0fc]:$this$ gmake
 g++ -o inc.exe -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program inc-nums.cpp
-bash concatenate-to-big-log.bash
 g++ -o colstat.exe -std=c++11 -Wall -Wextra -O3 -march=native -flto -fwhole-program collect-stats.cpp
-perl stats.pl 0fc-log.txt | perl commify.pl
-Solved: 18,573,304 ( 0.2162 %)
-Intractable: 189,682 ( 0.0022 %)
-Impossible: 8,571,171,605 ( 99.7816 %)
+perl stats.pl | perl commify.pl
+Solved: 18,577,014 ( 0.2163 %)
+Intractable: 175,903 ( 0.002 %)
+Impossible: 8,571,181,674 ( 99.7817 %)
+shlomif[0fc]:$this$ gmake 0fc-log.txt
+bash concatenate-to-big-log.bash
 shlomif[0fc]:$this$ ls -l 0fc-log.txt
--rw-r--r--. 1 shlomif shlomif 241880580 Oct  3 08:40 0fc-log.txt
+-rw-r--r--. 1 shlomif shlomif 241722125 Mar 14 13:41 0fc-log.txt
 ```
 
 # Credits
