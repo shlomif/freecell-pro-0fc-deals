@@ -20168,3 +20168,10 @@ Terminated
 6687391735 = Verdict: Solved ; Iters: 25981527 ; Length: -1
 6687409254 = Verdict: Solved ; Iters: 13108438 ; Length: -1
 6687437254 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+6687499465 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+6687504035 = Verdict: Unsolved ; Iters: 25789144 ; Length: -1
+6687617425 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+6687644554 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+6687770406 = Verdict: Intractable ; Iters: 30000000 ; Length: -1
+6687775727 = Verdict: Unsolved ; Iters: 11794282 ; Length: -1
+6687820381 = Verdict: Solved ; Iters: 16752141 ; Length: -1
