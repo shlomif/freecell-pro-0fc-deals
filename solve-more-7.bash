@@ -6,7 +6,7 @@
 # Distributed under the terms of the MIT license.
 #
 
-export MAX_ITERS="${MAX_ITERS:-3000000}"
+export MAX_ITERS="${MAX_ITERS:-30000000}"
 . solve_common.bash
 
 # d 58844 ab
@@ -24,7 +24,7 @@ fi
 < 0fc-log.txt perl -lnE 'say $1 if /\AInt\t([0-9]+)\z/ && $1 >= $ENV{START}' | \
     (while read deal
     do
-        d "$deal" ab_tail
-        # d "$deal" dbm_tail
+        # d "$deal" ab_tail
+        d "$deal" dbm_tail
     done) 2>&1 | \
     tee -a "$out"
