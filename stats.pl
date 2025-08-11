@@ -13,8 +13,11 @@ my %stats   = split /\s+/, `./colstat.exe @log_fns`;
 my $tot    = ( ( 1 << 33 ) - 1 );
 my $remain = $tot - sum values %stats;
 $stats{Imp} = $remain;
-foreach my $rec ( [ 'Solved', 'S' ], [ 'Intractable', 'Int' ],
-    [ 'Impossible', 'Imp' ] )
+foreach my $rec (
+    [ 'Solved',      'S' ],
+    [ 'Intractable', 'Int' ],
+    [ 'Impossible',  'Imp' ]
+    )
 {
     my ( $txt, $key ) = @$rec;
     my $val   = $stats{$key};
