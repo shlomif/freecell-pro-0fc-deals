@@ -9,6 +9,7 @@
 export MAX_ITERS="${MAX_ITERS:-3200000000000}"
 
 deal=1
+should_notify="true"
 use_filter="true"
 s()
 {
@@ -92,4 +93,8 @@ d()
             "$method"
         fi
     done
+    if test "${should_notify}" = "true"
+    then
+        notifier notify --msg "freecell process for deal ${deal} has completed" || true
+    fi
 }
