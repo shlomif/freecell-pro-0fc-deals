@@ -6,9 +6,10 @@
 # Distributed under terms of the MIT license.
 #
 
-export MAX_ITERS="${MAX_ITERS:-32000000}"
+export MAX_ITERS="${MAX_ITERS:-3200000000000}"
 
 deal=1
+use_filter="true"
 s()
 {
     deal="$1"
@@ -60,6 +61,17 @@ rand()
     _sol -me random-dfs -seed "$seed" -to '[0AB]' -sp r:tf -mi 8000000 | verify-solitaire-solution --freecells-num 0
 }
 
+if test -z "$out_dir"
+then
+    out_dir="$HOME"
+fi
+
+filter()
+{
+    out_fn="${out_dir}/depth-dbm-freecell-solver--0freecells--ms${deal}--clang--ts=$(date "+%s").log.txt"
+    timestamper-with-elapsed --from-start --output="${out_fn}"
+}
+
 d()
 {
     local mydeal="$1"
@@ -73,6 +85,11 @@ d()
     fi
     for method in "$@"
     do
-        "$method"
+        if test "${use_filter}" = "true"
+        then
+            "$method" | filter
+        else
+            "$method"
+        fi
     done
 }
