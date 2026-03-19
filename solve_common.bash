@@ -70,6 +70,7 @@ fi
 filter()
 {
     out_fn="${out_dir}/depth-dbm-freecell-solver--0freecells--ms${deal}--clang--ts=$(date "+%s").log.txt"
+    # See https://metacpan.org/dist/App-Timestamper-WithElapsed
     timestamper-with-elapsed --from-start --output="${out_fn}"
 }
 
@@ -95,6 +96,7 @@ d()
     done
     if test "${should_notify}" = "true"
     then
+        # See https://www.shlomifish.org/open-source/projects/notifier-apps/
         notifier notify --msg "freecell process for deal ${deal} has completed" || true
     fi
 }
