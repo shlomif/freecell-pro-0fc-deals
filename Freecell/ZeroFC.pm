@@ -57,6 +57,35 @@ sub _reached_deal
     return $ret_deal;
 }
 
+sub _next_deal
+{
+    my ( $self, $lists_dirpath, $reached_deal, ) = @_;
+
+    if ( not( $reached_deal > 0 ) )
+    {
+        Carp::confess("reached_deal is invalid");
+    }
+
+    my $ret_deal = -1;
+    foreach my $fh ( sort { $a->basename() cmp $b->basename() }
+        path($lists_dirpath)->child('./0fc-logs/')->children(qr/\.log\.txt\z/) )
+    {
+        my @lines = $fh->lines_utf8();
+        foreach my $l (@lines)
+        {
+            if ( my ($n) = $l =~ /\AInt\t([0-9]+)\n\z/ )
+            {
+                if ( $n > $reached_deal )
+                {
+                    return $n;
+                }
+            }
+        }
+    }
+
+    Carp::confess("error");
+}
+
 1;
 
 __END__
