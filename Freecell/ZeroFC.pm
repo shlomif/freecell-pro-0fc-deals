@@ -86,6 +86,13 @@ sub _next_deal
     Carp::confess("error");
 }
 
+if ( ( my $mode = delete( $ENV{MODE} ) ) eq "nextdeal" )
+{
+    my $self         = Freecell::ZeroFC->new();
+    my $reached_deal = $self->_reached_deal( [ path( $ENV{HOME} ) ] );
+    print $self->_next_deal( ".", $reached_deal, );
+}
+
 1;
 
 __END__

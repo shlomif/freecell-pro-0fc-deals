@@ -100,3 +100,16 @@ d()
         notifier notify --msg "freecell process for deal ${deal} has completed" || true
     fi
 }
+
+run_next()
+{
+    local deal="$(MODE=nextdeal perl Freecell/ZeroFC.pm)"
+    d "$deal" dbm
+}
+
+r()
+{
+    set -x
+    run_next "$@"
+}
+
