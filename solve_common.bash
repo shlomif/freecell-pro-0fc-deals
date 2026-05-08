@@ -8,6 +8,16 @@
 
 export MAX_ITERS="${MAX_ITERS:-3200000000000}"
 
+if test -z "$FREECELL_ZEROFC_LOGS_DIR"
+then
+    export FREECELL_ZEROFC_LOGS_DIR="${HOME}/Arcs/freecell-0fc/logs1"
+fi
+
+if ! test -d "$FREECELL_ZEROFC_LOGS_DIR"
+then
+    mkdir -p "$FREECELL_ZEROFC_LOGS_DIR"
+fi
+
 deal=1
 should_notify="true"
 use_filter="true"
@@ -64,7 +74,8 @@ rand()
 
 if test -z "$out_dir"
 then
-    out_dir="$HOME"
+    # out_dir="$HOME"
+    out_dir="$FREECELL_ZEROFC_LOGS_DIR"
 fi
 
 filter()

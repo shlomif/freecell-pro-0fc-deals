@@ -88,8 +88,10 @@ sub _next_deal
 
 if ( ( my $mode = delete( $ENV{MODE} ) ) eq "nextdeal" )
 {
-    my $self         = Freecell::ZeroFC->new();
-    my $reached_deal = $self->_reached_deal( [ path( $ENV{HOME} ) ] );
+    my $self    = Freecell::ZeroFC->new();
+    my $dirname = $ENV{FREECELL_ZEROFC_LOGS_DIR}
+        or Carp::confess("no FREECELL_ZEROFC_LOGS_DIR");
+    my $reached_deal = $self->_reached_deal( [ path($dirname) ] );
     print $self->_next_deal( ".", $reached_deal, );
 }
 
